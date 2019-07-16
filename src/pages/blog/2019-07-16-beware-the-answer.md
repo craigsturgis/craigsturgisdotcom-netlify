@@ -11,7 +11,7 @@ tags:
   - agile
   - lean
 ---
-[Don't Smash Em](/img/stone-tablet-wide.jpg)
+![Don't Smash Em](/img/stone-tablet-wide.jpg)
 
 In almost all fields, most people are searching for "the answer." The silver bullet, the cracked code. Product development is no different.
 
