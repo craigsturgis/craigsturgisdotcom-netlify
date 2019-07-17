@@ -13,7 +13,7 @@ ne of those most ingenious features of modern, rule of law governments is how po
 
 ![Check out my drawing skillz][1]
 
-[1]: /images/the-triangle.png
+[1]: /img/the-triangle.png
 
 Uber, AirBnB, and Slack are just a few of the most prominent examples of how evolving from a "requirements" vs. technology approach to proudly experience driven products can be transformative. Not only to the markets they operate in, but to everyone's expectations of how products and services should work in a world where every company needs to be a technology company.
 
