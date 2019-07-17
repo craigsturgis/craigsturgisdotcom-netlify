@@ -9,7 +9,7 @@ tags:
   - product
   - tech companies
 ---
-ne of those most ingenious features of modern, rule of law governments is how power is separated and provides a system of checks and balances. It's a fundamental assumption that different branches have to remain balanced over time to keep a state functioning well without authoritarianism. Carrying that concept into product development could be incredibly valuable for companies as they try to make and keep their products great.
+One of those most ingenious features of modern, rule of law governments is how power is separated and provides a system of checks and balances. It's a fundamental assumption that different branches have to remain balanced over time to keep a state functioning well without authoritarianism. Carrying that concept into product development could be incredibly valuable for companies as they try to make and keep their products great.
 
 ![Check out my drawing skillz][1]
 
