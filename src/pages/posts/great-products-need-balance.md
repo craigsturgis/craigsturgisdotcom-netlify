@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post
 title: Great Products Need Balance
 date: 2016-05-11T02:26:00.000Z
 description: ' '

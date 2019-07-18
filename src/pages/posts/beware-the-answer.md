@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post
 title: Beware the Answer
 date: 2017-07-18T12:06:00.000Z
 description: A pep talk to myself and others
