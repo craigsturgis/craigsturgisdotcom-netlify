@@ -9,6 +9,7 @@ tags:
   - product
   - technology
 ---
+![Everybody's first pedal for like 20 years](/img/Boss-DS-1.jpg)
 
 It's no secret that there's an ongoing, accelerating proliferation of tools for makers of software, especially if you write code. New and evolving programming languages, frameworks, libraries, databases, PaaS offerings, and more show up seemingly every day.
 
