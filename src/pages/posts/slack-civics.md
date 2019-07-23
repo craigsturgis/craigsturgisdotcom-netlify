@@ -9,6 +9,8 @@ tags:
   - tech in operations
   - culture
 ---
+![Everybody can't just yell at once](/img/discurso_funebre_pericles.png)
+
 Recently as Slack has continued its rise as a primary tool for people to communicate, there's been a bit of a backlash against some of the behaviors that result.
 
 One person sent their [dear John letter][1], 37Signals' Jason Fried shared his [strong opinion][2] on the subject, and Ars Technica also released a more [comprehensive piece][3] on Slack centered workplaces from a more observational point of view.
