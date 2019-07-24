@@ -41,7 +41,7 @@ So, starting with my beloved [iPad Air 2][3] I mostly use to read, I acquired a 
 [4]: http://amzn.to/1ODjpBA
 [5]: http://www.pier1.com/Campaign-C-Table/2729209,default,pd.html?cgid=c-tables#start=1
 [6]: http://amzn.to/1WuGeZV
-[7]: /images/couch-ipad.jpg
+[7]: /img/couch-ipad.jpg
 
 ##iOS 9
 The thing that really makes all this work is the expanded keyboard support for iPads in the newly released iOS 9. Just the ability to cmd+tab between apps and cmd+space spotlight searches almost makes me feel like I'm right at home on a mac. It's not quite 100% there, but it's way better than other attempts I've made in the past. Often I prefer the more constrained approach to multitasking, especially when I am most likely already doing so by looking at a big screen in the first place.
