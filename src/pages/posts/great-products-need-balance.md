@@ -7,7 +7,7 @@ featuredpost: true
 featuredimage: /img/the-triangle.png
 tags:
   - product
-  - tech companies
+  - tech in operations
 ---
 One of those most ingenious features of modern, rule of law governments is how power is separated and provides a system of checks and balances. It's a fundamental assumption that different branches have to remain balanced over time to keep a state functioning well without authoritarianism. Carrying that concept into product development could be incredibly valuable for companies as they try to make and keep their products great.
 

@@ -1,6 +1,6 @@
 ---
 templateKey: post
-title: "What It Means to Rock -OR- Reflections on Guitar Hero"
+title: "What It Means to Rock OR Reflections on Guitar Hero"
 date: 2007-09-17T05:00:00.000Z
 description: >-
   Reflection on Guitar Hero vs. being on stage
@@ -14,12 +14,11 @@ tags:
 
  [1]: http://craigtsoandso.blogspot.com/2007/09/what-it-means-to-rock-or-reflections-on.html
 
-[![Guitars][2]][3]
+![Guitars](/img/guitarhero-small.jpg)
 
 Someone at Harmonix is/was a goddamn genius.[^1] It was Newton who said “If I have seen farther it is by standing on the shoulders of Giants,” but whoever came up with the idea of Guitar Hero by standing on the shoulders of Dance Dance Revolution deserves the highest entrepreneurial accolades possible.
 
  [^1]: To be fair, that person probably doesn't feel so smart now. (08/2013) 
- [2]: /img/guitarhero-small.jpg
  [3]: /img/guitarhero-full.jpg
 
 Rhythm games themselves are not new, and Dance Dance Revolution (henceforth referred to as DDR) was the most popular. I remember when I was living in the dorms at Purdue seeing random people in the floor lounges and at the arcade in the union / in the bowling alley wildly convulsing over floor sensors, and having an absolutely fantastic time doing it. However, in order to participate in DDR, you either have to be unaware of how silly you look, or just not care (the recommended choice).
@@ -37,7 +36,7 @@ In the end, when enjoying the game for what it is, an incredibly fun virtual fan
  [4]: http://indymojo.com
  [^2]: I don't think Indymojo has a guitar hero or Monday Night Football get together anymore. (08/2013)
 
-However, even with my small time [band ][5]that plays covers most of the time because it’s the easiest way to get people to listen to our originals (and also because it’s fun to play songs that you like from bands people know), the feeling of playing to a crowd of people who are enjoying the music and responding to what’s going on up on stage is a million times more of a rush than hitting the star power or getting achievements. That’s why guitar hero[^3] is insanely fun, but it absolutely, positively does not rock.
+However, even with my small time [band][5]that plays covers most of the time because it’s the easiest way to get people to listen to our originals (and also because it’s fun to play songs that you like from bands people know), the feeling of playing to a crowd of people who are enjoying the music and responding to what’s going on up on stage is a million times more of a rush than hitting the star power or getting achievements. That’s why guitar hero[^3] is insanely fun, but it absolutely, positively does not rock.
 
  [5]: http://myspace.com/avgheight
  [^3]: I miss owning that SG in the top picture sometimes even though it had an neck that would never let the guitar stay in tune for long. Pour one out for the Guitar Hero / Rock Band franchise. (08/2013)

@@ -9,14 +9,7 @@ featuredimage: /img/default-post.jpg
 tags:
   - reflection
 ---
----
-title: Best Face Forward
-author: Craig
-layout: post
-permalink: /2008/12/best-face-forward/
-categories:
-  - Technology
----
+
 *(Note: This post originally appeared on the now defunct craigtsoandso.com. Datestamped footnotes with commentary may have been added for my own reflection and amusement.)*
 
 I’m not a narcissist, at least as far as I can self diagnose. But, I think the way people use the internet and especially social networking is introducing a bit of narcissism that is very difficult to escape as a member of the connected population at large.

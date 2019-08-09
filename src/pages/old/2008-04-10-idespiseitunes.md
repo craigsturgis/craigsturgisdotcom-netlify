@@ -9,15 +9,7 @@ featuredimage: /img/default-post.jpg
 tags:
   - reflection
 ---
----
-title: 'iDespise iTunes*'
-author: Craig
-layout: post
-permalink: /2008/04/idespiseitunes/
-categories:
-  - Music
-  - Technology
----
+
 *(Note: This post originally appeared on the now defunct craigtsoandso.com. Datestamped footnotes with commentary may have been added for my own reflection and amusement.)*
 
 *(The application, on windows)
