@@ -1,5 +1,5 @@
 ---
-templateKey: post
+templateKey: archive-post
 title: "I Wish I Could Save Her In Some Sort of Time Machine"
 date: 2007-09-17T05:00:00.000Z
 description: >-

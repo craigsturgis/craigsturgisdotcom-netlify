@@ -1,5 +1,5 @@
 ---
-templateKey: post
+templateKey: archive-post
 title: "Passion of the Craig"
 date: 2007-11-13T05:00:00.000Z
 description: >-

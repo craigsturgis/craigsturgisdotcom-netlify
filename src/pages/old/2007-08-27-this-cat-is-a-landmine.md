@@ -1,5 +1,5 @@
 ---
-templateKey: post
+templateKey: archive-post
 title: "this cat is a landmine"
 date: 2007-08-27T05:00:00.000Z
 description: >-

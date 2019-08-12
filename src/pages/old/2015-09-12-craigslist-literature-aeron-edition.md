@@ -1,5 +1,5 @@
 ---
-templateKey: post
+templateKey: archive-post
 title: 'Craigslist literature: Aeron Edition'
 date: 2015-09-12T16:41:00.000Z
 description: >-

@@ -1,5 +1,5 @@
 ---
-templateKey: post
+templateKey: archive-post
 title: "Human Body as Machine"
 date: 2011-02-11T04:00:00.000Z
 description: >-

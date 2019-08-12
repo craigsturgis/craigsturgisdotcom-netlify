@@ -1,5 +1,5 @@
 ---
-templateKey: post
+templateKey: archive-post
 title: "&#8220;Disconnect&#8221;"
 date: 2012-08-22T06:00:00.000Z
 description: >-

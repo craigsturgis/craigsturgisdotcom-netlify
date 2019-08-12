@@ -1,5 +1,5 @@
 ---
-templateKey: post
+templateKey: archive-post
 title: "The Learning Stops When the Writing Stops"
 date: 2015-04-27T04:52:00.000Z
 description: >-

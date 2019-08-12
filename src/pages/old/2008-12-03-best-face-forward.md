@@ -1,5 +1,5 @@
 ---
-templateKey: post
+templateKey: archive-post
 title: "Best Face Forward"
 date: 2008-12-03T05:00:00.000Z
 description: >-

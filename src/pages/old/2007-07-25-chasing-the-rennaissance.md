@@ -1,5 +1,5 @@
 ---
-templateKey: post
+templateKey: archive-post
 title: "Chasing the Rennaissance"
 date: 2007-07-25T05:00:00.000Z
 description: >-

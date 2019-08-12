@@ -1,5 +1,5 @@
 ---
-templateKey: post
+templateKey: archive-post
 title: "All Time Top Five Vol. 1"
 date: 2007-07-26T05:00:00.000Z
 description: >-

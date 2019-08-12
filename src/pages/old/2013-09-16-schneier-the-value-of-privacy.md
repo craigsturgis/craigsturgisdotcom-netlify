@@ -1,5 +1,5 @@
 ---
-templateKey: post
+templateKey: archive-post
 title: "Schneier: The Value of Privacy"
 date: 2013-09-16T04:36:00.000Z
 description: >-

@@ -1,5 +1,5 @@
 ---
-templateKey: post
+templateKey: archive-post
 title: "Melonhead"
 date: 2007-08-20T05:00:00.000Z
 description: >-

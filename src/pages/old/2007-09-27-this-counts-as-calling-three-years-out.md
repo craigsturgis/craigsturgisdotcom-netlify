@@ -1,5 +1,5 @@
 ---
-templateKey: post
+templateKey: archive-post
 title: "This Counts as Calling Three Years Out"
 date: 2007-09-27T05:00:00.000Z
 description: >-

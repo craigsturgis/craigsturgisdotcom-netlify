@@ -1,5 +1,5 @@
 ---
-templateKey: post
+templateKey: archive-post
 title: "Quoth Sir Charles"
 date: 2013-02-01T00:00:00.000Z
 description: >-

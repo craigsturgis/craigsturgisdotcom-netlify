@@ -1,5 +1,5 @@
 ---
-templateKey: post
+templateKey: archive-post
 title: My Couch is Nerdier Than Most
 date: 2015-09-29T03:00:00.000Z
 description: iPad ergonomics and football

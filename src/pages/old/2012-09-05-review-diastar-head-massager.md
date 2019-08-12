@@ -1,5 +1,5 @@
 ---
-templateKey: post
+templateKey: archive-post
 title: "Review: Diastar Head Massager"
 date: 2012-09-05T00:00:00.000Z
 description: >-

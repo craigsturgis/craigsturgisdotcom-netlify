@@ -1,5 +1,5 @@
 ---
-templateKey: post
+templateKey: archive-post
 title: "Git Your Ass to Markdown"
 date: 2013-08-22T03:43:00.000Z
 description: >-

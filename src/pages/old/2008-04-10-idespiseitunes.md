@@ -1,5 +1,5 @@
 ---
-templateKey: post
+templateKey: archive-post
 title: "iDespise iTunes*"
 date: 2008-04-10T05:00:00.000Z
 description: >-

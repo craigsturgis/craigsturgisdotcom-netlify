@@ -1,5 +1,5 @@
 ---
-templateKey: post
+templateKey: archive-post
 title: "Ok Fine, But Keep Those Stupid White Headphones Away From Me"
 date: 2007-09-12T05:00:00.000Z
 description: >-

@@ -1,5 +1,5 @@
 ---
-templateKey: post
+templateKey: archive-post
 title: "Resolutions Are For Jerks"
 date: 2010-02-09T05:00:00.000Z
 description: >-

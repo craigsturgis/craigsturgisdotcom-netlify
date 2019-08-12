@@ -1,5 +1,5 @@
 ---
-templateKey: post
+templateKey: archive-post
 title: Riding the Rails
 date: 2015-09-14T11:03:00.000Z
 description: But backwards

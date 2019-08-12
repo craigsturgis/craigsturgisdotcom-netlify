@@ -1,5 +1,5 @@
 ---
-templateKey: post
+templateKey: archive-post
 title: "Crashed Down on the Edge of Town"
 date: 2012-08-27T00:00:00.000Z
 description: >-

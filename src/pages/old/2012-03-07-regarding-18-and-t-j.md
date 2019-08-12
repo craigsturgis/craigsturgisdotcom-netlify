@@ -1,5 +1,5 @@
 ---
-templateKey: post
+templateKey: archive-post
 title: "Regarding #18 and T.J."
 date: 2012-03-07T04:00:00.000Z
 description: >-
