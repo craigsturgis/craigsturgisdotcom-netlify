@@ -3,7 +3,7 @@ templateKey: post
 title: Slack is the future of team communication, but it won't make your team communicate
 date: 2015-08-17T04:11:21.000Z
 description: ' '
-featuredpost: true
+featuredpost: false
 featuredimage: /img/default-post.jpg
 tags:
   - product

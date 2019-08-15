@@ -3,7 +3,7 @@ templateKey: post
 title: "Developing Product Management[0]: Starter to Finisher"
 date: 2015-08-31T02:28:39.000Z
 description: ' '
-featuredpost: true
+featuredpost: false
 featuredimage: /img/default-post.jpg
 tags:
   - product
