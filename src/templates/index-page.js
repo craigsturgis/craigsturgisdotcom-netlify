@@ -4,10 +4,12 @@ import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
 import Features from '../components/Features'
-import BlogRoll from '../components/BlogRoll'
+import FeaturedRoll from '../components/FeaturedRoll'
+import HeadshotImage from '../components/HeadshotImage'
 
 export const IndexPageTemplate = ({
   image,
+  headshot,
   title,
   heading,
   subheading,
@@ -22,7 +24,7 @@ export const IndexPageTemplate = ({
         backgroundImage: `url(${
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
-        backgroundPosition: `top left`,
+        backgroundPosition: `center`,
         backgroundAttachment: `fixed`,
       }}
     >
@@ -67,6 +69,26 @@ export const IndexPageTemplate = ({
     <section className="section section--gradient">
       <div className="container">
         <div className="section">
+          <div className="columns is-vcentered">
+            <div className="column">
+
+            </div>
+            <div className="column">
+                <div className="content">
+                  <figure class="image">
+                    <img class="is-rounded" src="/img/craig-headshot2017-web-sq.jpg" />
+                  </figure>
+                </div>
+            </div>
+            <div className="column has-text-centered-touch">
+              <p className="title is-4">Writing</p>
+              <p className="title is-4">Experience</p>
+              <p className="title is-4">Mailing List</p>
+            </div>
+            <div className="column">
+
+            </div>
+          </div>
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <div className="content">
@@ -77,15 +99,18 @@ export const IndexPageTemplate = ({
                   <div className="tile">
                     <h3 className="subtitle">{mainpitch.description}</h3>
                   </div>
+                  <div className="tile">
+                    <h3 className="subtitle">{mainpitch.description2}</h3>
+                  </div>
                 </div>
-                <div className="columns">
+                {/* <div className="columns">
                   <div className="column is-12">
                     <h3 className="has-text-weight-semibold is-size-2">
                       {heading}
                     </h3>
                     <p>{description}</p>
                   </div>
-                </div>
+                </div> */}
                 <Features gridItems={intro.blurbs} />
                 {/* <div className="columns">
                   <div className="column is-12 has-text-centered">
@@ -96,9 +121,9 @@ export const IndexPageTemplate = ({
                 </div> */}
                 <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
-                    Latest stories
+                    Featured Posts
                   </h3>
-                  <BlogRoll />
+                  <FeaturedRoll />
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/posts">
                       Read more
@@ -116,6 +141,7 @@ export const IndexPageTemplate = ({
 
 IndexPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+  headshot: PropTypes.object,
   title: PropTypes.string,
   heading: PropTypes.string,
   subheading: PropTypes.string,
@@ -133,6 +159,7 @@ const IndexPage = ({ data }) => {
     <Layout>
       <IndexPageTemplate
         image={frontmatter.image}
+        headshot={frontmatter.headshot}
         title={frontmatter.title}
         heading={frontmatter.heading}
         subheading={frontmatter.subheading}
@@ -166,11 +193,22 @@ export const pageQuery = graphql`
             }
           }
         }
+        headshot {
+          image {
+            childImageSharp {
+              fluid(maxWidth: 256, quality: 100) {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
+          alt
+        }
         heading
         subheading
         mainpitch {
           title
           description
+          description2
         }
         description
         intro {
@@ -182,6 +220,7 @@ export const pageQuery = graphql`
                 }
               }
             }
+            alt
             duration
             text
           }
