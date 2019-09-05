@@ -2,7 +2,7 @@
 templateKey: post
 title: Beware the Answer
 date: 2017-07-18T12:06:00.000Z
-description: A pep talk to myself and others
+description: "Nobody has it figured out. Be open to new ideas, but you're going to have to learn the hard way no matter what."
 featuredpost: true
 featuredimage: /img/stone-tablet-wide.jpg
 tags:

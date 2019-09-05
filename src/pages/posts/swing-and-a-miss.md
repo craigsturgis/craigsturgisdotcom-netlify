@@ -2,7 +2,7 @@
 templateKey: post
 title: Swing and a Miss
 date: 2015-10-12T02:56:00.000Z
-description: Haven has shut down
+description: Haven Post Mortem
 featuredpost: true
 featuredimage: /img/5.5-device-5.jpg
 tags:

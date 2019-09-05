@@ -2,7 +2,7 @@
 templateKey: post
 title: Great Products Need Balance
 date: 2016-05-11T02:26:00.000Z
-description: ' '
+description: "It's more than business, It's more than experience, It's more than what you can sustainably build"
 featuredpost: true
 featuredimage: /img/the-triangle.png
 tags:
