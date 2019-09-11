@@ -76,14 +76,14 @@ export const IndexPageTemplate = ({
             <div className="column">
                 <div className="content">
                   <figure class="image">
-                    <img class="is-rounded" src="/img/craig-headshot2017-web-sq.jpg" />
+                    <img class="is-rounded" src="/img/Craig-Sturgis-headshot-2019.jpg" />
                   </figure>
                 </div>
             </div>
             <div className="column has-text-centered-touch">
-              <p className="title is-4">Writing</p>
-              <p className="title is-4">Experience</p>
-              <p className="title is-4">Mailing List</p>
+              <p className="title is-4"><a href="#experience">Experience</a></p>
+              <p className="title is-4"><a href="#writing">Writing</a></p>
+              <p className="title is-4">Personal</p>
             </div>
             <div className="column">
 
@@ -103,14 +103,33 @@ export const IndexPageTemplate = ({
                     <h3 className="subtitle">{mainpitch.description2}</h3>
                   </div>
                 </div>
-                {/* <div className="columns">
+              </div>
+            </div>
+          </div>
+          <div className="columns">
+          <div className="column is-12 has-text-centered">
+              <Link className="btn" to="/contact">
+                Contact Me
+              </Link>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section className="section section--gradient">
+      <div className="container">
+        <div className="section">
+          <div className="columns">
+            <div className="column is-10 is-offset-1">
+              <div className="content">
+                <div className="columns">
                   <div className="column is-12">
-                    <h3 className="has-text-weight-semibold is-size-2">
-                      {heading}
+                    <h3 id="experience" className="has-text-weight-semibold is-size-2">
+                      Experience
                     </h3>
                     <p>{description}</p>
                   </div>
-                </div> */}
+                </div>
                 <Features gridItems={intro.blurbs} />
                 {/* <div className="columns">
                   <div className="column is-12 has-text-centered">
@@ -119,6 +138,27 @@ export const IndexPageTemplate = ({
                     </Link>
                   </div>
                 </div> */}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section className="section section--gradient">
+      <div className="container">
+        <div className="section">
+          <div className="columns">
+            <div className="column is-10 is-offset-1">
+              <div className="content">
+                <div className="columns">
+                  <div className="column is-12">
+                    <h3 id="writing" className="has-text-weight-semibold is-size-2">
+                      Writing
+                    </h3>
+                    <p>A few of the things I've written that I'm most proud of:</p>
+                  </div>
+                </div>
+                
                 <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
                     Featured Posts

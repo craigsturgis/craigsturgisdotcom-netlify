@@ -6,7 +6,7 @@ headshot:
   image: /img/craig-headshot2017-1080-sq.jpg
   alt: It's me!
 heading: Professional
-subheading: I like to learn, apply, and share the results.
+subheading: I'm here to apply what I'm learning and share the results.
 mainpitch:
   title: ""
   description: >
