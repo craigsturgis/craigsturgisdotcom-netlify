@@ -1,11 +1,16 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { graphql } from 'gatsby'
+import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 
 export const AboutPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content
+  const familyImage = {
+    image: "/img/Wedding-dogs-large.jpg",
+    alt: "Our dogs got married too"
+  }
 
   return (
     <section className="section section--gradient">
@@ -16,7 +21,25 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
               <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
                 {title}
               </h2>
-              <PageContent className="content" content={content} />
+              <div className="columns">
+                <div className="column is-9">
+                  <p>I live on the Northeast side of Indianapolis with my wife Kelsey in our house full of rescue dogs and cats. Follow me on <a href="https://www.instagram.com/craigsturgis/">instagram</a> and you'll catch a glimpse of the zoo.
+                  </p>
+                  <br />
+                  <PageContent className="content" content={content} />
+                  <div className="columns">
+                    <div className="column is-12 has-text-centered">
+                      <Link className="btn" to="/contact">
+                        Contact Me
+                      </Link>
+                    </div>
+                  </div>
+                </div>
+                <div className="column is-3">
+                  <PreviewCompatibleImage imageInfo={familyImage} />
+                </div>
+              </div>
+              
             </div>
           </div>
         </div>

@@ -83,7 +83,7 @@ export const IndexPageTemplate = ({
             <div className="column has-text-centered-touch">
               <p className="title is-4"><a href="#experience">Experience</a></p>
               <p className="title is-4"><a href="#writing">Writing</a></p>
-              <p className="title is-4">Personal</p>
+              <p className="title is-4"><Link to="/personal">Personal</Link></p>
             </div>
             <div className="column">
 

@@ -2,10 +2,10 @@ import React from 'react'
 import { Link } from 'gatsby'
 
 import logo from '../img/csdc-logo.svg'
-import facebook from '../img/social/facebook.svg'
+import linkedin from '../img/social/iconmonstr-linkedin-3.svg'
 import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
-import vimeo from '../img/social/vimeo.svg'
+import github from '../img/github-icon.svg'
 
 const Footer = class extends React.Component {
   render() {
@@ -30,18 +30,18 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/about">
+                      <Link className="navbar-item" to="/">
                         About
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/products">
-                        Products
+                      <Link className="navbar-item" to="/personal">
+                        Personal
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/contact/examples">
-                        Form Examples
+                      <Link className="navbar-item" to="/old">
+                        Archive
                       </Link>
                     </li>
                     <li>
@@ -86,6 +86,20 @@ const Footer = class extends React.Component {
                   <img
                     src={instagram}
                     alt="Instagram"
+                    style={{ width: '1em', height: '1em' }}
+                  />
+                </a>
+                <a title="linkedin" href="https://www.linkedin.com/in/craigsturgis/">
+                  <img 
+                    src={linkedin}
+                    alt="Linkedin"
+                    style={{ width: '1em', height: '1em' }}
+                  />
+                </a>
+                <a title="github" href="https://github.com/craigsturgis">
+                  <img 
+                    src={github}
+                    alt="Github"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
