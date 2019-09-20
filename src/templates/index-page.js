@@ -25,6 +25,7 @@ export const IndexPageTemplate = ({
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
         backgroundRepeat: `no-repeat`,
+        backgroundSize: `100%`,
         backgroundSize: `cover`,
         backgroundPosition: `center`,
         backgroundAttachment: `fixed`,
