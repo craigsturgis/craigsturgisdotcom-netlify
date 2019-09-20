@@ -1,7 +1,7 @@
 import React from 'react'
-import { ReactTypeformEmbed } from 'react-typeform-embed'
 import { navigate } from 'gatsby-link'
 import Layout from '../../components/Layout'
+import ContactTypeForm from '../../components/ContactTypeForm'
 
 function encode(data) {
   return Object.keys(data)
@@ -35,14 +35,22 @@ export default class Index extends React.Component {
   }
 
   render() {
+    //return <ReactTypeformEmbed url="//craigsturgis.typeform.com/to/Jv3Dgh" />;
+    // return (
+    //   <Layout>
+    //     <section className="section">
+    //       <div className="container">
+    //         <div className="content">
+    //           <ReactTypeformEmbed url="//craigsturgis.typeform.com/to/Jv3Dgh" />
+    //         </div>
+    //       </div>
+    //     </section>
+    //   </Layout>
+    // )
     return (
       <Layout>
         <section className="section">
-          <div className="container">
-            <div className="content">
-              <ReactTypeformEmbed url="//craigsturgis.typeform.com/to/Jv3Dgh" />
-            </div>
-          </div>
+            <ContactTypeForm />
         </section>
       </Layout>
     )
