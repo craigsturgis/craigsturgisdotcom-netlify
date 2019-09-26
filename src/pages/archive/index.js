@@ -10,7 +10,7 @@ export default class ArchiveBlogIndexPage extends React.Component {
         <div
           className="full-width-image-container margin-top-0"
           style={{
-            backgroundImage: `url('/img/blog-index.jpg')`,
+            backgroundImage: `url('/img/montreaux-cropped.jpg')`,
           }}
         >
           <h1
@@ -22,11 +22,14 @@ export default class ArchiveBlogIndexPage extends React.Component {
               padding: '1rem',
             }}
           >
-            Latest Stories
+            Writing Archive
           </h1>
         </div>
         <section className="section">
           <div className="container">
+            <div className="content">
+              <p>Here lies writing I've done that doesn't fit the main thrust of what I'm trying to do on this website now, but is worth keeping around.</p>
+            </div>
             <div className="content">
               <BlogRoll />
             </div>
