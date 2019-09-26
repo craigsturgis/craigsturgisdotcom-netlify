@@ -4,7 +4,7 @@ title: Swing and a Miss
 date: 2015-10-12T02:56:00.000Z
 description: Haven Post Mortem
 featuredpost: true
-featuredimage: /img/5.5-device-5.jpg
+featuredimage: /img/haven-black-vertical.png
 tags:
   - product
   - postmortem
