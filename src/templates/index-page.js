@@ -73,22 +73,22 @@ export const IndexPageTemplate = ({
       <div className="container">
         <div className="section">
           <div className="columns is-vcentered">
-            <div className="column">
+            <div className="column is-one-quarter-tablet">
 
             </div>
-            <div className="column">
+            <div className="column is-one-quarter-tablet">
                 <div className="content">
-                  <figure class="image">
-                    <img class="is-rounded" src="/img/Craig-Sturgis-headshot-2019.jpg" />
+                  <figure className="image">
+                    <img className="is-rounded" src="/img/Craig-Sturgis-headshot-2019.jpg" />
                   </figure>
                 </div>
             </div>
-            <div className="column has-text-centered-touch">
+            <div className="column has-text-centered-touch is-one-quarter-tablet">
               <p className="title is-4"><a href="#experience">Experience</a></p>
               <p className="title is-4"><a href="#writing">Writing</a></p>
               <p className="title is-4"><Link to="/personal">Personal</Link></p>
             </div>
-            <div className="column">
+            <div className="column is-one-quarter-tablet">
 
             </div>
           </div>
