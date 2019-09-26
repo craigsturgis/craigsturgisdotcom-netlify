@@ -34,10 +34,12 @@ const TemplateWrapper = ({ children }) => {
 
         <link
           rel="mask-icon"
-          href="/img/safari-pinned-tab.svg"
+          href="/img/csdc-logo.svg"
           color="#ff4400"
         />
         <meta name="theme-color" content="#fff" />
+        <link rel="manifest" href="/site.webmanifest" />
+
 
         <meta property="og:type" content="business.business" />
         <meta property="og:title" content={title} />

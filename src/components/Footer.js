@@ -104,6 +104,10 @@ const Footer = class extends React.Component {
                   />
                 </a>
               </div>
+              <div className="column is-12">
+                <p>Craig Sturgis Dot Com</p>
+                <p>Est. 2012</p>
+              </div>
             </div>
           </div>
         </div>
