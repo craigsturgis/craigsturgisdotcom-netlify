@@ -3,8 +3,8 @@ var proxy = require('http-proxy-middleware')
 module.exports = {
   siteMetadata: {
     title: 'Craig Sturgis Dot Com',
-    description:
-      'Personal Website of Craig Sturgis',
+    description: 'Personal Website of Craig Sturgis',
+    siteUrl: 'https://craigsturgis.com'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -85,6 +85,7 @@ module.exports = {
         anonymize: true,
       },
     },
+    'gatsby-plugin-feed',
     'gatsby-plugin-netlify', // make sure to keep it last in the array
   ],
   // for avoiding CORS while developing Netlify Functions locally
