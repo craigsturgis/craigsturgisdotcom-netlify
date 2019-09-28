@@ -1,3 +1,7 @@
+# Redirect default netlify subdomain to primary domain
+https://craigsturgisdotcom.netlify.com/* https://craigsturgis.com/:splat 301!
+
+# Old site path redirects
 /2017/07/18/beware-the-answer/  /posts/beware-the-answer/
 /2016/05/10/great-products-need-balance/    /posts/great-products-need-balance/
 /2016/03/28/slack-civics-ways-to-group-chat-without-sweating-too-much/  /posts/slack-civics/
@@ -36,4 +40,6 @@
 /2007/07/feed-me/   /archive/2007-07-27-feed-me/
 /2007/07/all-time-top-five-vol-1/   /archive/2007-07-26-all-time-top-five-vol-1/
 /2007/07/chasing-the-rennaissance/  /archive/2007-07-25-chasing-the-rennaissance/
+
+# feed redirect
 /atom.xml   /rss.xml
