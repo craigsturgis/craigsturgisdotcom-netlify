@@ -6,7 +6,7 @@ title: >-
 date: 2019-07-16T12:42:49.925Z
 description: My appearance on the Better Product Podcast from Innovatemap
 featuredpost: true
-featuredimage: /img/better-product-podcast-cover.svg
+featuredimage: /img/better-product-podcast-cover.png
 tags:
   - product
   - research
