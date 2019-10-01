@@ -12,16 +12,8 @@ tags:
   - research
   - podcast
 ---
-
 <div class="columns">
-<div class="column"></div>
-<div class="column"><img alt="Better Product Podcast" src="https://craigsturgis.com/img/better-product-podcast-cover.png" /></div>
-<div class="column"><img alt="Season 2: Craig Sturgis" src="https://craigsturgis.com/img/better-product-craig-sturgis-episode-art.png" /></div>
-<div class="column"></div>
-</div>
-
-<div class="columns is-centered">
-<div class="column is-half">
+<div class="column is-6 is-offset-6">
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">User research is never done. If you ask <a href="https://twitter.com/craigsturgis?ref_src=twsrc%5Etfw">@craigsturgis</a> from <a href="https://twitter.com/SmarterHQ?ref_src=twsrc%5Etfw">@SmarterHQ</a> he&#39;ll tell you to keep asking questions over and over, get feedback, tweak solutions, and always be looking for ways to improve.<br><br>Tune in to the Better Product Podcast to hear more:<a href="https://t.co/12BiXJtvKy">https://t.co/12BiXJtvKy</a> <a href="https://t.co/whFSMKUJSy">pic.twitter.com/whFSMKUJSy</a></p>&mdash; Innovatemap (@innovatemap) <a href="https://twitter.com/innovatemap/status/1151559885374574592?ref_src=twsrc%5Etfw">July 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 </div>
@@ -33,6 +25,13 @@ I got to talk with two people I have a lot of respect and admiration for about t
 Anna and Christian are great interviewers, and their segment after my appearance is really helpful too.
 
 The entire [Innovatemap](https://innovatemap.com/) team are pros and have been my teachers and partners in learning so much throughout my career.
+
+<div class="columns">
+<div class="column"></div>
+<div class="column"><img alt="Better Product Podcast" src="https://craigsturgis.com/img/better-product-podcast-cover.png" /></div>
+<div class="column"><img alt="Season 2: Craig Sturgis" src="https://craigsturgis.com/img/better-product-craig-sturgis-episode-art.png" /></div>
+<div class="column"></div>
+</div>
 
 Check out the episode:
 
