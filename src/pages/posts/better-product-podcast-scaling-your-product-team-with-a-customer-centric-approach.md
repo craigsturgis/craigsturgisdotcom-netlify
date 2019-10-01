@@ -20,7 +20,11 @@ tags:
     <div className="column"></div>
 </div>
 
+<div className="columns is-centered">
+<div className="column is-half">
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">User research is never done. If you ask <a href="https://twitter.com/craigsturgis?ref_src=twsrc%5Etfw">@craigsturgis</a> from <a href="https://twitter.com/SmarterHQ?ref_src=twsrc%5Etfw">@SmarterHQ</a> he&#39;ll tell you to keep asking questions over and over, get feedback, tweak solutions, and always be looking for ways to improve.<br><br>Tune in to the Better Product Podcast to hear more:<a href="https://t.co/12BiXJtvKy">https://t.co/12BiXJtvKy</a> <a href="https://t.co/whFSMKUJSy">pic.twitter.com/whFSMKUJSy</a></p>&mdash; Innovatemap (@innovatemap) <a href="https://twitter.com/innovatemap/status/1151559885374574592?ref_src=twsrc%5Etfw">July 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+</div>
 
 I had a great time going on the Better Product Podcast. 
 
