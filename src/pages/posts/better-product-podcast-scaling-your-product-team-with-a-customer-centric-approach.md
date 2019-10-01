@@ -38,7 +38,7 @@ Check out the episode:
 * [Main link and transcript](https://innovatemap.com/podcast/scaling-your-product-team-with-a-customer-centric-approach/)
 * [On Overcast](https://overcast.fm/+QtYTdI-Fk) (My personal favorite podcast player)
 * [Apple Podcasts](https://itunes.apple.com/us/podcast/better-product/id1451869239)
-* [Spotify](https://open.spotify.com/show/0G5ngjojeBAWqWqQHcDlLA
+* [Spotify](https://open.spotify.com/show/0G5ngjojeBAWqWqQHcDlLA)
 * [Google Play](https://play.google.com/music/m/Ivgqce5aechyvniugawrwqfhpxq?t=Better_Product)
 
 If you find it interesting or useful you should subscribe, there are tons of great guests and insight from them and the Innovatemap team.
