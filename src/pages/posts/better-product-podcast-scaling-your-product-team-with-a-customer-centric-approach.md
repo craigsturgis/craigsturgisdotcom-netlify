@@ -26,14 +26,7 @@ Anna and Christian are great interviewers, and their segment after my appearance
 
 The entire [Innovatemap](https://innovatemap.com/) team are pros and have been my teachers and partners in learning so much throughout my career.
 
-<div class="columns">
-<div class="column"></div>
-<div class="column"><img alt="Better Product Podcast" src="https://craigsturgis.com/img/better-product-podcast-cover.png" /></div>
-<div class="column"><img alt="Season 2: Craig Sturgis" src="https://craigsturgis.com/img/better-product-craig-sturgis-episode-art.png" /></div>
-<div class="column"></div>
-</div>
-
-Check out the episode:
+###Check out the episode:
 
 * [Main link and transcript](https://innovatemap.com/podcast/scaling-your-product-team-with-a-customer-centric-approach/)
 * [On Overcast](https://overcast.fm/+QtYTdI-Fk) (My personal favorite podcast player)
@@ -42,3 +35,10 @@ Check out the episode:
 * [Google Play](https://play.google.com/music/m/Ivgqce5aechyvniugawrwqfhpxq?t=Better_Product)
 
 If you find it interesting or useful you should subscribe, there are tons of great guests and insight from them and the Innovatemap team.
+
+<div class="columns">
+<div class="column"></div>
+<div class="column"><img alt="Better Product Podcast" src="https://craigsturgis.com/img/better-product-podcast-cover.png" /></div>
+<div class="column"><img alt="Season 2: Craig Sturgis" src="https://craigsturgis.com/img/better-product-craig-sturgis-episode-art.png" /></div>
+<div class="column"></div>
+</div>
