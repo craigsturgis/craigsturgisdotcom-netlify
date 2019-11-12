@@ -23,9 +23,6 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
               </h2>
               <div className="columns">
                 <div className="column is-9">
-                  <p>I live on the Northeast side of Indianapolis with my wife Kelsey in our house full of rescue dogs and cats. Follow me on <a href="https://www.instagram.com/craigsturgis/">instagram</a> and you'll catch a glimpse of the zoo.
-                  </p>
-                  <br />
                   <PageContent className="content" content={content} />
                   <div className="columns">
                     <div className="column is-12 has-text-centered">

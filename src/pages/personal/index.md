@@ -3,6 +3,8 @@ templateKey: 'about-page'
 path: /personal
 title: My Family, My Community, and Me
 ---
+I live on the Northeast side of Indianapolis with my wife Kelsey in our house full of rescue dogs and cats. Follow me on [instagram](https://www.instagram.com/craigsturgis/) and you'll catch a glimpse of the zoo.
+
 ###Community
 
 We live in a society and I believe we all have a responsibility to give back and make it better.
