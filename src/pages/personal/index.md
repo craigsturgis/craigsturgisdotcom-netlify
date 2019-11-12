@@ -1,7 +1,6 @@
 ---
-templateKey: 'about-page'
-path: /personal
-title: My Family, My Community, and Me
+templateKey: about-page
+title: 'My Family, My Community, and Me'
 ---
 I live on the Northeast side of Indianapolis with my wife Kelsey in our house full of rescue dogs and cats. Follow me on [instagram](https://www.instagram.com/craigsturgis/) and you'll catch a glimpse of the zoo.
 
@@ -21,7 +20,7 @@ I am also trying to do my part to preserve and restore the environment our socie
 
 ###Hobbies
 
-My first hobby is to always learning things and trying figure out how to apply them to my daily life. 
+My first hobby is to always be learning things and trying figure out how to apply them to my daily life. 
 
 I also like to run, walk, or just generally stay active. 
 
