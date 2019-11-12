@@ -14,13 +14,13 @@ I try to do my best to stay engaged in civics - especially locally.
 
 I support hunger relief organizations like [Gleaners](https://www.gleaners.org/) and [Second Helpings](https://www.secondhelpings.org/).
 
-I have a strong interest in helping people who didn't get the same opportunities that I had to develop their talent and skills to be the best members of society they can be. 
+I have a strong interest in helping people who didn't all get the same opportunities that I've had to develop their talents, skills, and careers to be the best members of our community and society they can be. 
 
 I am also trying to do my part to preserve and restore the environment our society depends on.
 
 ###Hobbies
 
-My first hobby is to always be learning things and trying figure out how to apply them to my daily life. 
+My first hobby is to always be learning things and trying to figure out how to apply them to my daily life. 
 
 I also like to run, walk, or just generally stay active. 
 
@@ -28,4 +28,4 @@ I love following and tinkering with tech.
 
 I have an amateur interest in taking care of my home and doing small projects that stretch my skills. 
 
-I play guitar and sing but the band is on hiatus.
+I play guitar and sing - but the [band](https://www.facebook.com/sundaynightkarate) is on [hiatus](https://www.facebook.com/Average-Height-6863333340/).
