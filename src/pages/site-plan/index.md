@@ -1,6 +1,6 @@
 ---
 templateKey: generic-page
-title: "What's the plan?"
+title: What's the plan?
 ---
 
 #### What I am planning to do to the website itself, not necessarily its content
@@ -12,15 +12,21 @@ title: "What's the plan?"
 ### Backlog
 
 * Fix main site hero image to work correctly on iphones
-* Change layouts so less recent ipads don't get mobile layout
-* Content posts should have a serif font for easier reading
+* Make sure bulma version used is up to date 
+* Change layout so less recent ipads don't get the mobile layout and a giant version of my face
+* Fix weird characters in archive post titles
+* Content posts should have a serif font for easier reading on the site itself
 * Create a books section for books I read
 * Create a mailing list and ways to sign up for it
+* Add reading time to posts
+* Respect dark mode settings
 * Create a core values page / set of pages
+* Email this post button
 * Make sure the sitemap is SEO friendly
-* Make sure bulma is up to date
 * Fix google font console errors
 * Fix home page headshot so it uses the gatsby image rendering
+* Self hosted contact form that's on par with typeform
+
 
 ### Completed
 
