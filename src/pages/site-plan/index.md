@@ -8,6 +8,7 @@ title: What's the plan?
 ### Planned for the near future
 
 * Add dates back to posts template
+* Fix netlify CMS previews on about, generic pages
 
 ### Backlog
 
@@ -15,6 +16,7 @@ title: What's the plan?
 * Make sure bulma version used is up to date 
 * Change layout so less recent ipads don't get the mobile layout and a giant version of my face
 * Fix weird characters in archive post titles
+* Set up netlify editorial workflow for draft posts with pull requests, etc
 * Content posts should have a serif font for easier reading on the site itself
 * Create a books section for books I read
 * Create a mailing list and ways to sign up for it
