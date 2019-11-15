@@ -13,6 +13,7 @@ export const ArchivePostTemplate = ({
   tags,
   title,
   helmet,
+  date
 }) => {
   const ArchivePostContent = contentComponent || Content
 
@@ -25,7 +26,7 @@ export const ArchivePostTemplate = ({
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
-            <p>{description}</p>
+            <h6>{date}</h6>
             <ArchivePostContent content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
@@ -52,6 +53,7 @@ ArchivePostTemplate.propTypes = {
   description: PropTypes.string,
   title: PropTypes.string,
   helmet: PropTypes.object,
+  date: PropTypes.string,
 }
 
 const ArchivePost = ({ data }) => {
@@ -74,6 +76,7 @@ const ArchivePost = ({ data }) => {
         }
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
+        date={post.frontmatter.date}
       />
     </Layout>
   )
