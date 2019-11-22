@@ -32,12 +32,6 @@ I can’t control everything that happens to me and around me, but I can control
 </div>
 </div>
 
-### Every day is a great day.
-
-We only get so many days, and it’s tempting to live for some imagined future when things will be great. 
-
-I can’t control everything that happens to me and around me, but I can control my mindset, reaction, and whether I _do my best_[^1] to make each and every day a great one for myself, my family, and others. 
-
 ### Build and be open to love and trust.
 
 Days can only be so great without the love and shared experience of family and friends. I want to do my best to build on the love in my life and especially the trust that makes all relationships stronger.
