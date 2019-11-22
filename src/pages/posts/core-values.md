@@ -23,6 +23,12 @@ When I think of core values, I think about the clearly articulated ideas that ex
 
 They have [evolved](https://github.com/craigsturgis/philosophy/commits/master/life/core-values.md) over time and I expect that to continue, just hopefully not too much.
 
+### Every day is a great day.
+
+We only get so many days, and it’s tempting to live for some imagined future when things will be great. 
+
+I can’t control everything that happens to me and around me, but I can control my mindset, reaction, and whether I _do my best_[^1] to make each and every day a great one for myself, my family, and others. 
+
 </div>
 </div>
 
