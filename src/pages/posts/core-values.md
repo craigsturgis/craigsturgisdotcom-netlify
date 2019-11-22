@@ -68,4 +68,4 @@ The world is full of people who act in bad faith. The world I want to live in is
 
 (This post contains an [affiliate link](https://craigsturgis.com/affiliate-links).) 
 
-[^1]: "Do my best" is a key feature of active questions, a concept I learned from Marshall Goldsmith's ["Triggers”](https://amzn.to/349xeD5)
+[^1]: "Do my best" is a key feature of active questions, a concept I learned from Marshall Goldsmith's ["Triggers”](https://amzn.to/349xeD5) - One of my all time favorite personal development books if you're into that sort of thing.
