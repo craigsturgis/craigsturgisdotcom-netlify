@@ -11,9 +11,16 @@ tags:
   - values
   - reflection
 ---
+<div className="columns">
+<div className="column is-3">![Chidi](/img/chidi.jpeg)</div>
+<div className="column is-9">
+
 When I think of core values, I think about the clearly articulated ideas that explain how people live their life, and what they aspire to. These are mine. 
 
 They have [evolved](https://github.com/craigsturgis/philosophy/commits/master/life/core-values.md) over time and I expect that to continue, just hopefully not too much.
+
+</div>
+</div>
 
 ### Every day is a great day.
 
