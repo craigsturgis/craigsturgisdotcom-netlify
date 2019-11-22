@@ -11,25 +11,23 @@ tags:
   - values
   - reflection
 ---
-# Core Values
-
 When I think of core values, I think about the clearly articulated ideas that explain how people live their life, and what they aspire to. These are mine. 
 
 They have [evolved](https://github.com/craigsturgis/philosophy/commits/master/life/core-values.md) over time and I expect that to continue, just hopefully not too much.
 
-## Every day is a great day.
+### Every day is a great day.
 
 We only get so many days, and it’s tempting to live for some imagined future when things will be great. 
 
 I can’t control everything that happens to me and around me, but I can control my mindset, reaction, and whether I _do my best_[^1] to make each day a great one for myself and others. 
 
-## Build and be open to love and trust.
+### Build and be open to love and trust.
 
 Days can only be so great without the love and shared experience of family and friends. I want to do my best to build on the love in my life and especially the trust that makes all relationships stronger.
 
 At the same time, I want to do my best to be more open to receive love and trust in return, something that has been more uncomfortable for me than giving it in the past.
 
-## Always be learning,  applying, and sharing. Form strong opinions, loosely held.
+### Always be learning,  applying, and sharing. Form strong opinions, loosely held.
 
 The primary intrinsic motivation in my life has been to learn.
 
@@ -39,7 +37,7 @@ I support strong opinions, loosely held: having a point of view that is clear an
 
 I especially try to be open to perspectives from those with different backgrounds, experiences, and genetics from mine to make sure I’m learning as much as I can and staying mindful of biases I may not ever be able to fully offset.
 
-## Be thoughtful, intentional, effective, and kind
+### Be thoughtful, intentional, effective, and kind
 
 I do my best to be thoughtful— regularly taking time and energy to reflect and consider my actions and their impact. I try to work to know myself and the landscape I inhabit.
 
@@ -49,7 +47,7 @@ I do my best to gauge whether my actions are effective at having the desired imp
 
 Through it all, I try to work to be kind to others - my default demeanor can sometimes be intense, short, and forceful. I do my best to try to counteract that and to be kind both in small actions and in larger effect.
 
-## Act in good faith. Seek out and tell the truth.
+### Act in good faith. Seek out and tell the truth.
 
 I do my best to take action in ways that openly reflect my core beliefs and values - hiding them can be an easier path to the results I want but in a way that I believe would be hollow and unsatisfying.
 
