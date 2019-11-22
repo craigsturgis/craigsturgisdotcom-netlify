@@ -19,7 +19,7 @@ They have [evolved](https://github.com/craigsturgis/philosophy/commits/master/li
 
 We only get so many days, and it’s tempting to live for some imagined future when things will be great. 
 
-I can’t control everything that happens to me and around me, but I can control my mindset, reaction, and whether I _do my best_[^1] to make each day a great one for myself and others. 
+I can’t control everything that happens to me and around me, but I can control my mindset, reaction, and whether I _do my best_[^1] to make each and every day a great one for myself, my family, and others. 
 
 ### Build and be open to love and trust.
 
@@ -41,19 +41,20 @@ I especially try to be open to perspectives from those with different background
 
 I do my best to be thoughtful— regularly taking time and energy to reflect and consider my actions and their impact. I try to work to know myself and the landscape I inhabit.
 
-I do my best to be intentional and plan the specifics of how I want to act and then create systems and habits that support those actions. I try to fight going through life on “auto-pilot”, knowing that my monkey brain is fighting to put me back there at all times.
+Then, I do my best to be intentional and plan the specifics of how I want to act and try to create systems and habits to support that. I am always working to fight against going through life on “auto-pilot”, knowing that my monkey brain is fighting to put me back there at all times.
 
-I do my best to gauge whether my actions are effective at having the desired impact and outcomes I want vs. just optimizing for what feels good or efficient.
+Over time I work to gauge whether my actions are effective at having the impact and outcomes I want over just optimizing for what feels good or efficient.
 
-Through it all, I try to work to be kind to others - my default demeanor can sometimes be intense, short, and forceful. I do my best to try to counteract that and to be kind both in small actions and in larger effect.
+Through it all, I try to work to be kind to others. My default presence can sometimes be intense, short, and forceful and at worst condescending. I do my best to try to counteract that and to be kind both in small actions and in larger effect.
 
 ### Act in good faith. Seek out and tell the truth.
 
-I do my best to take action in ways that openly reflect my core beliefs and values - hiding them can be an easier path to the results I want but in a way that I believe would be hollow and unsatisfying.
+I try to take action in ways that openly reflect my core beliefs and values. Obscuring them can be an easier path to being “effective” but in a way that I believe would be hollow and unsatisfying.
 
-The world is full of people who act in bad faith, but the world I want to live in is one in which that is acknowledged but good faith is supported and rewarded. I want to walk the path I want others to walk.
+The world is full of people who act in bad faith. The world I want to live in is one in which that is acknowledged but good faith is supported and rewarded. I want to do my best to walk the path I want others to walk and help make that world.
 
 ---- 
-[^1]: "Do my best" is a key feature of active questions, a concept I learned from Marshall Goldsmith's ["Triggers”](https://amzn.to/349xeD5)
 
 (This post contains an [affiliate link](https://craigsturgis.com/affiliate-links).) 
+
+[^1]: "Do my best" is a key feature of active questions, a concept I learned from Marshall Goldsmith's ["Triggers”](https://amzn.to/349xeD5)
