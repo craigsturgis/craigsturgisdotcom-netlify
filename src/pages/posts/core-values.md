@@ -48,7 +48,7 @@ I support strong opinions, loosely held: having a point of view that is clear an
 
 I especially try to be open to perspectives from those with different backgrounds, experiences, and genetics from mine to make sure I’m learning as much as I can and staying mindful of biases I may not ever be able to fully offset.
 
-### Be thoughtful, intentional, effective, and kind
+### Be thoughtful, intentional, effective, and kind.
 
 I do my best to be thoughtful— regularly taking time and energy to reflect and consider my actions and their impact. I try to work to know myself and the landscape I inhabit.
 
