@@ -1,7 +1,7 @@
 ---
 templateKey: post
 title: Core Values
-date: 2019-11-26T13:00:17.861Z
+date: 2019-11-26T12:00:00.000Z
 description: >-
   When I think of core values, I think about the clearly articulated ideas that
   explain how people live their life, and what they aspire to. These are mine.
