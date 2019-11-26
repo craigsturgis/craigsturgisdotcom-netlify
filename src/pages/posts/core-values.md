@@ -36,15 +36,15 @@ I can’t control everything that happens to me and around me, but I can control
 
 Days can only be so great without the love and shared experience of family and friends. I want to do my best to build on the love in my life and especially the trust that makes all relationships stronger.
 
-At the same time, I want to do my best to be more open to receive love and trust in return, something that has been more uncomfortable for me than giving it in the past.
+At the same time, I want to work to be more open to receive love and trust in return, something that has been more uncomfortable for me than giving it in the past.
 
-### Always be learning,  applying, and sharing. Form strong opinions, loosely held.
+### Always be learning, applying, and sharing. Form strong opinions, loosely held.
 
 The primary intrinsic motivation in my life has been to learn.
 
 I want to do my best to always be feeding that thirst for knowledge, applying the results, and sharing what I’ve learned with others. 
 
-I support strong opinions, loosely held: having a point of view that is clear and direct, but I do my best to be humble and open to learning from others with another point of view. 
+I support strong opinions, loosely held: having a point of view that is clear and direct, but also humble and open to learning from others with another point of view I hadn't considered. 
 
 I especially try to be open to perspectives from those with different backgrounds, experiences, and genetics from mine to make sure I’m learning as much as I can and staying mindful of biases I may not ever be able to fully offset.
 
@@ -52,11 +52,11 @@ I especially try to be open to perspectives from those with different background
 
 I do my best to be thoughtful— regularly taking time and energy to reflect and consider my actions and their impact. I try to work to know myself and the landscape I inhabit.
 
-Then, I do my best to be intentional and plan the specifics of how I want to act and try to create systems and habits to support that. I am always working to fight against going through life on “auto-pilot”, knowing that my monkey brain is fighting to put me back there at all times.
+Then, I work to be intentional and plan the specifics of how I want to act and try to create systems and habits to support that. I am always fighting against going through life on “auto-pilot”, knowing that my monkey brain is fighting back at all times.
 
-Over time I work to gauge whether my actions are effective at having the impact and outcomes I want over just optimizing for what feels good or efficient.
+Over time I attempt to gauge whether my actions are effective at having the impact and outcomes I want over just optimizing for what feels good or efficient.
 
-Through it all, I try to work to be kind to others. My default presence can sometimes be intense, short, and forceful and at worst condescending. I do my best to try to counteract that and to be kind both in small actions and in larger effect.
+Through it all, I try to work to be kind to others. My default presence can sometimes be intense, short, forceful, and at worst condescending. I do my best to try to counteract that and to be kind both in small actions and in larger effect.
 
 ### Act in good faith. Seek out and tell the truth.
 
