@@ -6,6 +6,7 @@ import AboutPagePreview from './preview-templates/AboutPagePreview'
 import PostPreview from './preview-templates/PostPreview'
 import ProductPagePreview from './preview-templates/ProductPagePreview'
 import IndexPagePreview from './preview-templates/IndexPagePreview'
+import GenericPagePreview from './preview-templates/GenericPagePreview'
 
 CMS.registerMediaLibrary(uploadcare);
 CMS.registerMediaLibrary(cloudinary);
