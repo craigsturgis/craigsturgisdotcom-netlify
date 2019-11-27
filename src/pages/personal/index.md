@@ -4,7 +4,7 @@ title: 'My Family, My Community, and Me'
 ---
 I live on the Northeast side of Indianapolis with my wife Kelsey in our house full of rescue dogs and cats. Follow me on [instagram](https://www.instagram.com/craigsturgis/) and you'll catch a glimpse of the zoo.
 
-###Community
+### Community
 
 We live in a society and I believe we all have a responsibility to give back and make it better.
 
@@ -18,7 +18,7 @@ I have a strong interest in helping people who didn't all get the same opportuni
 
 I am also trying to do my part to preserve and restore the environment our society depends on.
 
-###Hobbies
+### Hobbies
 
 My first hobby is to always be learning things and trying to figure out how to apply them to my daily life. 
 
