@@ -37,3 +37,5 @@ title: What's the plan?
 * Make sure letsencrypt ssl is working
 * Recreate [affiliate links](/affiliate-links) page
 * Create this site plan page
+
+You can see the full history of changes to this site on its public [github repository](https://github.com/craigsturgis/craigsturgisdotcom-netlify)
