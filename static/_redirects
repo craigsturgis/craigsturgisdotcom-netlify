@@ -4,6 +4,9 @@ https://craigsturgisdotcom.netlify.com/* https://craigsturgis.com/:splat 301!
 # contact is typeform for now
 /contact    https://craigsturgis.typeform.com/to/Jv3Dgh
 
+# mailing list is also typeform for now
+/mailing-list   https://craigsturgis.typeform.com/to/FWPtSS
+
 # Old site path redirects
 /2017/07/18/beware-the-answer/  /posts/beware-the-answer/
 /2016/05/10/great-products-need-balance/    /posts/great-products-need-balance/
