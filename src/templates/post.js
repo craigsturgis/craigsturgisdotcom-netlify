@@ -5,6 +5,7 @@ import Helmet from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import MailingList from '../components/MailingList'
 
 export const PostTemplate = ({
   content,
@@ -26,8 +27,9 @@ export const PostTemplate = ({
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
-            <h6>{date}</h6>
             <PostContent content={content} />
+            <MailingList />
+            <h6>Published {date}.</h6>
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
                 <h4>Tags</h4>
