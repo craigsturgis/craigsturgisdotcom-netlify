@@ -12,7 +12,7 @@ const MailingList = () => {
               Join My Mailing List
             </h2>
             <p className="has-text-centered">
-              <a className="btn" href="https://craigsturgis.typeform.com/to/FWPtSS">
+              <a className="btn" href="https://craigsturgis.typeform.com/to/FWPtSS" target="_blank">
                 Sign up here
               </a>
             </p>
