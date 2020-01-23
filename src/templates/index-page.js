@@ -113,9 +113,9 @@ export const IndexPageTemplate = ({
           </div>
           <div className="columns">
           <div className="column is-12 has-text-centered">
-              <Link className="btn" to="/contact">
+              <a className="btn" href="https://craigsturgis.typeform.com/to/Jv3Dgh" target="_blank">
                 Contact Me
-              </Link>
+              </a>
             </div>
           </div>
         </div>
