@@ -32,9 +32,9 @@ This is a longer post than I usually make, here's a table of contents to jump to
 * [Influences and Inspiration](#influences)
 
 
-##Background
+<h2 id=background>Background</h2>
 
-<p id=background>All of this is for me personally. I do my best not to impose any of it on anyone else. But, I try to design it so that it fits well with the “systems” of everyone around me, whether it’s my coworkers, my family, or society at large.</p>
+All of this is for me personally. I do my best not to impose any of it on anyone else. But, I try to design it so that it fits well with the “systems” of everyone around me, whether it’s my coworkers, my family, or society at large.
 
 I leverage these things every day, every week, every “season”, and every year. 
 
@@ -72,17 +72,17 @@ I genuinely believe I’ve made more progress on the things that matter to me in
 
 I could be fooling myself and wasting a bunch of time, but it certainly doesn’t feel that way. Your mileage may vary, but hopefully something I do can be remixed or swiped to benefit you.
 
-##My System
+<h2 id=mysystem>My System</h2>
 
-<p id=mysystem>My goal is to write more in detail over time about how I leverage each of these pieces in more detail to share what I’ve learned, as well as explain my thinking as I add, change, and remove various pieces over time.</p>
+My goal is to write more in detail over time about how I leverage each of these pieces in more detail to share what I’ve learned, as well as explain my thinking as I add, change, and remove various pieces over time.
 
 If there's something in here you want to know more about, [reach out.](https://craigsturgis.typeform.com/to/Jv3Dgh)
 
-###Daily (Working days)
+<h3 id=dailyhabits>Daily (Working days)</h3>
 
 ####Habits
 
-<p id=dailyhabits>If I keep all of these habits on a work day it’s a 13 out of 10 perfect day - I’ve probably been averaging around 6-8 out of 10 depending on what else is happening in life or with the job. But something usually slips and I try again the next day.</p>
+If I keep all of these habits on a work day it’s a 13 out of 10 perfect day - I’ve probably been averaging around 6-8 out of 10 depending on what else is happening in life or with the job. But something usually slips and I try again the next day.</p>
 
 * Morning track sleep in “rise and shine” tracker / time sleeping in past 6am
 * deep working time in the mornings (personal early morning, then pivot to the day job)
@@ -104,9 +104,9 @@ If there's something in here you want to know more about, [reach out.](https://c
 * leisure reading
 * sleep (hopefully early enough to get 7+ hours)
 
-####Tools
+<h4 id=dailytools>Tools</h4>
 
-<p id=dailytools>Tools I use pretty much every day:</p>
+Tools I use pretty much every day:
 * Primary task manager: Omnifocus (iOS, Mac)
   * Capture “inbox” thoughts, ideas, todos, and reminders as they come up
   * Omnifocus iOS and Mac inbox capture
@@ -182,11 +182,11 @@ If there's something in here you want to know more about, [reach out.](https://c
   		- Gifted Moleskine
   		- Studio Neat Mark One
 
-###Weekly
+<h3 id=weeklyhabits>Weekly</h3>
 
 ####Habits
 
-<p id=weeklyhabits>Habits I keep up _almost_ every week (I slip sometimes)</p>
+Habits I keep up _almost_ every week (I slip sometimes):
 
 * “Weekly” Review
   		- Make sure task inbox is fully processed
@@ -206,9 +206,9 @@ If there's something in here you want to know more about, [reach out.](https://c
   		- Reconcile all expenses with budget
   		- Review together where we are + what’s coming up expense wise
 
-####Tools
+<h4 id=weeklytools>Tools</h4>
 
-<p id=weeklytools>Tools to support the weekly habits and other reflection</p>
+Tools to support the weekly habits and other reflection
 
 * Weekly whiteboard
   		- backed by google family calendar
@@ -227,11 +227,11 @@ If there's something in here you want to know more about, [reach out.](https://c
 * GTD “Mindsweep” checklist: Bear (iOS, Mac)
   		- (Planned) move to Omnifocus project template
 
-###Seasonally
+<h3 id=seasonalhabits>Seasonally</h3>
 
 ####Habits
 
-<p id=seasonalhabits>Habits I schedule every 3ish months</p>
+Habits I schedule every 3ish months:
 
 * Seasonal Review
   		- roughly 3 or 4 times a year
@@ -243,20 +243,20 @@ If there's something in here you want to know more about, [reach out.](https://c
   		- Update / create new seasonal objectives and goals
   		- 3-4 month calendar look ahead
 
-####Tools
+<h4 id=seasonaltools>Tools</h4>
 
-<p id=seasonaltools>Tools to support seasonal habits</p>
+Tools to support seasonal habits:
 
 * Ulysses (Mac, iPadOS) 
   		- full focus markdown editing of “living” document, other reflection documents
 * Reflection private GitHub repository
   		- revision history for reflection documents
 
-###Yearly
+<h3 id=yearlyhabits>Yearly</h3>
 
 ####Habits
 
-<p id=yearlyhabits>Habits for once a year, for me typically around the new calendar year</p>
+Habits for once a year, for me typically around the new calendar year
 
 * New Years day greek tradition
 * Yearly Review
@@ -269,18 +269,18 @@ If there's something in here you want to know more about, [reach out.](https://c
   		- clarify and update 3 year vision
 * Write new letter(s) to the following year for yourself and family
 
-####Tools
+<h4 id=yearlytools>Tools</h4>
 
-<p id=yearlytools>Tools to support yearly habits
+Tools to support yearly habits:
 
 * Letters to the next year
 * The Reflection Ritual
 
 ----
 
-##History
+<h2 id=history>History</h2>
 
-<p id=history>I started trying to go beyond assorted “to do” lists for my personal life around late 2014 when I bought Omnifocus after having heard about different aspects of Getting Things Done, mostly from listening to podcasts featuring Merlin Mann.</p>
+I started trying to go beyond assorted “to do” lists for my personal life around late 2014 when I bought Omnifocus after having heard about different aspects of Getting Things Done, mostly from listening to podcasts featuring Merlin Mann.
 
 I’ve had a long love affair with Trello dating back to its earliest days thanks to following Joel Spolsky’s blog, but I never could quite get it to fit all the types of information and commitments I was trying to manage. I did try to make it work as the only tool for everything for a startup product team at Haven. It got messy.
 
@@ -288,9 +288,9 @@ In 2015 between jobs, I finally read David Allen’s book cover to cover and mad
 
 I’ve also adapted various other tools and approaches with all their warts and annoyances over time to try to make it more perfect for me. I hope someday I’ll get to the point where I’m not changing something significant very often.
 
-##Influences and inspiration
+<h2 id=influences>Influences and inspiration</h2>
 
-<p id=influences>A brief list of the things that have most influenced what I do:</p>
+A brief list of the things that have most influenced what I do:
 
 * Getting Things Done 
 * The One Thing
