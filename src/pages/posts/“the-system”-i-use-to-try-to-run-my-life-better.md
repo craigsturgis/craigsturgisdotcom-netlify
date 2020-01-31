@@ -76,7 +76,7 @@ I could be fooling myself and wasting a bunch of time, but it certainly doesn’
 
 My goal is to write more in detail over time about how I leverage each of these pieces in more detail to share what I’ve learned, as well as explain my thinking as I add, change, and remove various pieces over time.
 
-If there's something in here you want to know more about, [reach out.](https://craigsturgis.typeform.com/to/Jv3Dgh)
+If there's something in here you want to know more about, <a href="https://craigsturgis.typeform.com/to/Jv3Dgh" target="_blank">reach out.</a>
 
 <h3 id=dailyhabits>Daily (Working days)</h3>
 
@@ -107,6 +107,7 @@ If I keep all of these habits on a work day it’s a 13 out of 10 perfect day - 
 <h4 id=dailytools>Tools</h4>
 
 Tools I use pretty much every day:
+
 * Primary task manager: Omnifocus (iOS, Mac)
   * Capture “inbox” thoughts, ideas, todos, and reminders as they come up
   * Omnifocus iOS and Mac inbox capture
@@ -117,39 +118,44 @@ Tools I use pretty much every day:
   * Less critical reminders with soft due dates
   * Store detailed tasks for projects
   * Tags to pair to filter specific tasks for times / places
+
 * Calendar: Google Calendar via Fantastical (iOS, Mac)
   * Work calendar
   * Personal event calendar
   * Family shared calendar
   * “planned time” calendar for time blocking
+
 * Important reminders: Due (iOS)
   * “Nag” repeating reminders for things that _need_ to get done
-  		- Routine nudging reminders for when I get jogged out of “auto pilot”
+  * Routine nudging reminders for when I get jogged out of “auto pilot”
+
 * Email: gmail + G suite
-  		- Apple mail app for non work email (iOS)
-  		- Gmail app to keep work email separate on off hours
-  		- Gmail web app for all email on Mac
+  * Apple mail app for non work email (iOS)
+  * Gmail app to keep work email separate on off hours
+  * Gmail web app for all email on Mac
+
 * Jack of many daily trades: Airtable
-  		- “The One Thing” for family, work, side / hobby projects, etc.
-  		- Project and Focus area list (paired with Omnifocus)
-  			- Active projects
-  			- Ongoing focus area
-  			- “Incubating” projects
-  			- Ongoing longer term 
-  			- Someday / Maybe
-  		- Meal Tracker
-  		- Exercise Tracker
-  		- Book Tracker
+  * “The One Thing” for family, work, side or hobby projects, etc.
+  * Project and Focus area list (paired with Omnifocus)
+    * Active projects
+    * Ongoing focus area
+    * “Incubating” projects
+    * Ongoing longer term 
+    * Someday / Maybe
+  * Meal Tracker
+  * Exercise Tracker
+  * Book Tracker
 * Time tracking: Toggl + Timery (iOS)
-  		- Set up to track granularly to each type of project / routine task
-  		- (Planned) Changing to track broad categories of different types of time buckets with descriptions and tags to roll up
-  		- Auto starting “sleeping in” timer via integromat
-  		- Driving time tracker
+  * Set up to track granularly to each type of project / routine task
+  * (Planned) Changing to track broad categories of different types of time buckets with descriptions and tags to roll up
+  * Auto starting “sleeping in” timer via integromat
+  * Driving time tracker
+
 * Automation: iOS Shortcuts
-  		- “Comms” shortcut (personal email, work email, slack)
-  			- (Planned) Time / action / location list selections
-  		- “Do” shortcut (Omnifocus shortcuts)
-  			- (Planned) Time / action / location list selections
+  * “Comms” shortcut (personal email, work email, slack)
+    * (Planned) Time / action / location driven list selections
+  * “Do” shortcut (Omnifocus shortcuts)
+  * (Planned) Time / action / location list selections
   		- Sleep tracker + sleep journal entry + integromat into google sheet
   		- Daily questions entry + integromat into google sheet
   		- “The one things” pop up
