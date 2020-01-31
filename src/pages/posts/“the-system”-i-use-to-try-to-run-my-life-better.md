@@ -156,37 +156,47 @@ Tools I use pretty much every day:
     * (Planned) Time / action / location driven list selections
   * “Do” shortcut (Omnifocus shortcuts)
   * (Planned) Time / action / location list selections
-  		- Sleep tracker + sleep journal entry + integromat into google sheet
-  		- Daily questions entry + integromat into google sheet
-  		- “The one things” pop up
-  		- Random focus album
-  		- Home ETA
-  		- (nixed) “Mind like water” calendar aware shortcut (slack, email, Omnifocus)
+  * Sleep tracker + sleep journal entry + integromat into google sheet
+  * Daily questions entry + integromat into google sheet
+  * “The one things” pop up
+  * Random focus album
+  * Home ETA
+  * (nixed) “Mind like water” calendar aware shortcut (slack, email, Omnifocus)
+
 * Notes: Ulysses (iOS + Mac)
+
 * Information Sharing: Slack, iMessage
-  		- Work Group Chat
-  		- Professional Groups
-  		- Personal website and other automation / notifications
-  		- Social Groups
+  * Work Group Chat
+  * Professional Groups
+  * Personal website and other automation / notifications
+  * Social Groups
+
 * Shared Family Lists: iOS Reminders
-  		- Groceries
-  		- Warehouse Club
+  * Groceries
+  * Warehouse Club
+  * General
+
 * Exercise: Apple watch workouts and / or Fitbit Coach
-  		- workouts for walking / running
-  		- Fitbit coach for cross training
+  * workouts for walking / running
+  * Fitbit coach for cross training
+
 * Mindfulness: Calm (iOS)
+
 * Books: Overcast (iOS) + Kindle
-  		- High learning (personal development / high learning)
-  			- Converted audible audiobooks via Tuneskit to use in Overcast for smart speed
-  			- Kindle app on iOS for skimming / highlighting (usually checked out from library via libby app)
-  		- Leisure (History, Biography, Fiction)
-  			- Kindle paperwhite
+  * High learning (personal development / high learning)
+    * Converted audible audiobooks via Tuneskit to use in Overcast for smart speed
+    * Kindle app on iOS for skimming / highlighting / highly visual books (usually checked out from library via libby app)
+  * Leisure (History, Biography, Fiction)
+    * Kindle paperwhite
+
 * Podcasts: Overcast (iOS)
+
 * Music: Apple Music
+
 * Journal: paper and pen
-  		- Working on building / incorporating journaling as a habit
-  		- Gifted Moleskine
-  		- Studio Neat Mark One
+  * Working on building / incorporating journaling as a habit
+  * Gifted Moleskine
+  * Studio Neat Mark One
 
 <h3 id=weeklyhabits>Weekly</h3>
 
@@ -195,43 +205,54 @@ Tools I use pretty much every day:
 Habits I keep up _almost_ every week (I slip sometimes):
 
 * “Weekly” Review
-  		- Make sure task inbox is fully processed
-  		- Organize new projects
-  		- review active projects
-  		- review “living” document - seasonal objectives, yearly themes, 3 year vision, other reflection documents
-  		- (every 2 - 4 weeks) full project list / status review
-  		- (every 2 - 4 weeks) complete “mindsweep” checklist
+  * Make sure task inbox is fully processed
+  * Organize / prioritize new projects
+  * Review active projects
+  * Review “living” document
+    * Review seasonal objectives
+    * Review yearly themes
+    * Review 3 year vision 
+  * Review other reflection documents
+  * (Every 2 - 4 weeks) Full project list / status review
+  * (every 2 - 4 weeks) Fill out complete “mindsweep” checklist from GTD
+
 * Weekly Planning 
-  		- Decide on / record “the one thing” entries for the week
-  		- Time block planned time calendar - deep work, exercise, etc
-  		- look ahead on the calendar 4 weeks
-* “Board time”
-  		- Write up daily schedule for the week on the whiteboard together
-  		- Plan meals
+  * Decide on / record “the one thing” entries for the week
+  * Time block planned time calendar - deep work, exercise, etc
+  * Look ahead on the calendar 4 weeks to be reminded of what's coming up and whether we need a weekend "off"
+  * “Board time”
+    * Write up daily schedule for the week on the whiteboard together
+    * Plan meals
+
 * Budget Time
-  		- Reconcile all expenses with budget
-  		- Review together where we are + what’s coming up expense wise
+  * Reconcile all expenses with budget
+  * Review together where we are vs. budget + what’s coming up expense wise
 
 <h4 id=weeklytools>Tools</h4>
 
 Tools to support the weekly habits and other reflection
 
 * Weekly whiteboard
-  		- backed by google family calendar
+  * Backed by google family calendar
+
 * Trackers: Google Sheets
-  		- Daily questions tracker
-  		- 1-10 “craziness” level expected vs. actual weekly tracker and mini journal entries
+  * Daily questions tracker
+  * 1-10 “craziness” level expected vs. actual weekly tracker and mini journal entries
+
 * Reflection docs: Ulysses (iOS, Mac)
-  		- Craig’s “living” document
-  			- GTD horizons
-  			- seasonal goals
-  			- yearly themes
+  * Craig’s “living” document
+    * GTD horizons
+    * Seasonal goals
+    * Yearly themes
+
 * Backlog boards: Trello (Planned move to airtable)
-  		- house projects 
-  		- website posts
+  * house projects 
+  * website posts
+
 * Budgeting: YNAB
+
 * GTD “Mindsweep” checklist: Bear (iOS, Mac)
-  		- (Planned) move to Omnifocus project template
+  * (Planned) move to Omnifocus project template
 
 <h3 id=seasonalhabits>Seasonally</h3>
 
@@ -240,23 +261,24 @@ Tools to support the weekly habits and other reflection
 Habits I schedule every 3ish months:
 
 * Seasonal Review
-  		- roughly 3 or 4 times a year
-  		- Review seasonal “where do you want to be” objectives on family, work, health, side projects and hobbies.
-  			- write down how I did
-  			-  write out what I’m going to do as a result
-  		- Reflect on whether yearly themes, 3 year vision still apply
+  * roughly 3 or 4 times a year
+  * Review seasonal “where do you want to be” objectives on family, work, health, side projects and hobbies.
+  * write down how I did
+  * write out what I’m going to do as a result
+  * Reflect on whether yearly themes, 3 year vision still apply
+
 * Seasonal Planning
-  		- Update / create new seasonal objectives and goals
-  		- 3-4 month calendar look ahead
+  * Update / create new seasonal objectives and goals
+  * 3-4 month calendar look ahead
 
 <h4 id=seasonaltools>Tools</h4>
 
 Tools to support seasonal habits:
 
 * Ulysses (Mac, iPadOS) 
-  		- full focus markdown editing of “living” document, other reflection documents
-* Reflection private GitHub repository
-  		- revision history for reflection documents
+  * Full focus markdown editing of “living” document, other reflection documents
+  * Reflection private GitHub repository
+    * revision history for reflection documents
 
 <h3 id=yearlyhabits>Yearly</h3>
 
@@ -264,15 +286,18 @@ Tools to support seasonal habits:
 
 Habits for once a year, for me typically around the new calendar year
 
-* New Years day greek tradition
-* Yearly Review
-  		- review and write out what happened each month by looking at pictures, calendar
-  		- reflection ritual journal process
-  		- review / reflect on core values and if anything has evolved
-  		- read previous letters to the future
+* Greek tradition of living the things you want the most on new years day 
+
+* Yearly review
+  * review and write out what happened each month by looking at pictures, calendar
+  * reflection ritual journal process
+  * review / reflect on core values and if anything has evolved
+  * read previous letters to the future
+
 * Yearly Planning
-  		- clarify and write down new yearly themes
-  		- clarify and update 3 year vision
+  * clarify and write down new yearly themes
+  * clarify and update 3 year vision
+
 * Write new letter(s) to the following year for yourself and family
 
 <h4 id=yearlytools>Tools</h4>
