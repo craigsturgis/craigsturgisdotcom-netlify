@@ -10,14 +10,18 @@ featuredimage: /img/300px-light_bulb_edison_series_2150-1-.jpg
 tags:
   - productivity habits tools
 ---
-[Ohhhh, the system.](https://www.youtube.com/watch?v=HP0cOv71Gxk)
+My “system”[^1] is the label I use for the tools, documents, and habits that I rely on to help me live closer to the life I want to be living. 
 
-My “system” is the label I use for the tools, documents, and habits that I rely on to help me live closer to the life I want to be living. 
+[^1]: <a href="https://www.youtube.com/watch?v=HP0cOv71Gxk" target="_blank">Ohhhh, the system.</a>
 
-I built it to define and track all of the things I am committing to and help me decide when not to commit or clearly renegotiate what others expect from me when things change.
+I've built this system over time to clearly understand and live up to what I am committed to. 
 
-This is a longer post than I usually make, here's a table of contents to jump to what might be interesting to you:
+I use it as a framework for my day to day, as well as to help me know when I should not commit to something new or when to clearly renegotiate what others expect from me when things change.
 
+This is a longer post than I usually write, here's a table of contents to jump to different sections:
+
+<div class="columns">
+<div class="column is-9">
 * [Background](#background)
 * [My System](#mysystem)
     * [Daily Habits](#dailyhabits)
@@ -30,19 +34,26 @@ This is a longer post than I usually make, here's a table of contents to jump to
     * [Yearly Tools](#yearlytools)
 * [History](#history)
 * [Influences and Inspiration](#influences)
+</div>
 
+<div class="column is-3">
+
+![Edison Bulb](/img/300px-light_bulb_edison_series_2150-1-.jpg)
+
+</div>
+</div>
 
 <h2 id=background>Background</h2>
 
-All of this is for me personally. I do my best not to impose any of it on anyone else. But, I try to design it so that it fits well with the “systems” of everyone around me, whether it’s my coworkers, my family, or society at large.
+All of this is for me personally. I do my best not to impose any of it on anyone else. But, I try to set clear boundaries and design everything so that it fits well with the “systems” of everyone around me, whether it’s my coworkers, my family, or society as a whole.
 
 I leverage these things every day, every week, every “season”, and every year. 
 
 Day to day, the system is my “external brain” helping me with however much mental energy I have remaining at the moment and while I’m in different stages of auto pilot.
 
-I schedule and make time for a series of regular check ins to review both the contents and the structure of the system and then adjust based on what’s working, what’s not, and what’s changed.
+I make time for a series of regular check ins to review both the contents and the structure of the system and then adjust based on what’s working, what’s not, and what’s changed.
 
-I use my system everywhere. I try to set it up so that I have all of its tools available on my phone and on whatever devices I’m using. 
+I use my system everywhere. I try to set it up so that I have all of the tools needed available on my phone and on whatever devices I’m using. 
 
 But, I also try to maintain the core of it in a way that can be followed with pen and paper if I choose to be more disconnected.
 
@@ -54,13 +65,13 @@ For better and worse, I want to do more than I will ever be able to do. It’s h
 
 I don’t want to let myself down or make commitments I won’t be able to live up to.
 
-I want to live a great life full of great days—  have a fulfilling family life and career, plus get to explore as many of the interests and joys of learning, exploration, community, and service as I can.
+I want to live a life full of [great days](/posts/core-values/)—  have a fulfilling family life and career, plus get to explore as many of the interests and joys of learning, exploration, community, and service as I can.
 
 In order to be more effective at that I need to be thoughtful in a way that powers the intentionality I try to practice.
 
 ###The challenge
 
-I do sometimes struggle with the magnitude of information I’m trying to keep and organize. There’s always a danger of making this type of system unmanageable or that the work of managing it starts to crowd out the doing.
+I do sometimes struggle with the magnitude of information I’m trying to keep and organize. There’s always a danger of making this type of system unmanageable or that the work of managing it starts to crowd out the work it's meant to support.
 
 I have to be mindful to not let things get too out of balance and that I’m spending more time making progress on the things I care about vs. tinkering with organizing the system itself. 
 
@@ -70,7 +81,7 @@ It’s a humbling but very empowering thing to have a written down record of wha
 
 I genuinely believe I’ve made more progress on the things that matter to me in every phase of my life, and have spent less time obsessing about the things I’m not getting done since I started making a serious effort at this.
 
-I could be fooling myself and wasting a bunch of time, but it certainly doesn’t feel that way. Your mileage may vary, but hopefully something I do can be remixed or swiped to benefit you.
+I could be fooling myself and wasting a bunch of time, but it doesn’t feel that way. Your mileage may vary, but hopefully something I do can be remixed or swiped to benefit you.
 
 <h2 id=mysystem>My System</h2>
 
@@ -82,80 +93,80 @@ If there's something in here you want to know more about, <a href="https://craig
 
 ####Habits
 
-If I keep all of these habits on a work day it’s a 13 out of 10 perfect day - I’ve probably been averaging around 6-8 out of 10 depending on what else is happening in life or with the job. But something usually slips and I try again the next day.</p>
+If I keep all of these habits on a work day it’s a [13 out of 10](https://twitter.com/dog_rates) perfect day - I’ve probably been averaging around 6-8 out of 10 depending on what else is happening in life or with the job. But something usually slips and I try again the next day.</p>
 
-* Morning track sleep in “rise and shine” tracker / time sleeping in past 6am
-* deep working time in the mornings (personal early morning, then pivot to the day job)
-* mindfulness block between personal and job deep working time
-* tread-desk working for about an hour
-* try to get a high intensity exercise or cross training in during lunch block
-* audiobooks / high learning podcasts on commute in to the office
+* Morning track sleep in “rise and shine” tracker + time sleeping in past 6am
+* Deep working time in the mornings (personal work early morning, then pivot to the day job)
+* Mindfulness block between personal and job deep working time
+* Tread-desk working for about an hour
+* Try to get a high intensity exercise or cross training in during lunch time block
+* Audiobooks / high learning podcasts on commute in to the office
 * Meetings / collaboration in the afternoons
 * Shallow work / email in between meetings and collaboration
-* lower energy / fun podcasts or music on the commute home
-* “medium energy” around the house / personal tasks block or exercise
-* GTD style processing task inbox and “two minute rule” tasks
-* (planned) “done with work” ritual
-* (planned) journaling - short what happened that day, gratitude
-* dinner with the family
-* chores and cleanup
-* “low energy” relaxation until bedtime
-* daily questions
-* leisure reading
-* sleep (hopefully early enough to get 7+ hours)
+* Lower energy / fun podcasts or music on the commute home
+* Medium energy tasks around the house or exercise / stretching if missed earlier
+* [GTD](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563) style processing task inbox and “two minute rule” tasks
+* (Experimenting) “Done with work” ritual
+* (Experimenting) Journaling - short what happened that day, gratitude
+* Dinner with the family
+* Chores and cleanup
+* Low energy tasks + relaxation until bedtime
+* Daily questions
+* Leisure reading
+* Sleep (hopefully early enough to get 7+ hours)
 
 <h4 id=dailytools>Tools</h4>
 
 Tools I use pretty much every day:
 
-* Primary task manager: Omnifocus (iOS, Mac)
-  * Capture “inbox” thoughts, ideas, todos, and reminders as they come up
-  * Omnifocus iOS and Mac inbox capture
-  * “maildrop” email address into Omnifocus inbox
-  * iOS reminders synced with Omnifocus inbox
-  * Alexa to do list synced with Omnifocus via IFTTT
+* Primary task manager: [Omnifocus](https://www.omnigroup.com/omnifocus/) (iOS, Mac)
+  * Capture “inbox” items - thoughts, ideas, todos, and reminders as they come up
+    * Omnifocus iOS and Mac inbox capture
+    * “maildrop” email address into Omnifocus inbox
+    * iOS reminders synced with Omnifocus inbox
+    * Alexa to do list synced with Omnifocus via IFTTT
   * Routine ‘checklist’ tasks with recurring due dates
   * Less critical reminders with soft due dates
   * Store detailed tasks for projects
-  * Tags to pair to filter specific tasks for times / places
+  * Tags to filter specific tasks for certain times / places
 
-* Calendar: Google Calendar via Fantastical (iOS, Mac)
+* Calendar: Google Calendar via [Fantastical](https://flexibits.com/fantastical) (iOS, Mac)
   * Work calendar
   * Personal event calendar
   * Family shared calendar
-  * “planned time” calendar for time blocking
+  * “Planned time” calendar for time blocking
 
-* Important reminders: Due (iOS)
+* Important reminders: [Due](https://www.dueapp.com/) (iOS)
   * “Nag” repeating reminders for things that _need_ to get done
   * Routine nudging reminders for when I get jogged out of “auto pilot”
 
-* Email: gmail + G suite
+* Email: Gmail + G suite
   * Apple mail app for non work email (iOS)
   * Gmail app to keep work email separate on off hours
   * Gmail web app for all email on Mac
 
-* Jack of many daily trades: Airtable
+* Jack of many daily trades: [Airtable](https://airtable.com/invite/r/urHGIHqj)
   * “The One Thing” for family, work, side or hobby projects, etc.
   * Project and Focus area list (paired with Omnifocus)
     * Active projects
-    * Ongoing focus area
+    * Ongoing - Focus area
     * “Incubating” projects
-    * Ongoing longer term 
+    * Ongoing - Longer term 
     * Someday / Maybe
   * Meal Tracker
   * Exercise Tracker
   * Book Tracker
-* Time tracking: Toggl + Timery (iOS)
+* Time tracking: [Toggl](https://toggl.com/) + [Timery](https://timeryapp.com/) (iOS)
   * Set up to track granularly to each type of project / routine task
   * (Planned) Changing to track broad categories of different types of time buckets with descriptions and tags to roll up
-  * Auto starting “sleeping in” timer via integromat
+  * Auto starting “Sleeping in” timer via [integromat](https://www.integromat.com/?pc=craigsturgis)
   * Driving time tracker
 
-* Automation: iOS Shortcuts
+* Automation: [iOS Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) + [integromat](https://www.integromat.com/?pc=craigsturgis)
   * “Comms” shortcut (personal email, work email, slack)
     * (Planned) Time / action / location driven list selections
   * “Do” shortcut (Omnifocus shortcuts)
-  * (Planned) Time / action / location list selections
+    * (Planned) Time / action / location list selections
   * Sleep tracker + sleep journal entry + integromat into google sheet
   * Daily questions entry + integromat into google sheet
   * “The one things” pop up
@@ -163,9 +174,9 @@ Tools I use pretty much every day:
   * Home ETA
   * (nixed) “Mind like water” calendar aware shortcut (slack, email, Omnifocus)
 
-* Notes: Ulysses (iOS + Mac)
+* Notes: [Ulysses](https://ulysses.app/) (iOS + Mac)
 
-* Information Sharing: Slack, iMessage
+* Information Sharing: [Slack](https://slack.com/), iMessage
   * Work Group Chat
   * Professional Groups
   * Personal website and other automation / notifications
@@ -176,27 +187,27 @@ Tools I use pretty much every day:
   * Warehouse Club
   * General
 
-* Exercise: Apple watch workouts and / or Fitbit Coach
+* Exercise: Apple watch workouts and / or [Fitbit Coach](https://coach.fitbit.com/welcome/register?redirect_url=%2F)
   * workouts for walking / running
   * Fitbit coach for cross training
 
-* Mindfulness: Calm (iOS)
+* Mindfulness: [Calm](https://www.calm.com/) (iOS)
 
-* Books: Overcast (iOS) + Kindle
+* Books: [Audible](https://www.audible.com/) + [Overcast](https://overcast.fm/) (iOS) + Kindle
   * High learning (personal development / high learning)
     * Converted audible audiobooks via Tuneskit to use in Overcast for smart speed
     * Kindle app on iOS for skimming / highlighting / highly visual books (usually checked out from library via libby app)
   * Leisure (History, Biography, Fiction)
-    * Kindle paperwhite
+    * [Kindle paperwhite](https://www.amazon.com/All-new-Kindle-Paperwhite-Waterproof-Storage/dp/B07CXG6C9W)
 
-* Podcasts: Overcast (iOS)
+* Podcasts: [Overcast](https://overcast.fm/) (iOS)
 
 * Music: Apple Music
 
 * Journal: paper and pen
   * Working on building / incorporating journaling as a habit
-  * Gifted Moleskine
-  * Studio Neat Mark One
+  * Gifted [Moleskine](https://us.moleskine.com/en/)
+  * Studio Neat [Mark One](https://www.studioneat.com/products/markone)
 
 <h3 id=weeklyhabits>Weekly</h3>
 
