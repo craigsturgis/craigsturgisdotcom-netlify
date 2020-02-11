@@ -145,7 +145,7 @@ Tools I use pretty much every day:
   * Gmail app to keep work email separate on off hours
   * Gmail web app for all email on Mac
 
-* Jack of many daily trades: [Airtable](https://airtable.com/invite/r/urHGIHqj)
+* Jack of many daily trades: [Airtable](https://airtable.com/invite/r/urHGIHqj) (Spreadsheet meets database meets my kind of thing)
   * “The One Thing” for family, work, side or hobby projects, etc.
   * Project and Focus area list (paired with Omnifocus)
     * Active projects
@@ -156,11 +156,6 @@ Tools I use pretty much every day:
   * Meal Tracker
   * Exercise Tracker
   * Book Tracker
-* Time tracking: [Toggl](https://toggl.com/) + [Timery](https://timeryapp.com/) (iOS)
-  * Set up to track granularly to each type of project / routine task
-  * (Planned) Changing to track broad categories of different types of time buckets with descriptions and tags to roll up
-  * Auto starting “Sleeping in” timer via [integromat](https://www.integromat.com/?pc=craigsturgis)
-  * Driving time tracker
 
 * Automation: [iOS Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) + [integromat](https://www.integromat.com/?pc=craigsturgis)
   * “Comms” shortcut (personal email, work email, slack)
@@ -173,6 +168,14 @@ Tools I use pretty much every day:
   * Random focus album
   * Home ETA
   * (nixed) “Mind like water” calendar aware shortcut (slack, email, Omnifocus)
+
+
+* Time tracking: [Toggl](https://toggl.com/) + [Timery](https://timeryapp.com/) (iOS)
+  * Set up to track granularly to each type of project / routine task
+  * (Planned) Changing to track broad categories of different types of time buckets with descriptions and tags to roll up
+  * Auto starting “Sleeping in” timer via integromat
+  * Driving time tracker
+
 
 * Notes: [Ulysses](https://ulysses.app/) (iOS + Mac)
 
@@ -228,8 +231,8 @@ Habits I keep up _almost_ every week (I slip sometimes):
   * (every 2 - 4 weeks) Fill out complete “mindsweep” checklist from GTD
 
 * Weekly Planning 
-  * Decide on / record “the one thing” entries for the week
-  * Time block planned time calendar - deep work, exercise, etc
+  * Decide on / record [“the one thing”](https://www.amazon.com/ONE-Thing-Surprisingly-Extraordinary-Results-ebook/dp/B00C1BHQXK) entries for the week
+  * Time block planned time calendar - [deep work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692), exercise, etc
   * Look ahead on the calendar 4 weeks to be reminded of what's coming up and whether we need a weekend "off"
   * “Board time”
     * Write up daily schedule for the week on the whiteboard together
@@ -250,19 +253,19 @@ Tools to support the weekly habits and other reflection
   * Daily questions tracker
   * 1-10 “craziness” level expected vs. actual weekly tracker and mini journal entries
 
-* Reflection docs: Ulysses (iOS, Mac)
+* Reflection docs: [Ulysses](https://ulysses.app/) (iOS + Mac)
   * Craig’s “living” document
     * GTD horizons
     * Seasonal goals
     * Yearly themes
 
-* Backlog boards: Trello (Planned move to airtable)
+* Backlog boards: [Trello](https://trello.com/) (Planned move to airtable)
   * house projects 
   * website posts
 
-* Budgeting: YNAB
+* Budgeting: [YNAB](https://www.youneedabudget.com/?ref=-plo8kGASSzUhNTf&utm_source=customer_referral)
 
-* GTD “Mindsweep” checklist: Bear (iOS, Mac)
+* GTD “Mindsweep” checklist: [Bear](https://bear.app/) (iOS, Mac)
   * (Planned) move to Omnifocus project template
 
 <h3 id=seasonalhabits>Seasonally</h3>
@@ -338,6 +341,7 @@ A brief list of the things that have most influenced what I do:
 * The One Thing
 * Triggers
 * Managing Oneself
+* Deep Work
 * Cortex Podcast
 * The Lean Startup 
 * Lean manufacturing
