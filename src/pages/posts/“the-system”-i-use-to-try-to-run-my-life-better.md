@@ -73,13 +73,15 @@ In order to be more effective at that I need to be thoughtful in a way that powe
 
 I do sometimes struggle with the magnitude of information I’m trying to keep and organize. There’s always a danger of making this type of system unmanageable or that the work of managing it starts to crowd out the work it's meant to support.
 
-I have to be mindful to not let things get too out of balance and that I’m spending more time making progress on the things I care about vs. tinkering with organizing the system itself. 
+I have to be mindful to not let things get too out of balance and that I’m spending more time making progress on the things I care about vs. tinkering with organizing the system itself.
 
 ###The upside
 
 It’s a humbling but very empowering thing to have a written down record of what I want to do, what I’m doing, what I’ve done, and a habit that forces contending with what I can realistically focus on.
 
 I genuinely believe I’ve made more progress on the things that matter to me in every phase of my life, and have spent less time obsessing about the things I’m not getting done since I started making a serious effort at this.
+
+I think some people feel like you have to choose between being a slave to a system like this vs. trying to "just be." I think that's a false choice, and that when it's properly balanced, the system is what helps me to "just be" and trust that I'm not forgetting something vs. getting lost in anxiety and frustration.
 
 I could be fooling myself and wasting a bunch of time, but it doesn’t feel that way. Your mileage may vary, but hopefully something I do can be remixed or swiped to benefit you.
 
@@ -88,6 +90,8 @@ I could be fooling myself and wasting a bunch of time, but it doesn’t feel tha
 My goal is to write more in detail over time about how I leverage each of these pieces in more detail to share what I’ve learned, as well as explain my thinking as I add, change, and remove various pieces over time.
 
 If there's something in here you want to know more about, <a href="https://craigsturgis.typeform.com/to/Jv3Dgh" target="_blank">reach out.</a>
+
+If you want to get updates as I write more in detail about these things, join my <a href="https://craigsturgis.typeform.com/to/FWPtSS" target="_blank">mailing list.</a> 
 
 <h3 id=dailyhabits>Daily (Working days)</h3>
 
@@ -105,7 +109,7 @@ If I keep all of these habits on a work day it’s a [13 out of 10](https://twit
 * Shallow work / email in between meetings and collaboration
 * Lower energy / fun podcasts or music on the commute home
 * Medium energy tasks around the house or exercise / stretching if missed earlier
-* [GTD](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563) style processing task inbox and “two minute rule” tasks
+* [GTD](https://amzn.to/37oARpB) style processing task inbox and “two minute rule” tasks
 * (Experimenting) “Done with work” ritual
 * (Experimenting) Journaling - short what happened that day, gratitude
 * Dinner with the family
@@ -146,7 +150,7 @@ Tools I use pretty much every day:
   * Gmail web app for all email on Mac
 
 * Jack of many daily trades: [Airtable](https://airtable.com/invite/r/urHGIHqj) (Spreadsheet meets database meets my kind of thing)
-  * “The One Thing” for family, work, side or hobby projects, etc.
+  * [“The One Thing”](https://amzn.to/2SntdHs) for family, work, side or hobby projects, etc.
   * Project and Focus area list (paired with Omnifocus)
     * Active projects
     * Ongoing - Focus area
@@ -198,10 +202,10 @@ Tools I use pretty much every day:
 
 * Books: [Audible](https://www.audible.com/) + [Overcast](https://overcast.fm/) (iOS) + Kindle
   * High learning (personal development / high learning)
-    * Converted audible audiobooks via Tuneskit to use in Overcast for smart speed
+    * Converted audible audiobooks via [Tuneskit](https://www.tuneskit.com/audio-converter/) to use in Overcast with smart speed
     * Kindle app on iOS for skimming / highlighting / highly visual books (usually checked out from library via libby app)
   * Leisure (History, Biography, Fiction)
-    * [Kindle paperwhite](https://www.amazon.com/All-new-Kindle-Paperwhite-Waterproof-Storage/dp/B07CXG6C9W)
+    * [Kindle paperwhite](https://amzn.to/39otG1Y)
 
 * Podcasts: [Overcast](https://overcast.fm/) (iOS)
 
@@ -224,14 +228,14 @@ Habits I keep up _almost_ every week (I slip sometimes):
   * Review active projects
   * Review “living” document
     * Review seasonal objectives
-    * Review yearly themes
+    * Review [yearly themes](https://www.youtube.com/watch?v=NVGuFdX5guE&feature=emb_title)
     * Review 3 year vision 
   * Review other reflection documents
   * (Every 2 - 4 weeks) Full project list / status review
   * (every 2 - 4 weeks) Fill out complete “mindsweep” checklist from GTD
 
 * Weekly Planning 
-  * Decide on / record [“the one thing”](https://www.amazon.com/ONE-Thing-Surprisingly-Extraordinary-Results-ebook/dp/B00C1BHQXK) entries for the week
+  * Decide on / record [“the one thing”](https://amzn.to/2SntdHs) entries for the week
   * Time block planned time calendar - [deep work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692), exercise, etc
   * Look ahead on the calendar 4 weeks to be reminded of what's coming up and whether we need a weekend "off"
   * “Board time”
@@ -289,7 +293,7 @@ Habits I schedule every 3ish months:
 
 Tools to support seasonal habits:
 
-* Ulysses (Mac, iPadOS) 
+* [Ulysses](https://ulysses.app/) (Mac, iPadOS) 
   * Full focus markdown editing of “living” document, other reflection documents
   * Reflection private GitHub repository
     * revision history for reflection documents
@@ -300,7 +304,7 @@ Tools to support seasonal habits:
 
 Habits for once a year, for me typically around the new calendar year
 
-* Greek tradition of living the things you want the most on new years day 
+* Greek tradition of living how you want the rest of the year to go on new years day 
 
 * Yearly review
   * review and write out what happened each month by looking at pictures, calendar
@@ -319,17 +323,17 @@ Habits for once a year, for me typically around the new calendar year
 Tools to support yearly habits:
 
 * Letters to the next year
-* The Reflection Ritual
+* [The Reflection Ritual](https://thereflectionritual.com/)
 
 ----
 
 <h2 id=history>History</h2>
 
-I started trying to go beyond assorted “to do” lists for my personal life around late 2014 when I bought Omnifocus after having heard about different aspects of Getting Things Done, mostly from listening to podcasts featuring Merlin Mann.
+I started trying to go beyond assorted “to do” lists for my personal life around late 2014 when I bought Omnifocus after having heard about different aspects of Getting Things Done, mostly from listening to podcasts featuring [Merlin Mann](http://www.merlinmann.com/).
 
-I’ve had a long love affair with Trello dating back to its earliest days thanks to following Joel Spolsky’s blog, but I never could quite get it to fit all the types of information and commitments I was trying to manage. I did try to make it work as the only tool for everything for a startup product team at Haven. It got messy.
+I’ve had a long love affair with Trello dating back to its earliest days thanks to following [Joel Spolsky’s blog](https://www.joelonsoftware.com/), but I never could quite get it to fit all the types of information and commitments I was trying to manage. I did try to make it work as the only tool for everything for a startup product team at Haven. [It got messy](/img/haven-trello-diagram.png).
 
-In 2015 between jobs, I finally read David Allen’s book cover to cover and made a full honest go at implementing the _full_  GTD system. While I don’t follow it completely to the letter now, that couple of weeks of trying to stick to it fully is still the core of most of this. Complete with many items living on my “Someday, maybe” list.
+In 2015 between jobs, I finally read [David Allen’s book](https://amzn.to/37oARpB) cover to cover and made a full honest go at implementing the _full_  GTD system. While I don’t follow it completely to the letter now, that couple of weeks of trying to stick to it fully is still the core of most of this. Complete with many items living on my “Someday, maybe” list.
 
 I’ve also adapted various other tools and approaches with all their warts and annoyances over time to try to make it more perfect for me. I hope someday I’ll get to the point where I’m not changing something significant very often.
 
@@ -337,15 +341,16 @@ I’ve also adapted various other tools and approaches with all their warts and 
 
 A brief list of the things that have most influenced what I do:
 
-* Getting Things Done 
-* The One Thing
-* Triggers
-* Managing Oneself
-* Deep Work
-* Cortex Podcast
-* The Lean Startup 
-* Lean manufacturing
-* Working with Kanban processes
-* The DevOps handbook
-* Working within teams using Scrum
+* [Getting Things Done](https://amzn.to/37oARpB)
+* [The One Thing](https://amzn.to/2SntdHs)
+* [Triggers](https://amzn.to/2tTLinc)
+* [Managing Oneself](https://amzn.to/2SoEM1q)
+* [The Effective Executive](https://amzn.to/38pNtxU)
+* [Deep Work](https://amzn.to/2OLrvh5)
+* [Cortex Podcast](https://www.relay.fm/cortex)
+* [The Lean Startup](https://amzn.to/2SFpcxb)
+* [Lean manufacturing](https://en.wikipedia.org/wiki/Lean_manufacturing)
+* Working with [Kanban](https://en.wikipedia.org/wiki/Kanban) processes
+* [The Phoenix Project](https://amzn.to/37ndTyU)
+* Working within teams using [Scrum](https://www.scrum.org/resources/scrum-guide)
 * So many I am missing I’m sure
