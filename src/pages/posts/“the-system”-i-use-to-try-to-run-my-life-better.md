@@ -22,18 +22,22 @@ This is a longer post than I usually write, here's a table of contents to jump t
 
 <div class="columns">
 <div class="column is-9">
-* [Background](#background)
-* [My System](#mysystem)
-    * [Daily Habits](#dailyhabits)
-    * [Daily Tools](#dailytools)
-    * [Weekly Habits](#weeklyhabits)
-    * [Weekly Tools](#weeklytools)
-    * [Seasonal Habits](#seasonalhabits)
-    * [Seasonal Tools](#seasonaltools)
-    * [Yearly Habits](#yearlyhabits)
-    * [Yearly Tools](#yearlytools)
-* [History](#history)
-* [Influences and Inspiration](#influences)
+<ul>
+<li><a href="#background">Background</a></li>
+<li><a href="#mysystem">My System</a></li>
+<ul>
+    <li><a href="#dailyhabits">Daily Habits</a></li>
+    <li><a href="#dailytools">Daily Tools</a></li>
+    <li><a href="#weeklyhabits">Weekly Habits</a></li>
+    <li><a href="#weeklytools">Weekly Tools</a></li>
+    <li><a href="#seasonalhabits">Seasonal Habits</a></li>
+    <li><a href="#seasonaltools">Seasonal Tools</a></li>
+    <li><a href="#yearlyhabits">Yearly Habits</a></li>
+    <li><a href="#yearlytools">Yearly Tools</a></li>
+</ul>
+<li><a href="#history">History</a></li>
+<li><a href="#influences">Influences and Inspiration</a></li>
+</ul>
 </div>
 
 <div class="column is-3">
@@ -83,7 +87,7 @@ I genuinely believe I’ve made more progress on the things that matter to me in
 
 I think some people feel like you have to choose between being a slave to a system like this vs. trying to "just be." I think that's a false choice, and that when it's properly balanced, the system is what helps me to "just be" and trust that I'm not forgetting something vs. getting lost in anxiety and frustration.
 
-I could be fooling myself and wasting a bunch of time, but it doesn’t feel that way. Your mileage may vary, but hopefully something I do can be remixed or swiped to benefit you.
+I could be fooling myself and wasting a bunch of time and energy, but it doesn’t feel that way. Your mileage may vary, but hopefully something I do can be remixed or swiped to benefit you.
 
 <h2 id=mysystem>My System</h2>
 
