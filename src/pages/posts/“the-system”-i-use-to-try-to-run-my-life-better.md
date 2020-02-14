@@ -114,8 +114,8 @@ If I keep all of these habits on a work day it’s a [13 out of 10](https://twit
 * Lower energy / fun podcasts or music on the commute home
 * Medium energy tasks around the house or exercise / stretching if missed earlier
 * [GTD](https://amzn.to/37oARpB) style processing task inbox and “two minute rule” tasks
-* (Experimenting) “Done with work” ritual
-* (Experimenting) Journaling - short what happened that day, gratitude
+* _(Experimenting)_ “Done with work” ritual
+* _(Experimenting)_ Journaling - short what happened that day, gratitude
 * Dinner with the family
 * Chores and cleanup
 * Low energy tasks + relaxation until bedtime
@@ -129,10 +129,12 @@ Tools I use pretty much every day:
 
 * Primary task manager: [Omnifocus](https://www.omnigroup.com/omnifocus/) (iOS, Mac)
   * Capture “inbox” items - thoughts, ideas, todos, and reminders as they come up
-    * Omnifocus iOS and Mac inbox capture
-    * “maildrop” email address into Omnifocus inbox
-    * iOS reminders synced with Omnifocus inbox
-    * Alexa to do list synced with Omnifocus via IFTTT
+    <ul>
+        <li>Omnifocus iOS and Mac inbox capture</li>
+        <li>“maildrop” email address into Omnifocus inbox</li>
+        <li>iOS reminders synced with Omnifocus inbox</li>
+        <li>Alexa to do list synced with Omnifocus via IFTTT</li>
+    </ul>
   * Routine ‘checklist’ tasks with recurring due dates
   * Less critical reminders with soft due dates
   * Store detailed tasks for projects
