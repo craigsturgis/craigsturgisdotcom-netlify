@@ -1,7 +1,7 @@
 ---
 templateKey: post
 title: “The System” I Use to Try to Run My Life Better
-date: 2020-01-23T13:34:27.207Z
+date: 2020-02-18T13:34:27.207Z
 description: >-
   An outline of the habits and tools I rely on, with some background on how I
   got there and why
