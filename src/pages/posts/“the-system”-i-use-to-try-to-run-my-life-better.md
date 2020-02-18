@@ -140,21 +140,25 @@ Tools I use pretty much every day:
   * Store detailed tasks for projects
   * Tags to filter specific tasks for certain times / places
 
+<br />
 * Calendar: Google Calendar via [Fantastical](https://flexibits.com/fantastical) (iOS, Mac)
   * Work calendar
   * Personal event calendar
   * Family shared calendar
   * “Planned time” calendar for time blocking
 
+<br />
 * Important reminders: [Due](https://www.dueapp.com/) (iOS)
   * “Nag” repeating reminders for things that _need_ to get done
   * Routine nudging reminders for when I get jogged out of “auto pilot”
 
+<br />
 * Email: Gmail + G suite
   * Apple mail app for non work email (iOS)
   * Gmail app to keep work email separate on off hours
   * Gmail web app for all email on Mac
 
+<br />
 * Jack of many daily trades: [Airtable](https://airtable.com/invite/r/urHGIHqj) (Spreadsheet meets database meets my kind of thing)
   * [“The One Thing”](https://amzn.to/2SntdHs) for family, work, side or hobby projects, etc.
   * Project and Focus area list (paired with Omnifocus)
@@ -169,6 +173,7 @@ Tools I use pretty much every day:
   * Exercise Tracker
   * Book Tracker
 
+<br />
 * Automation: [iOS Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) + [integromat](https://www.integromat.com/?pc=craigsturgis)
   * “Comms” shortcut (personal email, work email, slack)
     <ul><li><i>(Planned)</i> Time / action / location driven list selections</li></ul>
@@ -181,33 +186,38 @@ Tools I use pretty much every day:
   * Home ETA
   * (nixed) “Mind like water” calendar aware shortcut (slack, email, Omnifocus)
 
-
+<br />
 * Time tracking: [Toggl](https://toggl.com/) + [Timery](https://timeryapp.com/) (iOS)
   * Set up to track granularly to each type of project / routine task
   * (Planned) Changing to track broad categories of different types of time buckets with descriptions and tags to roll up
   * Auto starting “Sleeping in” timer via integromat
   * Driving time tracker
 
-
+<br />
 * Notes: [Ulysses](https://ulysses.app/) (iOS + Mac)
 
+<br />
 * Information Sharing: [Slack](https://slack.com/), iMessage
   * Work Group Chat
   * Professional Groups
   * Personal website and other automation / notifications
   * Social Groups
 
+<br />
 * Shared Family Lists: iOS Reminders
   * Groceries
   * Warehouse Club
   * General
 
+<br />
 * Exercise: Apple watch workouts and / or [Fitbit Coach](https://coach.fitbit.com/welcome/register?redirect_url=%2F)
   * workouts for walking / running
   * Fitbit coach for cross training
 
+<br />
 * Mindfulness: [Calm](https://www.calm.com/) (iOS)
 
+<br />
 * Books: [Audible](https://www.audible.com/) + [Overcast](https://overcast.fm/) (iOS) + Kindle
   * High learning (personal development / high learning)
     <ul>
@@ -217,10 +227,13 @@ Tools I use pretty much every day:
   * Leisure (History, Biography, Fiction)
     <ul><li>[Kindle paperwhite](https://amzn.to/39otG1Y)</li></ul>
 
+<br />
 * Podcasts: [Overcast](https://overcast.fm/) (iOS)
 
+<br />
 * Music: Apple Music
 
+<br />
 * Journal: paper and pen
   * Working on building / incorporating journaling as a habit
   * Gifted [Moleskine](https://us.moleskine.com/en/)
@@ -246,6 +259,7 @@ Habits I keep up _almost_ every week (I slip sometimes):
   * (Every 2 - 4 weeks) Full project list / status review
   * (every 2 - 4 weeks) Fill out complete “mindsweep” checklist from GTD
 
+<br />
 * Weekly Planning 
   * Decide on / record [“the one thing”](https://amzn.to/2SntdHs) entries for the week
   * Time block planned time calendar - [deep work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692), exercise, etc
@@ -256,6 +270,7 @@ Habits I keep up _almost_ every week (I slip sometimes):
         <li>Plan meals</li>
     </ul>
 
+<br />
 * Budget Time
   * Reconcile all expenses with budget
   * Review together where we are vs. budget + what’s coming up expense wise
@@ -267,10 +282,12 @@ Tools to support the weekly habits and other reflection
 * Weekly whiteboard
   * Backed by google family calendar
 
+<br />
 * Trackers: Google Sheets
   * Daily questions tracker
   * 1-10 “craziness” level expected vs. actual weekly tracker and mini journal entries
 
+<br />
 * Reflection docs: [Ulysses](https://ulysses.app/) (iOS + Mac)
   * Craig’s “living” document
     <ul>
@@ -279,12 +296,15 @@ Tools to support the weekly habits and other reflection
         <li>Yearly themes</li>
     </ul>
 
+<br />
 * Backlog boards: [Trello](https://trello.com/) (Planned move to airtable)
   * house projects 
   * website posts
 
+<br />
 * Budgeting: [YNAB](https://www.youneedabudget.com/?ref=-plo8kGASSzUhNTf&utm_source=customer_referral)
 
+<br />
 * GTD “Mindsweep” checklist: [Bear](https://bear.app/) (iOS, Mac)
   * (Planned) move to Omnifocus project template
 
@@ -301,6 +321,7 @@ Habits I schedule every 3ish months:
   * write out what I’m going to do as a result
   * Reflect on whether yearly themes, 3 year vision still apply
 
+<br />
 * Seasonal Planning
   * Update / create new seasonal objectives and goals
   * 3-4 month calendar look ahead
@@ -322,16 +343,19 @@ Habits for once a year, for me typically around the new calendar year
 
 * Greek tradition of living how you want the rest of the year to go on new years day 
 
+<br />
 * Yearly review
   * review and write out what happened each month by looking at pictures, calendar
   * reflection ritual journal process
   * review / reflect on core values and if anything has evolved
   * read previous letters to the future
 
+<br />
 * Yearly Planning
   * clarify and write down new yearly themes
   * clarify and update 3 year vision
 
+<br />
 * Write new letter(s) to the following year for yourself and family
 
 <h4 id=yearlytools>Tools</h4>
