@@ -420,3 +420,7 @@ A brief list of the things that have most influenced what I do:
 * [The Phoenix Project](https://amzn.to/37ndTyU)
 * Working within teams using [Scrum](https://www.scrum.org/resources/scrum-guide)
 * So many I am missing I’m sure
+
+---- 
+
+(This post contains [affiliate links](https://craigsturgis.com/affiliate-links).) 
