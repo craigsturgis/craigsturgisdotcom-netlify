@@ -158,20 +158,22 @@ Tools I use pretty much every day:
 * Jack of many daily trades: [Airtable](https://airtable.com/invite/r/urHGIHqj) (Spreadsheet meets database meets my kind of thing)
   * [“The One Thing”](https://amzn.to/2SntdHs) for family, work, side or hobby projects, etc.
   * Project and Focus area list (paired with Omnifocus)
-    * Active projects
-    * Ongoing - Focus area
-    * “Incubating” projects
-    * Ongoing - Longer term 
-    * Someday / Maybe
+    <ul>
+        <li>Active projects</li>
+        <li>Ongoing - Focus area</li>
+        <li>“Incubating” projects</li>
+        <li>Ongoing - Longer term</li>
+        <li>Someday / Maybe</li>
+    </ul>
   * Meal Tracker
   * Exercise Tracker
   * Book Tracker
 
 * Automation: [iOS Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) + [integromat](https://www.integromat.com/?pc=craigsturgis)
   * “Comms” shortcut (personal email, work email, slack)
-    * (Planned) Time / action / location driven list selections
+    <ul><li><i>(Planned)</i> Time / action / location driven list selections</li></ul>
   * “Do” shortcut (Omnifocus shortcuts)
-    * (Planned) Time / action / location list selections
+    <ul><li><i>(Planned)</i> Time / action / location list selections</li></ul>
   * Sleep tracker + sleep journal entry + integromat into google sheet
   * Daily questions entry + integromat into google sheet
   * “The one things” pop up
@@ -208,10 +210,12 @@ Tools I use pretty much every day:
 
 * Books: [Audible](https://www.audible.com/) + [Overcast](https://overcast.fm/) (iOS) + Kindle
   * High learning (personal development / high learning)
-    * Converted audible audiobooks via [Tuneskit](https://www.tuneskit.com/audio-converter/) to use in Overcast with smart speed
-    * Kindle app on iOS for skimming / highlighting / highly visual books (usually checked out from library via libby app)
+    <ul>
+      <li>Converted audible audiobooks via [Tuneskit](https://www.tuneskit.com/audio-converter/) to use in Overcast with smart speed</li>
+      <li>Kindle app on iOS for skimming / highlighting / highly visual books (usually checked out from library via libby app)</li>
+    </ul>
   * Leisure (History, Biography, Fiction)
-    * [Kindle paperwhite](https://amzn.to/39otG1Y)
+    <ul><li>[Kindle paperwhite](https://amzn.to/39otG1Y)</li></ul>
 
 * Podcasts: [Overcast](https://overcast.fm/) (iOS)
 
@@ -233,9 +237,11 @@ Habits I keep up _almost_ every week (I slip sometimes):
   * Organize / prioritize new projects
   * Review active projects
   * Review “living” document
-    * Review seasonal objectives
-    * Review [yearly themes](https://www.youtube.com/watch?v=NVGuFdX5guE&feature=emb_title)
-    * Review 3 year vision 
+    <ul>
+      <li>Review seasonal objectives</li>
+      <li>Review <a href="https://www.youtube.com/watch?v=NVGuFdX5guE&feature=emb_title">yearly themes</a></li>
+    </ul>
+  * Review 3 year vision 
   * Review other reflection documents
   * (Every 2 - 4 weeks) Full project list / status review
   * (every 2 - 4 weeks) Fill out complete “mindsweep” checklist from GTD
@@ -245,8 +251,10 @@ Habits I keep up _almost_ every week (I slip sometimes):
   * Time block planned time calendar - [deep work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692), exercise, etc
   * Look ahead on the calendar 4 weeks to be reminded of what's coming up and whether we need a weekend "off"
   * “Board time”
-    * Write up daily schedule for the week on the whiteboard together
-    * Plan meals
+    <ul>
+        <li>Write up daily schedule for the week on the whiteboard together</li>
+        <li>Plan meals</li>
+    </ul>
 
 * Budget Time
   * Reconcile all expenses with budget
@@ -265,9 +273,11 @@ Tools to support the weekly habits and other reflection
 
 * Reflection docs: [Ulysses](https://ulysses.app/) (iOS + Mac)
   * Craig’s “living” document
-    * GTD horizons
-    * Seasonal goals
-    * Yearly themes
+    <ul>
+        <li>GTD horizons</li>
+        <li>Seasonal goals</li>
+        <li>Yearly themes</li>
+    </ul>
 
 * Backlog boards: [Trello](https://trello.com/) (Planned move to airtable)
   * house projects 
@@ -302,7 +312,7 @@ Tools to support seasonal habits:
 * [Ulysses](https://ulysses.app/) (Mac, iPadOS) 
   * Full focus markdown editing of “living” document, other reflection documents
   * Reflection private GitHub repository
-    * revision history for reflection documents
+    <ul><li>Revision history for reflection documents</li></ul>
 
 <h3 id=yearlyhabits>Yearly</h3>
 
