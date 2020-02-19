@@ -13,6 +13,7 @@ title: What's the plan?
 
 * Add optional slug override to posts
 * Fix netlify CMS previews on about, generic pages
+* Netlify cms order posts by post date vs. alphabetical
 * Fix main site hero images to work correctly on iphones
 * Resize hero backgrounds so they load more quickly
 * Respect dark mode settings
