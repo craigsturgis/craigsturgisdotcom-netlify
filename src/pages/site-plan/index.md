@@ -12,6 +12,7 @@ title: What's the plan?
 ### Backlog
 
 * Add optional slug override to posts
+* netlify cms set favicon
 * Fix netlify CMS previews on about, generic pages
 * Netlify cms order posts by post date vs. alphabetical
 * Fix main site hero images to work correctly on iphones
@@ -28,6 +29,7 @@ title: What's the plan?
 * Fix google font console errors
 * Fix home page headshot so it uses the gatsby image rendering
 * Self hosted contact / mailing list form that's on par with typeform
+* Replace google analytics with self hosted / more privacy friendly option
 
 ### Completed
 
