@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'gatsby'
 
 const MailingList = () => {
   return (
@@ -12,7 +11,7 @@ const MailingList = () => {
               Join My Mailing List
             </h2>
             <p className="has-text-centered">
-              <a className="btn" href="https://craigsturgis.typeform.com/to/FWPtSS" target="_blank">
+              <a className="btn" href="https://craigsturgis.typeform.com/to/FWPtSS" target="_blank" rel="noopener noreferrer">
                 Sign up here
               </a>
             </p>
