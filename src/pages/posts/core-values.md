@@ -52,7 +52,7 @@ I especially try to be open to perspectives from those with different background
 
 I do my best to be thoughtful— regularly taking time and energy to reflect and consider my actions and their impact. I try to work to know myself and the landscape I inhabit.
 
-Then, I work to be intentional and plan the specifics of how I want to act and try to create systems and habits to support that. I am always fighting against going through life on “auto-pilot”, knowing that my monkey brain is fighting back at all times.
+Then, I work to be intentional and plan the specifics of how I want to act and try to create [systems and habits](/the-system) to support that. I am always fighting against going through life on “auto-pilot”, knowing that my monkey brain is fighting back at all times.
 
 Over time I attempt to gauge whether my actions are effective at having the impact and outcomes I want over just optimizing for what feels good or efficient.
 
