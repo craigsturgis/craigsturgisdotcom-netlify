@@ -10,6 +10,9 @@ https://craigsturgisdotcom.netlify.com/* https://craigsturgis.com/:splat 301!
 # the system post
 /the-system https://craigsturgis.com/posts/%E2%80%9Cthe-system%E2%80%9D-i-use-to-try-to-run-my-life-better/ 200
 
+# core values post
+/core-values  /posts/core-values/ 200
+
 # Old site path redirects
 /2017/07/18/beware-the-answer/  /posts/beware-the-answer/ 301
 /2016/05/10/great-products-need-balance/    /posts/great-products-need-balance/ 301
