@@ -10,11 +10,14 @@ featuredimage: /img/justice-everywhere.jpg
 tags:
   - values justice
 ---
-I wish we lived in a world where this didn’t need to be said. But, the facts on the ground make it necessary to be clear.
+
+I wish we lived in a world where this didn’t need to be said. But, the facts on the ground make it necessary to be clear:
+
+I believe black lives matter, and they deserve the same right to life, liberty, and the pursuit of happiness many of us take for granted.
 
 I’m making a commitment to put thought and intention into what I can *do* so that hopefully my infant son doesn’t have to think about whether it still needs to be said. That way he can put more of his energy into other ways to help make a better world.
 
-I’m fortunate enough to have grown up with at least a high school English curriculum that studied books like Native Son and Cry, The Beloved Country alongside the Odyssey. I’ve had many role models who showed me how to value everyone regardless of what they look like. I've had opportunities to get to know and learn from people who don't look like me.
+I’m fortunate enough to have grown up with at least a high school English curriculum that studied books like Native Son and Cry, The Beloved Country alongside the Odyssey. I’ve had many role models including my parents who showed me how to value everyone regardless of what they look like. I've had opportunities to get to know and learn from people who don't look like me.
 
 But, I haven’t done enough. I’ve spoken up when people have said or done something racist, but not consistently. I haven’t done much in the way of direct action to help solve our country’s original sin beyond a few small donations here or there.
 
