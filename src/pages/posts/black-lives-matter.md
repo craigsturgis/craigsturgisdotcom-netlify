@@ -10,6 +10,7 @@ featuredimage: /img/justice-everywhere.jpg
 tags:
   - values justice
 ---
+![Justice.](/img/justice-everywhere.jpg)
 
 I wish we lived in a world where this didn’t need to be said. But, the facts on the ground make it necessary to be clear.
 
