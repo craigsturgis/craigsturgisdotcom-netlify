@@ -16,7 +16,7 @@ I wish we lived in a world where this didn’t need to be said. But, the facts o
 
 I believe black lives matter, and they deserve the same right to life, liberty, and the pursuit of happiness many of us take for granted.
 
-I’m making a commitment to put thought and intention into what I can *do* so that hopefully my infant son - or anyone else's child - doesn’t have to think about whether it still needs to be said. That way he can put more of his energy into other ways to help make a better world.
+I’m making a commitment to put thought and intention into what I can *do* so that hopefully my infant son - or anyone else's child - doesn’t have to think about whether it still needs to be said. That way he can put more of his energy into other ways to help make a better and more just world.
 
 I’m fortunate enough to have grown up studying and discussing books like Native Son and Cry, The Beloved Country alongside traditional canon books like the Odyssey. I’ve had many role models including my parents who showed me how to value everyone regardless of what they look like. I've had opportunities to get to know and learn from people who don't look like me.
 
