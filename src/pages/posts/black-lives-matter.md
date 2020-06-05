@@ -20,7 +20,7 @@ I’m making a commitment to put thought and intention into what I can *do* so t
 
 I’m fortunate enough to have grown up studying and discussing books like Native Son and Cry, The Beloved Country alongside traditional canon books like the Odyssey. I’ve had many role models including my parents who showed me how to value everyone regardless of what they look like. I've had opportunities to get to know and learn from people who don't look like me.
 
-But, I haven’t done enough. I’ve spoken up when people have said or done something racist, but not consistently. I haven’t done much in the way of direct action to help solve our country’s original sin beyond a few small donations here or there. I'm committing to do better.
+But, I haven’t done enough. I’ve spoken up when people have said or done something racist, but not consistently. I haven’t done much in the way of direct action to help solve our country’s original sin beyond a few small donations here or there. I'm sorry, and I'm committing to do better.
 
 Black and brown people deserve equal justice before the law that they are not getting across the board. I’m going to put my focus here first, and locally where I live and have the most ability to make a difference. 
 
