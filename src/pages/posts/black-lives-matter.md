@@ -8,7 +8,8 @@ description: >-
 featuredpost: true
 featuredimage: /img/justice-everywhere.jpg
 tags:
-  - values justice
+  - values
+  - justice
 ---
 ![Justice.](/img/justice-everywhere.jpg)
 
@@ -30,7 +31,7 @@ Mayor Hogsett has [asked for a reformed use of force policy](https://twitter.com
 
 There’s of course more to do, more to learn, and I'm going to work to do that. But, I want to move forward imperfectly now towards a common vision of justice, equality, and peace for _everyone_, starting where the need is greatest. Reach out if you are able and willing to help me do that better. 
 
-I'm on the path either way, looking to follow vs. lead.
+I'm on the path either way, looking to follow more than lead until I learn more.
 
 ----
 
