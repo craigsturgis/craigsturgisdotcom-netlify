@@ -9,7 +9,7 @@ featuredimage: /img/social-ray-dalio-principles-share-banner-7cf8e88cfa86356d6ac
 tags:
   - bookreport
 ---
-Before I read [Principles: Life and Work](https://bookshop.org/a/2938/9781501124020), I knew next to nothing about Ray Dalio or Bridgewater Capital. A few key recommendations in the past couple of years finally nudged the book to the top of my stack. The timing to wrestle with the contents of his book couldn’t have been more relevant to me especially over the last four months.
+Before I read [Principles: Life and Work](https://bookshop.org/a/2938/9781501124020), I knew next to nothing about Ray Dalio or Bridgewater Capital. A few key recommendations in the past couple of years finally nudged the book to the top of my stack. The timing to wrestle with the contents of his book couldn’t have been more relevant to me especially over the last four months. I finished reading it a few days before the US woke up to the pandemic in March, and it's been top of mind in helping me process everything since then.
 
 I spend a lot of time doing my best to be [intentional](/core-values). Ray’s approach, mindset, and the principles he shares are a great example of how a person can take that to the Nth degree in all facets of life.
 
@@ -33,11 +33,11 @@ He also details his struggles to leave Bridgewater in a place that is not depend
 
 Two lines that stuck with me at the conclusion of this section were:
 
-> In time, I realized that the satisfaction of success doesn’t come from achieving your goals, but from struggling well.
+> "In time, I realized that the satisfaction of success doesn’t come from achieving your goals, but from struggling well."
 
 And the big one:
 
-> What I have seen is that the happiest people discover their own nature and match their life to it.
+> "What I have seen is that the happiest people discover their own nature and match their life to it."
 
 
 ###Part 2: Life Principles
