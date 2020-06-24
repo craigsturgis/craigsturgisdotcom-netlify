@@ -1,30 +1,14 @@
 ---
 templateKey: post
-<<<<<<< HEAD
-title: 'Book Report - Principles: Life and Work by Ray Dalio'
-date: 2020-05-29T14:54:46.926Z
-description: >-
-  My thoughts on Ray Dalio's 2017 book that is right up the alley of people like
-  me who are really interested in intentionality
-featuredpost: true
-featuredimage: >-
-  /img/social-ray-dalio-principles-share-banner-7cf8e88cfa86356d6ac5c8e3b5cf5760b695b2403861de149bf5b247c3092399.png
-tags:
-  - bookreport
----
-Before I read [Principles: Life and Work](https://bookshop.org/a/2938/9781501124020), I knew next to nothing about Ray Dalio or Bridgewater Capital. A few key recommendations in the past couple of years finally nudged the book to the top of my stack. The timing to wrestle with the contents of his book couldn’t have been more relevant to me especially now.
-=======
 title: "Book Report - Principles: Life and Work by Ray Dalio"
 date: 2020-06-25T14:54:46.926Z
-description: My thoughts on Ray Dalio's 2017 book that is right up the alley of
-  people like me who are really interested in intentionality
+description: My thoughts on Ray Dalio's 2017 book that is right up the alley of people like me who are really interested in intentionality
 featuredpost: true
 featuredimage: /img/social-ray-dalio-principles-share-banner-7cf8e88cfa86356d6ac5c8e3b5cf5760b695b2403861de149bf5b247c3092399.png
 tags:
   - bookreport
 ---
 Before I read [Principles: Life and Work](https://bookshop.org/a/2938/9781501124020), I knew next to nothing about Ray Dalio or Bridgewater Capital. A few key recommendations in the past couple of years finally nudged the book to the top of my stack. The timing to wrestle with the contents of his book couldn’t have been more relevant to me especially over the last four months.
->>>>>>> 07bbd90005032ca9d3ddd64261d5fe4e16fe0ed3
 
 I spend a lot of time doing my best to be [intentional](/core-values). Ray’s approach, mindset, and the principles he shares are a great example of how a person can take that to the Nth degree in all facets of life.
 
@@ -63,11 +47,8 @@ Someone trying to get the gist by reading the bullet points in this section may 
 
 One thing that resonated with me is the idea of organizing around “meaningful work and meaningful relationships”. It's a very effective way of clarifying what matters most in day to day life. It's helpful when reflecting on what you’re investing time in and whether it is leading towards those two things.
 
-<<<<<<< HEAD
-=======
 As of this posting, I'm finding the concepts of radical open-mindedness and embracing reality and dealing with it to be essential as I'm doing the work to make sense of what's happening all around us, how to think about it, and what to do about it.
 
->>>>>>> 07bbd90005032ca9d3ddd64261d5fe4e16fe0ed3
 ###Part 3: Work Principles
 
 This part of the book is likely more interesting to those of us who lead organizations of people or aspire to do so. The principles in this section are very different than how most organizations operate in my experience.
