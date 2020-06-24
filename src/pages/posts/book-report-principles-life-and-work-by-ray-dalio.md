@@ -2,7 +2,8 @@
 templateKey: post
 title: "Book Report - Principles: Life and Work by Ray Dalio"
 date: 2020-06-25T14:54:46.926Z
-description: My thoughts on Ray Dalio's 2017 book that is right up the alley of people like me who are really interested in intentionality
+description: My thoughts on Ray Dalio's 2017 book that is right up the alley of
+  people like me who are really interested in intentionality
 featuredpost: true
 featuredimage: /img/social-ray-dalio-principles-share-banner-7cf8e88cfa86356d6ac5c8e3b5cf5760b695b2403861de149bf5b247c3092399.png
 tags:
@@ -22,7 +23,7 @@ Dalio explicitly writes that he doesn’t mind if readers skip this part, but it
 
 The story of 12 year old Ray reading free annual reports from Fortune magazine jumped out. It reminded me of being around the same age and sitting and reading the MS-DOS 5.0 manual cover to cover.
 
-The arc of this section weaves his life story through all the major financial events of the last 50 years as of the book's publishing in 2017. Ray explains in context how his and Bridgewater’s approach developed and adapted over time. The narrative is as good as most autobiographies I've read. It sparked my interest in how “the economic machine”([https://www.youtube.com/watch?v=PHe0bXAIuk0]) as he refers to it works.[^1]
+The arc of this section weaves his life story through all the major financial events of the last 50 years as of the book's publishing in 2017. Ray explains in context how his and Bridgewater’s approach developed and adapted over time. The narrative is as good as most autobiographies I've read. It sparked my interest in how [“the economic machine”](https://www.youtube.com/watch?v=PHe0bXAIuk0) as he refers to it works.[^1]
 
 [^1]: It has been fascinating and at times nerve wracking to read his [writing about what is happening now](https://www.linkedin.com/in/raydalio/detail/recent-activity/posts/) during Covid-19 times after processing this book.
 
