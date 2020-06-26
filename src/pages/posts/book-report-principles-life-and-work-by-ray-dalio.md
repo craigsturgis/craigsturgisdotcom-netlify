@@ -9,9 +9,18 @@ featuredimage: /img/principles-ray-dalio.png
 tags:
   - bookreport
 ---
+<div class="columns">
+<div class="column is-3">
+
 ![Principles](/img/principles-ray-dalio.png)
 
-Before I read [Principles: Life and Work](https://bookshop.org/a/2938/9781501124020), I knew next to nothing about Ray Dalio or Bridgewater Capital. A few key recommendations in the past couple of years finally nudged the book to the top of my stack. 
+</div>
+<div class="column is-9">
+
+
+Before I read <a href="https://bookshop.org/a/2938/9781501124020">Principles: Life and Work</a>, I knew next to nothing about Ray Dalio or Bridgewater Capital. A few key recommendations in the past couple of years finally nudged the book to the top of my stack. 
+
+</div>
 
 The timing to wrestle with the contents of his book couldn’t have been more relevant to me especially over the last four months. I finished reading the first time a few days before the US woke up to the pandemic in March, and key points from it have been top of mind in helping me process everything that has been happening in the world and my personal life since then.
 
