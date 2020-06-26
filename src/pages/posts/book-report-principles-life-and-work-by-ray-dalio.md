@@ -5,11 +5,15 @@ date: 2020-06-25T14:54:46.926Z
 description: My thoughts on Ray Dalio's 2017 book that is right up the alley of
   people like me who are really interested in intentionality
 featuredpost: true
-featuredimage: /img/social-ray-dalio-principles-share-banner-7cf8e88cfa86356d6ac5c8e3b5cf5760b695b2403861de149bf5b247c3092399.png
+featuredimage: /img/principles-ray-dalio.png
 tags:
   - bookreport
 ---
-Before I read [Principles: Life and Work](https://bookshop.org/a/2938/9781501124020), I knew next to nothing about Ray Dalio or Bridgewater Capital. A few key recommendations in the past couple of years finally nudged the book to the top of my stack. The timing to wrestle with the contents of his book couldn’t have been more relevant to me especially over the last four months. I finished reading it a few days before the US woke up to the pandemic in March, and it's been top of mind in helping me process everything since then.
+![Principles](/img/principles-ray-dalio.png)
+
+Before I read [Principles: Life and Work](https://bookshop.org/a/2938/9781501124020), I knew next to nothing about Ray Dalio or Bridgewater Capital. A few key recommendations in the past couple of years finally nudged the book to the top of my stack. 
+
+The timing to wrestle with the contents of his book couldn’t have been more relevant to me especially over the last four months. I finished reading the first time a few days before the US woke up to the pandemic in March, and key points from it have been top of mind in helping me process everything that has been happening in the world and my personal life since then.
 
 I spend a lot of time doing my best to be [intentional](/core-values). Ray’s approach, mindset, and the principles he shares are a great example of how a person can take that to the Nth degree in all facets of life.
 
