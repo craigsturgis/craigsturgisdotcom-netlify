@@ -2,13 +2,14 @@
 templateKey: post
 title: "Book Report - Principles: Life and Work by Ray Dalio"
 date: 2020-06-25T14:54:46.926Z
-description: My thoughts on Ray Dalio's 2017 book that is right up the alley of people like me who are really interested in intentionality
+description: My thoughts on Ray Dalio's 2017 book that is right up the alley of
+  people like me who are really interested in intentionality
 featuredpost: true
 featuredimage: /img/social-ray-dalio-principles-share-banner-7cf8e88cfa86356d6ac5c8e3b5cf5760b695b2403861de149bf5b247c3092399.png
 tags:
   - bookreport
 ---
-Before I read [Principles: Life and Work](https://bookshop.org/a/2938/9781501124020), I knew next to nothing about Ray Dalio or Bridgewater Capital. A few key recommendations in the past couple of years finally nudged the book to the top of my stack. The timing to wrestle with the contents of his book couldn’t have been more relevant to me especially over the last four months.
+Before I read [Principles: Life and Work](https://bookshop.org/a/2938/9781501124020), I knew next to nothing about Ray Dalio or Bridgewater Capital. A few key recommendations in the past couple of years finally nudged the book to the top of my stack. The timing to wrestle with the contents of his book couldn’t have been more relevant to me especially over the last four months. I finished reading it a few days before the US woke up to the pandemic in March, and it's been top of mind in helping me process everything since then.
 
 I spend a lot of time doing my best to be [intentional](/core-values). Ray’s approach, mindset, and the principles he shares are a great example of how a person can take that to the Nth degree in all facets of life.
 
@@ -22,7 +23,7 @@ Dalio explicitly writes that he doesn’t mind if readers skip this part, but it
 
 The story of 12 year old Ray reading free annual reports from Fortune magazine jumped out. It reminded me of being around the same age and sitting and reading the MS-DOS 5.0 manual cover to cover.
 
-The arc of this section weaves his life story through all the major financial events of the last 50 years as of the book's publishing in 2017. Ray explains in context how his and Bridgewater’s approach developed and adapted over time. The narrative is as good as most autobiographies I've read. It sparked my interest in how “the economic machine”([https://www.youtube.com/watch?v=PHe0bXAIuk0]) as he refers to it works.[^1]
+The arc of this section weaves his life story through all the major financial events of the last 50 years as of the book's publishing in 2017. Ray explains in context how his and Bridgewater’s approach developed and adapted over time. The narrative is as good as most autobiographies I've read. It sparked my interest in how [“the economic machine”](https://www.youtube.com/watch?v=PHe0bXAIuk0) as he refers to it works.[^1]
 
 [^1]: It has been fascinating and at times nerve wracking to read his [writing about what is happening now](https://www.linkedin.com/in/raydalio/detail/recent-activity/posts/) during Covid-19 times after processing this book.
 
@@ -32,11 +33,11 @@ He also details his struggles to leave Bridgewater in a place that is not depend
 
 Two lines that stuck with me at the conclusion of this section were:
 
-> In time, I realized that the satisfaction of success doesn’t come from achieving your goals, but from struggling well.
+> "In time, I realized that the satisfaction of success doesn’t come from achieving your goals, but from struggling well."
 
 And the big one:
 
-> What I have seen is that the happiest people discover their own nature and match their life to it.
+> "What I have seen is that the happiest people discover their own nature and match their life to it."
 
 
 ###Part 2: Life Principles
