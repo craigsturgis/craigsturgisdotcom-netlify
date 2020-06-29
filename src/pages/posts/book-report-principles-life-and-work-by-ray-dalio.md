@@ -20,7 +20,7 @@ tags:
 
 Before I read <a href="https://bookshop.org/a/2938/9781501124020">Principles: Life and Work</a>, I knew next to nothing about Ray Dalio or Bridgewater Capital. A few key recommendations in the past couple of years finally nudged the book to the top of my stack. 
 
-The timing to wrestle with the contents of his book couldn’t have been more relevant to me especially over the last four months. I finished reading it the first time a few days before the US woke up to the pandemic in March, and key points from it have been top of mind in helping me process everything that has been happening in the world and my personal life since then.
+The timing to wrestle with the contents of his book couldn’t have been more relevant to me especially over the last four months. I finished reading it the first time a few days before the US woke up to the pandemic in March. Key points from it have been top of mind in helping me process everything that has been happening in the world and my personal life since then.
 
 </div>
 </div>
@@ -31,11 +31,13 @@ I spend a lot of time doing my best to be [intentional](/core-values). Ray’s a
 
 Dalio explicitly writes that he doesn’t mind if readers skip this part, but it sets up the heart of the book well. For me, books meant to teach something don’t sink in as well without enough of the experience needed to drive the lesson home.
 
-The story of 12 year old Ray reading free annual reports from Fortune magazine jumped out. It reminded me of being around the same age and sitting and reading the MS-DOS 5.0 manual cover to cover.
+The story of 12 year old Ray reading free annual reports from Fortune magazine jumped out. It reminded me of being around the same age and reading the MS-DOS 5.0 manual cover to cover.
 
 The arc of this section weaves his life story through all the major financial events of the last 50 years as of the book's publishing in 2017. Ray explains in context how his and Bridgewater’s approach developed and adapted over time. The narrative is as good as most autobiographies I've read. It sparked my interest in how [“the economic machine”](https://www.youtube.com/watch?v=PHe0bXAIuk0) as he refers to it works.[^1]
 
 [^1]: It has been fascinating and at times nerve wracking to read his [writing about what is happening now](https://www.linkedin.com/in/raydalio/detail/recent-activity/posts/) during Covid-19 times after processing this book.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PHe0bXAIuk0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Dalio had a very public, humbling failure in the early 80s. But, he adjusted, rebuilt, and improved. Bridgewater navigated the 2008 financial crisis well for themselves and clients. He became a billionaire many times over. His team even ended up informing financial policy in the US and EU in recent years.
 
@@ -68,7 +70,7 @@ It’s meant more as a reference, but it does read well cover to cover. There’
 
 To me, the idea of a meritocracy is for the most part a fantasy people use to explain their privileged position in life. Dalio’s concept of an _idea_ meritocracy meant to bring the best ideas to the top regardless of where they come from is something that is compelling. The framework he lays out for how they try to foster an idea meritocracy is worth diving into.
 
-He also details how they use the concept of “believability”. This is a measure of much weight you should put behind individual’s opinions based on their demonstrated track record, while leaving room to consider ideas from others too. That seems obvious, but how they gauge and use it is what is interesting. This is something that I can see trying to cultivate myself in the future.
+He also details how they use the concept of “believability”. This is a measure of much weight you should put behind individual’s opinions based on their demonstrated track record, while leaving room to consider ideas from others with less experience too. That seems obvious, but how they gauge and use it is what's interesting. This is something that I can see trying to cultivate myself in the future.
 
 This only scratches the surface of what’s in this section. But, I recommend digging in if you are growing or influencing organizations of people or plan to in the future.
 
@@ -80,10 +82,8 @@ All three parts of the book stand on their own and do what they set out to do.
 
 The autobiography is entertaining and thought provoking. 
 
-The guide to a life philosophy and how to apply it is among the best I've considered. 
+The guide to a life philosophy and how to apply it is among the best I've encountered. 
 
 The roadmap to running organizations in an examined and principled way is radical, different, and worth trying to carry out.
 
-I found the whole book extremely valuable.
-
-Highly recommended.
+I found the whole book extremely valuable. Highly recommended.
