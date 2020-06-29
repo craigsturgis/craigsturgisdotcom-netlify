@@ -72,13 +72,13 @@ As of this posting, I'm finding the concepts of radical open-mindedness and embr
 
 ###Part 3: Work Principles
 
-This part of the book is likely more interesting to those of us who lead organizations of people or aspire to do so. The principles in this section are very different than how most organizations operate in my experience.
+This part of the book is likely more interesting to those of us who lead organizations of people or aspire to do so. The principles in this section are very different from how most organizations operate in my experience.
 
 It’s meant more as a reference, but it does read well cover to cover. There’s lots of thought provoking and new or improved (to me at least) concepts in here. 
 
-To me, the idea of a meritocracy is for the most part a fantasy people use to explain their privileged position in life. Dalio’s concept of an _idea_ meritocracy meant to bring the best ideas to the top regardless of where they come from is something that is compelling. The framework he lays out for how they try to foster an idea meritocracy is worth diving into.
+To me, the idea of a meritocracy is for the most part a fantasy people use to explain their privileged position in life. Dalio’s concept of an *_idea_* meritocracy meant to bring the best ideas to the top regardless of where they come from is something that is compelling. The framework he lays out for how they try to foster an idea meritocracy is worth diving into.
 
-He also details how they use the concept of “believability”. This is a measure of much weight you should put behind an individual’s opinions based on their demonstrated track record, while leaving room to consider ideas from others with less experience too. That seems obvious, but how they gauge and use it is what's interesting. This is something that I can see trying to cultivate myself in the future.
+He also details how they use the concept of “believability”. This is a measure of much weight you should put behind an individual’s opinions based on their demonstrated track record in the subject at hand, while leaving room to consider ideas from others with less experience too. That seems obvious, but how they gauge and use it is what's interesting. This is something that I can see trying to cultivate myself in the future.
 
 This only scratches the surface of what’s in this section. But, I recommend digging in if you are growing or influencing organizations of people or plan to in the future.
 
