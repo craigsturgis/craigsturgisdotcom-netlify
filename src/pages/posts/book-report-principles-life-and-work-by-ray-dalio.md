@@ -62,7 +62,7 @@ And the big one:
 
 ###Part 2: Life Principles
 
-This section distills Dalio’s life principles that he has refined over time via experience, reflection and intentional thinking. It pairs the theory well with the prior section on the experience that lead to the material. I enjoyed considering alongside my own experience and how I plan to apply a similar framework to see where it might match up.
+This section distills Dalio’s life principles that he has refined over time via experience, reflection and intentional thinking. It pairs the theory well with the prior section on the experience that led to the material. I enjoyed considering alongside my own experience and how I plan to apply a similar framework to see where it might match up.
 
 Someone trying to get the gist by reading the bullet points in this section may not think they’re too special. But, to me they match one of my own adapted mantras: simple, not easy.
 
@@ -78,7 +78,7 @@ It’s meant more as a reference, but it does read well cover to cover. There’
 
 To me, the idea of a meritocracy is for the most part a fantasy people use to explain their privileged position in life. Dalio’s concept of an _idea_ meritocracy meant to bring the best ideas to the top regardless of where they come from is something that is compelling. The framework he lays out for how they try to foster an idea meritocracy is worth diving into.
 
-He also details how they use the concept of “believability”. This is a measure of much weight you should put behind individual’s opinions based on their demonstrated track record, while leaving room to consider ideas from others with less experience too. That seems obvious, but how they gauge and use it is what's interesting. This is something that I can see trying to cultivate myself in the future.
+He also details how they use the concept of “believability”. This is a measure of much weight you should put behind an individual’s opinions based on their demonstrated track record, while leaving room to consider ideas from others with less experience too. That seems obvious, but how they gauge and use it is what's interesting. This is something that I can see trying to cultivate myself in the future.
 
 This only scratches the surface of what’s in this section. But, I recommend digging in if you are growing or influencing organizations of people or plan to in the future.
 
