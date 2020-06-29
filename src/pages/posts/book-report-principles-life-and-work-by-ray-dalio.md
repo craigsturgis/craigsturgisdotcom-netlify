@@ -37,7 +37,15 @@ The arc of this section weaves his life story through all the major financial ev
 
 [^1]: It has been fascinating and at times nerve wracking to read his [writing about what is happening now](https://www.linkedin.com/in/raydalio/detail/recent-activity/posts/) during Covid-19 times after processing this book.
 
+<div class="columns">
+<div class="column is-3">
+</div>
+<div class="column is-6">
 <iframe src="https://www.youtube.com/embed/PHe0bXAIuk0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="column is-3">
+</div>
+</div>
 
 Dalio had a very public, humbling failure in the early 80s. But, he adjusted, rebuilt, and improved. Bridgewater navigated the 2008 financial crisis well for themselves and clients. He became a billionaire many times over. His team even ended up informing financial policy in the US and EU in recent years.
 
