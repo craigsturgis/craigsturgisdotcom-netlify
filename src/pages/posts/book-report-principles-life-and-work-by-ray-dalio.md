@@ -41,7 +41,7 @@ The arc of this section weaves his life story through all the major financial ev
 <div class="column is-3">
 </div>
 <div class="column is-6">
-<iframe src="https://www.youtube.com/embed/PHe0bXAIuk0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/PHe0bXAIuk0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <div class="column is-3">
 </div>
