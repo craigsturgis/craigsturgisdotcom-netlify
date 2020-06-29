@@ -95,3 +95,5 @@ The guide to a life philosophy and how to apply it is among the best I've encoun
 The roadmap to running organizations in an examined and principled way is radical, different, and worth trying to carry out.
 
 I found the whole book extremely valuable. Highly recommended.
+
+*(This post includes [affiliate links.](/affiliate-links/))*
