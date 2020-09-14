@@ -9,11 +9,6 @@ tags:
   - no-code
 ---
 <div class="columns">
-<div class="column is-3">
-
-![The c0dez](/img/screen-shot-2020-09-14-at-10.36.21-am.png)
-
-</div>
 <div class="column is-9">
 
 I’m a coder at heart. 
@@ -26,12 +21,18 @@ New tools are released all the time to simplify the process of building software
 
 In modern software development, the pace of updates to the underlying tools and frameworks is often really fast. It makes ongoing maintenance a lot of work even before you move on to making your product or project better. Pretty much all software ends up bogged down in mountains of technical debt for understandable reasons[^1].
 
+Years back, I started getting interested in the concept of “[no-code](https://en.wikipedia.org/wiki/No-code_development_platform)” automation. It helped me accomplish small tasks quickly without the “[yak shaving](https://americanexpress.io/yak-shaving/)” I often get lost in for hours and hours on software projects.
+
+
+</div>
+<div class="column is-3">
+
+![The c0dez](/img/screen-shot-2020-09-14-at-10.36.21-am.png)
+
 </div>
 </div>
 
 [^1]: Mostly having nothing to do with pace of change of tools, but that’s another post.
-
-Years back, I started getting interested in the concept of “[no-code](https://en.wikipedia.org/wiki/No-code_development_platform)” automation. It helped me accomplish small tasks quickly without the “[yak shaving](https://americanexpress.io/yak-shaving/)” I often get lost in for hours and hours on software projects.
 
 Over time, I’ve learned how to do more and more complex things with these tools, with most of the setup and maintenance taken care of for me. The end result is customized to my needs in ways I couldn’t get products off the shelf to do, and costs next to nothing to run.
 
@@ -103,11 +104,12 @@ When that data is received it kicks off an Integromat “scenario” which:
 
 ###”Or we will say stop. And then seriously, you must stop.”
 
-I did have to write one small piece of actual code to support unsubscribes. I didn't want to have to ask anyone to type in their email to opt out of new messages[^3]. 
+I did have to write one small piece of actual code[^3] to support unsubscribes. I didn't want to have to ask anyone to type in their email to opt out of new messages[^4]. 
 
 So, a simple javascript “[fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)” call on my unsubscribe page sends the encrypted hash from the link that was clicked to another webhook. That kicks off the automation to opt someone out.
 
-[^3]: I'm not a monster.
+[^3]: You can see pretty much all of the code itself in the screenshot at the top of this post.
+[^4]: I'm not a monster.
 
 When the opt out webhook receives data, the opt out scenario: 
 
@@ -141,9 +143,9 @@ No-code tools are great, and you can accomplish a surprising amount with them.
 
 It can be the right choice in many situations even over writing “real” code.
 
-Save the full coding production for projects that truly need the specialized skills of professional developers[^4]. Everyone involved will be happier.
+Save the full coding production for projects that truly need the specialized skills of professional developers[^5]. Everyone involved will be happier.
 
-[^4]: And make sure they have appropriate help from designers and / or product folks too as the situation requires.
+[^5]: And make sure they have appropriate help from designers and / or product folks too as the situation requires.
 
 If “learning to code” seems like too much, see what you can get done with no-code tools. If you can learn some of the concepts, you might find a super power. If you are good at spreadsheets, I bet you can become good at this. 
 
