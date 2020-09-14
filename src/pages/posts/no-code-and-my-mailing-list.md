@@ -9,6 +9,12 @@ tags:
   - no-code
 ---
 <div class="columns">
+<div class="column is-3">
+
+![The c0dez](/img/screen-shot-2020-09-14-at-10.36.21-am.png)
+
+</div>
+
 <div class="column is-9">
 
 I’m a coder at heart. 
@@ -23,11 +29,6 @@ In modern software development, the pace of updates to the underlying tools and 
 
 Years back, I started getting interested in the concept of “[no-code](https://en.wikipedia.org/wiki/No-code_development_platform)” automation. It helped me accomplish small tasks quickly without the “[yak shaving](https://americanexpress.io/yak-shaving/)” I often get lost in for hours and hours on software projects.
 
-
-</div>
-<div class="column is-3">
-
-![The c0dez](/img/screen-shot-2020-09-14-at-10.36.21-am.png)
 
 </div>
 </div>
