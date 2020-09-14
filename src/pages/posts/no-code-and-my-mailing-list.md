@@ -8,6 +8,14 @@ featuredimage: /img/screen-shot-2020-09-10-at-8.59.57-am.png
 tags:
   - no-code
 ---
+<div class="columns">
+<div class="column is-3">
+
+![The c0dez](/img/screen-shot-2020-09-14-at-10.36.21-am.png)
+
+</div>
+<div class="column is-9">
+
 I’m a coder at heart. 
 
 Writing code hasn’t been my primary job for years now, but I always come back to it for hobby and passion projects. At its best, coding feels like giving myself [super powers](https://xkcd.com/353/).
@@ -17,6 +25,9 @@ But, building things with code gets complex fast.
 New tools are released all the time to simplify the process of building software. Still, the net amount of complexity needed to build and maintain something meaningful keeps going up. 
 
 In modern software development, the pace of updates to the underlying tools and frameworks is often really fast. It makes ongoing maintenance a lot of work even before you move on to making your product or project better. Pretty much all software ends up bogged down in mountains of technical debt for understandable reasons[^1].
+
+</div>
+</div>
 
 [^1]: Mostly having nothing to do with pace of change of tools, but that’s another post.
 
