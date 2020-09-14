@@ -69,7 +69,9 @@ If you want a mailing list, you’ll need a reliable place to store it. Somethin
 I created an Airtable base and got to work on adding some fields. I included one for the SHA-256 [encrypted hash](https://brilliant.org/wiki/secure-hashing-algorithms/) of emails on the list to use for everything except actually sending email. I also added one for a unique unsubscribe link using that hash.
 
 <div class="columns">
-<div class="column is-9 is-centered">
+<div class="column is-1">
+</div>
+<div class="column is-9">
 
 ![Airtable Contacts Table](/img/screen-shot-2020-09-14-at-9.10.08-am.png)
 
