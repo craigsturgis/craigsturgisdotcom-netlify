@@ -22,7 +22,7 @@ In modern software development, the pace of updates to the underlying tools and 
 
 Years back, I started getting interested in the concept of “[no-code](https://en.wikipedia.org/wiki/No-code_development_platform)” automation. It helped me accomplish small tasks quickly without the “[yak shaving](https://americanexpress.io/yak-shaving/)” I often get lost in for hours and hours on software projects.
 
-Over time, I’ve learned to do more and more complex things with these tools, with most of the setup and maintenance taken care of for me. The end result is customized to my needs in ways I couldn’t get products off the shelf to do, and costs next to nothing to run.
+Over time, I’ve learned how to do more and more complex things with these tools, with most of the setup and maintenance taken care of for me. The end result is customized to my needs in ways I couldn’t get products off the shelf to do, and costs next to nothing to run.
 
 I believe no-code tools will empower huge chunks of people in a similar way that spreadsheets did from the 80s to today. 
 
@@ -30,11 +30,11 @@ It will reduce the need for many expensive niche products and custom software de
 
 This trend could free up so much time for developers to focus on the endless things that require their specialized talents.
 
-Even though I can write "real" code from scratch, I’ve found that using no-code tools saves me tons of time on most things I work on. It's almost always the tool I should pick up first if the point is to solve a problem without needing to optimize for performance or 100% precision.
+Even though I can write "real" code from scratch, I’ve found that using no-code tools saves me tons of time on most things I work on. It's almost always the tool I pick up first if the point is to solve a problem without needing to optimize for performance or 100% precision.
 
 So, what kinds of things can you do with no-code? I’ll share an example of how I built my site’s customized [mailing list](https://craigsturgis.typeform.com/to/FWPtSS) for free with *almost*[^2] no code.
 
-[^2]: I could probably make it work across the board with no actual code. But, because I’m a coder at heart my website is (too complex) to make it easy to completely use no-code tools for this particular case.
+[^2]: I could probably make it work across the board with no actual code. But, because I’m a coder at heart my website is [too complex](/posts/great-gatsby-js/) to make it easy to completely use no-code tools for this particular case.
 
 ##My Customized (Almost) No-code (Free) Mailing List
 
@@ -48,7 +48,7 @@ I wanted a very cheap or free option to manage a small mailing list that kept pe
 
 I also wanted to make it easier to send customized messages to people on the list when I wanted to.
 
-I also wanted a hobby project. :)
+I also wanted a hobby project. 😀
 
 ###The List Itself
 
@@ -68,7 +68,7 @@ There are multiple ways built into my website’s framework to submit form respo
 
 Typeform doesn’t allow for integrating with Airtable on their free plan. Even if it did, I wanted the extra step where I generate an encrypted hash of the email address. But, they do support sending data via “[webhook](https://zapier.com/blog/what-are-webhooks/)”. 
 
-A webhook is a simplified way to send and receive bundles of data between different systems. If you’ve ever heard of web APIs, this is a simplified version of those.
+A webhook is a way to send and receive bundles of data between different systems when a specific event happens, like a form submission. If you’ve ever heard of web APIs, this is a simple version of those.
 
 ###Code, But No-code
 
@@ -120,7 +120,7 @@ When I hit my bookmark for a new post, the new draft scenario:
 
 ![Drafts aplenty](/img/screen-shot-2020-09-14-at-9.25.37-am.png)
 
-My list is still small enough that I send a personal note out to pretty much everyone, so no sends are fully automated. That could change if enough people [sign up] (https://craigsturgis.typeform.com/to/FWPtSS). 😉
+My list is still small enough that I send a personal note out to pretty much everyone, so no sends are fully automated. That could change if enough people [sign up](https://craigsturgis.typeform.com/to/FWPtSS). 😉
 
 I then do a lot of copy pasting that makes a good target for future improvements.
 
@@ -128,11 +128,11 @@ I then do a lot of copy pasting that makes a good target for future improvements
 
 No-code tools are great, and you can accomplish a surprising amount with them.
 
-It can be the right choice in many situations over writing “real” code.
+It can be the right choice in many situations even over writing “real” code.
 
-Save the real code for projects that truly need the specialized skills of professional developers[^4]. Everyone involved will be happier.
+Save the full coding production for projects that truly need the specialized skills of professional developers[^4]. Everyone involved will be happier.
 
-[^4]: And make sure they have appropriate help from designers and product folks too.
+[^4]: And make sure they have appropriate help from designers and / or product folks too as the situation requires.
 
 If “learning to code” seems like too much, see what you can get done with no-code tools. If you can learn some of the concepts, you might find a super power. If you are good at spreadsheets, I bet you can become good at this. 
 
