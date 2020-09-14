@@ -27,13 +27,12 @@ New tools are released all the time to simplify the process of building software
 
 In modern software development, the pace of updates to the underlying tools and frameworks is often really fast. It makes ongoing maintenance a lot of work even before you move on to making your product or project better. Pretty much all software ends up bogged down in mountains of technical debt for understandable reasons[^1].
 
-Years back, I started getting interested in the concept of “[no-code](https://en.wikipedia.org/wiki/No-code_development_platform)” automation. It helped me accomplish small tasks quickly without the “[yak shaving](https://americanexpress.io/yak-shaving/)” I often get lost in for hours and hours on software projects.
-
-
 </div>
 </div>
 
 [^1]: Mostly having nothing to do with pace of change of tools, but that’s another post.
+
+Years back, I started getting interested in the concept of “[no-code](https://en.wikipedia.org/wiki/No-code_development_platform)” automation. It helped me accomplish small tasks quickly without the “[yak shaving](https://americanexpress.io/yak-shaving/)” I often get lost in for hours and hours on software projects.
 
 Over time, I’ve learned how to do more and more complex things with these tools, with most of the setup and maintenance taken care of for me. The end result is customized to my needs in ways I couldn’t get products off the shelf to do, and costs next to nothing to run.
 
