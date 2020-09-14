@@ -36,11 +36,11 @@ So, what kinds of things can you do with no-code? I’ll share an example of how
 
 [^2]: I could probably make it work across the board with no actual code. But, because I’m a coder at heart my website is (too complex) to make it easy to completely use no-code tools for this particular case.
 
-##My Customized (Almost) No-code (Free) Mailing List
+\##My Customized (Almost) No-code (Free) Mailing List
 
 This is probably a bad example for what you should use no-code tools to build. The internet is bursting with free options for small mailing lists that do the job well. But, I think this gives a good window into the types of things that are possible.
 
-###What I wanted out of my mailing list
+\###What I wanted out of my mailing list
 
 When I decided to set up a mailing list for this site, I thought through the main things I wanted:
 
@@ -50,27 +50,27 @@ I also wanted to make it easier to send customized messages to people on the lis
 
 I also wanted a hobby project. :)
 
-###The List Itself
+\###The List Itself
 
 If you want a mailing list, you’ll need a reliable place to store it. Something as simple as google sheets will work, but I am a huge fan of [Airtable](https://airtable.com/invite/r/urHGIHqj). For anything that *might* need something that’s more like a database than a spreadsheet, give it a look. I’m not ruling out doing more complex things in the future with the mailing list, so it’s a good fit.
 
 I created an Airtable base and got to work on adding some fields. I included one for the SHA-256 [encrypted hash](https://brilliant.org/wiki/secure-hashing-algorithms/) of emails on the list to use for everything except actually sending email. I also added one for a unique unsubscribe link using that hash.
 
-(Screenshot with blurred info)
+![Airtable Contacts Table](/img/screen-shot-2020-09-14-at-9.10.08-am.png)
 
 I ended up with something pretty straightforward but that won’t limit me if I want to do more with it in the future.
 
-###Signing up
+\###Signing up
 
 There are multiple ways built into my website’s framework to submit form responses, but none with the fit and finish of [Typeform](https://www.typeform.com). Typeform has a free option, and I’m happy to give them exposure in exchange, it’s a good product.
 
-(Screenshot)
+
 
 Typeform doesn’t allow for integrating with Airtable on their free plan. Even if it did, I wanted the extra step where I generate an encrypted hash of the email address. But, they do support sending data via “[webhook](https://zapier.com/blog/what-are-webhooks/)”. 
 
 A webhook is a simplified way to send and receive bundles of data between different systems. If you’ve ever heard of web APIs, this is a simplified version of those.
 
-###Code, But No-code
+\###Code, But No-code
 
 Enter [Integromat](https://www.integromat.com/?pc=craigsturgis), my personal favorite no-code Swiss Army knife. Integromat is more complex than [Zapier](https://zapier.com) and the like, but in my experience it’s way more capable.
 
@@ -88,9 +88,9 @@ When that data is received it kicks off an Integromat “scenario” which:
 * Creates a new record if it can’t find one and stores the email and encrypted hash.
 * If it’s a new record, it triggers a welcome email via my craigsturgis.com G Suite account.
 
-(Screenshot of mailing list add scenario)
+![Opt In Scenario](/img/screen-shot-2020-09-10-at-8.59.57-am.png)
 
-###”Or we will say stop. And then seriously, you must stop.”
+\###”Or we will say stop. And then seriously, you must stop.”
 
 I did have to write one small piece of actual code to support unsubscribes. I didn't want to have to ask anyone to type in their email to opt out of new messages[^3]. 
 
@@ -104,11 +104,11 @@ When the opt out webhook receives data, the opt out scenario:
 * Sets the “Opted In” flag to false for the record that matches the submitted hash
 * Returns the email domain for feedback or a “not found” error message
 
-(Screenshot of unsubscribe scenario)
+![Unsubscribe Scenario](/img/screen-shot-2020-09-14-at-9.21.33-am.png)
 
 I’m not big enough to have [CCPA](https://smarterhq.com/blog/ccpa-compliance) apply to my tiny list, but I’m happy to delete anyone’s information completely who asks me to.
 
-###Sending a message
+\###Sending a message
 
 When I want to send out a message to the list, I have another Integromat scenario that takes out a lot of the grunt work.
 
@@ -118,13 +118,13 @@ When I hit my bookmark for a new post, the new draft scenario:
 * Creates a draft in my gmail account for each one
 * Inserts each record’s unique unsubscribe link in the draft
 
-(screenshot of drafts with emails blurred out)
+![Drafts aplenty](/img/screen-shot-2020-09-14-at-9.25.37-am.png)
 
 My list is still small enough that I send a personal note out to pretty much everyone, so no sends are fully automated. That could change if enough people [sign up](https://craigsturgis.typeform.com/to/FWPtSS).
 
 I then do a lot of copy pasting that makes a good target for future improvements.
 
-##Conclusion / TL;DR
+\##Conclusion / TL;DR
 
 No-code tools are great, and you can accomplish a surprising amount with them.
 
