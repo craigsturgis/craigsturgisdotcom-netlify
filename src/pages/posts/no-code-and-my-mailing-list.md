@@ -68,15 +68,23 @@ If you want a mailing list, you’ll need a reliable place to store it. Somethin
 
 I created an Airtable base and got to work on adding some fields. I included one for the SHA-256 [encrypted hash](https://brilliant.org/wiki/secure-hashing-algorithms/) of emails on the list to use for everything except actually sending email. I also added one for a unique unsubscribe link using that hash.
 
+<div class="columns">
+<div class="column is-2">
+</div>
+<div class="column is-8">
+
 ![Airtable Contacts Table](/img/screen-shot-2020-09-14-at-9.10.08-am.png)
+
+</div>
+<div class="column is-2">
+</div>
+</div>
 
 I ended up with something pretty straightforward but that won’t limit me if I want to do more with it in the future.
 
 ###Signing up
 
 There are multiple ways built into my website’s framework to submit form responses, but none with the fit and finish of [Typeform](https://www.typeform.com). Typeform has a free option, and I’m happy to give them exposure in exchange, it’s a good product.
-
-
 
 Typeform doesn’t allow for integrating with Airtable on their free plan. Even if it did, I wanted the extra step where I generate an encrypted hash of the email address. But, they do support sending data via “[webhook](https://zapier.com/blog/what-are-webhooks/)”. 
 
@@ -92,6 +100,19 @@ On to how it works.
 
 When someone opts in, Typeform sends their response to Integromat via a webhook.
 
+<div class="columns">
+<div class="column is-2">
+</div>
+<div class="column is-8">
+
+![Opt In Scenario](/img/screen-shot-2020-09-10-at-8.59.57-am.png)
+
+</div>
+<div class="column is-2">
+</div>
+</div>
+
+
 When that data is received it kicks off an Integromat “scenario” which:
 
 * Calculates the SHA-256 encrypted hash of the submitted email.
@@ -100,7 +121,7 @@ When that data is received it kicks off an Integromat “scenario” which:
 * Creates a new record if it can’t find one and stores the email and encrypted hash.
 * If it’s a new record, it triggers a welcome email via my craigsturgis.com G Suite account.
 
-![Opt In Scenario](/img/screen-shot-2020-09-10-at-8.59.57-am.png)
+
 
 ###”Or we will say stop. And then seriously, you must stop.”
 
@@ -111,15 +132,28 @@ So, a simple javascript “[fetch](https://developer.mozilla.org/en-US/docs/Web/
 [^3]: You can see pretty much all of the code itself in the screenshot at the top of this post.
 [^4]: I'm not a monster.
 
+
+<div class="columns">
+<div class="column is-2">
+</div>
+<div class="column is-8">
+
+![Unsubscribe Scenario](/img/screen-shot-2020-09-14-at-9.21.33-am.png)
+
+</div>
+<div class="column is-2">
+</div>
+</div>
+
+
 When the opt out webhook receives data, the opt out scenario: 
 
 * Gets the domain of the email opting out
 * Sets the “Opted In” flag to false for the record that matches the submitted hash
 * Returns the email domain for feedback or a “not found” error message
 
-![Unsubscribe Scenario](/img/screen-shot-2020-09-14-at-9.21.33-am.png)
 
-I’m not big enough to have [CCPA](https://smarterhq.com/blog/ccpa-compliance) apply to my tiny list, but I’m happy to delete anyone’s information completely who asks me to.
+I’m not big enough to have [CCPA](https://smarterhq.com/blog/ccpa-compliance) or the like apply to my tiny list, but I’m happy to delete anyone’s information completely who asks me to.
 
 ###Sending a message
 
@@ -131,7 +165,18 @@ When I hit my bookmark for a new post, the new draft scenario:
 * Creates a draft in my gmail account for each one
 * Inserts each record’s unique unsubscribe link in the draft
 
+
+<div class="columns">
+<div class="column is-2">
+</div>
+<div class="column is-8">
+
 ![Drafts aplenty](/img/screen-shot-2020-09-14-at-9.25.37-am.png)
+
+</div>
+<div class="column is-2">
+</div>
+</div>
 
 My list is still small enough that I send a personal note out to pretty much everyone, so no sends are fully automated. That could change if enough people [sign up](https://craigsturgis.typeform.com/to/FWPtSS). 😉
 
