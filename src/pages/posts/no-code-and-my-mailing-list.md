@@ -31,7 +31,7 @@ Because of this, I started getting interested in the concept of “[no-code](htt
 </div>
 
 
-Over time, I’ve learned how to do more and more complex things with these tools, with most of the setup and maintenance taken care of for me. The end result is customized to my needs in ways I couldn’t get products off the shelf to do, and costs next to nothing to run.
+Over time, I’ve learned how to do more complex things with these tools, with most of the setup and maintenance taken care of for me. The end result is customized to my needs in ways I couldn’t get products off the shelf to do, and costs next to nothing to run.
 
 I believe no-code tools will empower huge chunks of people in a similar way that spreadsheets did. 
 
