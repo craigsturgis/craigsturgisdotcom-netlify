@@ -47,7 +47,7 @@ So, what kinds of things can you do with no-code? I’ll share an example of how
 
 ##My Customized (Almost) No-code (Free) Mailing List
 
-This is probably a bad example for what you should use no-code tools to build. The internet is bursting with free options for small mailing lists that do the job well. But, I think this gives a good window into the types of things that are possible.
+This is probably a bad example of what you should use no-code tools to build. The internet is bursting with free options for small mailing lists that do the job well. But, I think this gives a good window into the types of things that are possible.
 
 ###What I wanted out of my mailing list
 
@@ -75,7 +75,7 @@ There are multiple ways built into my website’s framework to submit form respo
 
 Typeform doesn’t allow for integrating with Airtable on their free plan. Even if it did, I wanted the extra step where I generate an encrypted hash of the email address. But, they do support sending data via “[webhook](https://zapier.com/blog/what-are-webhooks/)”. 
 
-A webhook is a way to send and receive bundles of data between different systems when a specific event happens, like a form submission. If you’ve ever heard of web APIs, this is a simple version of those.
+A webhook is a way to send and receive bundles of data between different systems when an event happens, like a form submission. If you’ve ever heard of web APIs, this is a simple version of those.
 
 ###Code, But No-code
 
@@ -93,9 +93,9 @@ When that data is received it kicks off an Integromat “scenario” which:
 
 * Calculates the SHA-256 encrypted hash of the submitted email.
 * Checks to see if a record with that hashed value already exists in my contacts table.
-* Sets opt in status to “true” for existing records.
+* Sets opt in status to “true” if it's already there.
 * Creates a new record if it can’t find one and stores the email and encrypted hash.
-* If it’s a new record, it triggers a welcome email via my craigsturgis.com G Suite account.
+* If it’s a new email, it triggers a welcome message via my craigsturgis.com G Suite account.
 
 
 
@@ -103,7 +103,7 @@ When that data is received it kicks off an Integromat “scenario” which:
 
 I did have to write one small piece of actual code[^2] to support unsubscribes. I didn't want to have to ask anyone to type in their email to opt out of new messages[^3]. 
 
-So, a simple javascript “[fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)” call on my unsubscribe page sends the encrypted hash from the link that was clicked to another webhook. That kicks off the automation to opt someone out.
+So, a simple javascript “[fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)” call on my unsubscribe page sends the encrypted hash from the link to another webhook. That kicks off the automation to opt someone out.
 
 [^2]: You can see pretty much all of the code itself in the screenshot at the top of this post.
 [^3]: I'm not a monster.
@@ -114,7 +114,7 @@ When the opt out webhook receives data, the opt out scenario:
 
 * Gets the domain of the email opting out
 * Sets the “Opted In” flag to false for the record that matches the submitted hash
-* Returns the email domain for feedback or a “not found” error message
+* Returns the email domain only for confirmation or a “not found” error message
 
 
 I’m not big enough to have [CCPA](https://smarterhq.com/blog/ccpa-compliance) or the like apply to my tiny list, but I’m happy to delete anyone’s information completely who asks me to.
@@ -145,8 +145,8 @@ Save the full coding production for projects that truly need the specialized ski
 
 [^4]: And make sure they have appropriate help from designers and / or product folks too as the situation requires.
 
-If “learning to code” seems like too much, see what you can get done with no-code tools. If you can learn some of the concepts, you might find a super power. If you are good at spreadsheets, I bet you can become good at this. 
+If “learning to code” seems like too much, see what you can get done with no-code tools. If you can learn some of the concepts, you might find your own super power. If you are good at spreadsheets, I bet you can become good at this. 
 
-If you already know how to code, give it a shot. You'll find a useful set of tools to complement the heavy artillery you know how to use.
+If you already know how to code, give it a shot. You'll find a useful set of easy to pick up tools to complement the heavy duty ones you already know how to use.
 
 Build something and [email me](https://craigsturgis.typeform.com/to/Jv3Dgh) about it, I would love to know what you come up with.
