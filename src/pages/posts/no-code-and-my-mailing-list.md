@@ -81,9 +81,9 @@ A webhook is a way to send and receive bundles of data between different systems
 
 Enter [Integromat](https://www.integromat.com/?pc=craigsturgis), my personal favorite no-code Swiss Army knife. Integromat is more complex than [Zapier](https://zapier.com) and the like, but in my experience it’s way more capable.
 
-It helps if you’ve got some basic understanding of how programming works to use it. But, you don’t need to be a professional software engineer or even anything close to it  to follow its logical flows. If you've understood any "intro to programming" material that might even be overkill.
+It helps if you’ve got some basic understanding of how programming works to use it. But, you don’t need to be a professional software engineer or even anything close to it  to follow its logical flows. Even "intro to programming" material might be overkill to get this stuff if you wrap your head around following visual flows of data.
 
-On to how it works. 
+On to how it works: 
 
 When someone opts in, Typeform sends their response to Integromat via a webhook.
 
@@ -126,7 +126,7 @@ When I want to send out a message to the list, I have another Integromat scenari
 When I hit my bookmark for a new post, the new draft scenario:
 
 * Finds all records with “Opted In” set to true
-* Creates a draft in my gmail account for each one
+* Creates a draft in my G suite account for each one
 * Inserts each record’s unique unsubscribe link in the draft
 
 ![Drafts aplenty](/img/screen-shot-2020-09-14-at-9.25.37-am.png)
