@@ -1,7 +1,7 @@
 ---
 templateKey: post
 title: No-code and My Mailing List
-date: 2020-09-15T11:30:00.000Z
+date: 2020-09-16T10:30:00.000Z
 description: Thoughts on no-code tools and an example of how I use them for my mailing list
 featuredpost: true
 featuredimage: /img/screen-shot-2020-09-10-at-8.59.57-am.png
