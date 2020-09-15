@@ -25,18 +25,15 @@ But, building things with code gets complex fast.
 
 New tools are released all the time to simplify the process of building software. Still, the net amount of complexity needed to build and maintain something meaningful keeps going up. 
 
-In modern software development, the pace of updates to the underlying tools and frameworks is often really fast. It makes ongoing maintenance a lot of work even before you move on to making your product or project better. Pretty much all software ends up bogged down in mountains of technical debt for understandable reasons[^1].
+Because of this, I started getting interested in the concept of “[no-code](https://en.wikipedia.org/wiki/No-code_development_platform)” automation. It helped me accomplish small tasks quickly without the “[yak shaving](https://americanexpress.io/yak-shaving/)” I often get lost in for hours and hours on software projects.
 
 </div>
 </div>
 
-[^1]: Mostly having nothing to do with pace of change of tools, but that’s another post.
-
-Years back, I started getting interested in the concept of “[no-code](https://en.wikipedia.org/wiki/No-code_development_platform)” automation. It helped me accomplish small tasks quickly without the “[yak shaving](https://americanexpress.io/yak-shaving/)” I often get lost in for hours and hours on software projects.
 
 Over time, I’ve learned how to do more and more complex things with these tools, with most of the setup and maintenance taken care of for me. The end result is customized to my needs in ways I couldn’t get products off the shelf to do, and costs next to nothing to run.
 
-I believe no-code tools will empower huge chunks of people in a similar way that spreadsheets did from the 80s to today. 
+I believe no-code tools will empower huge chunks of people in a similar way that spreadsheets did. 
 
 It will reduce the need for many expensive niche products and custom software development projects.
 
@@ -44,9 +41,9 @@ This trend could free up so much time for developers to focus on the endless thi
 
 Even though I can write "real" code from scratch, I’ve found that using no-code tools saves me tons of time on most things I work on. It's almost always the tool I pick up first if the point is to solve a problem without needing to optimize for performance or 100% precision.
 
-So, what kinds of things can you do with no-code? I’ll share an example of how I built my site’s customized [mailing list](https://craigsturgis.typeform.com/to/FWPtSS) for free with *almost*[^2] no code.
+So, what kinds of things can you do with no-code? I’ll share an example of how I built my site’s customized [mailing list](https://craigsturgis.typeform.com/to/FWPtSS) for free with *almost*[^1] no code.
 
-[^2]: I could probably make it work across the board with no actual code. But, because I’m a coder at heart my website is [too complex](/posts/great-gatsby-js/) to make it easy to completely use no-code tools for this particular case.
+[^1]: I could probably make it work across the board with no actual code. But, because I’m a coder at heart my website is [too complex](/posts/great-gatsby-js/) to make it easy to completely use no-code tools for this particular case.
 
 ##My Customized (Almost) No-code (Free) Mailing List
 
@@ -104,12 +101,12 @@ When that data is received it kicks off an Integromat “scenario” which:
 
 ###”Or we will say stop. And then seriously, you must stop.”
 
-I did have to write one small piece of actual code[^3] to support unsubscribes. I didn't want to have to ask anyone to type in their email to opt out of new messages[^4]. 
+I did have to write one small piece of actual code[^2] to support unsubscribes. I didn't want to have to ask anyone to type in their email to opt out of new messages[^3]. 
 
 So, a simple javascript “[fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)” call on my unsubscribe page sends the encrypted hash from the link that was clicked to another webhook. That kicks off the automation to opt someone out.
 
-[^3]: You can see pretty much all of the code itself in the screenshot at the top of this post.
-[^4]: I'm not a monster.
+[^2]: You can see pretty much all of the code itself in the screenshot at the top of this post.
+[^3]: I'm not a monster.
 
 ![Unsubscribe Scenario](/img/screen-shot-2020-09-14-at-9.21.33-am.png)
 
@@ -144,9 +141,9 @@ No-code tools are great, and you can accomplish a surprising amount with them.
 
 It can be the right choice in many situations even over writing “real” code.
 
-Save the full coding production for projects that truly need the specialized skills of professional developers[^5]. Everyone involved will be happier.
+Save the full coding production for projects that truly need the specialized skills of professional developers[^4]. Everyone involved will be happier.
 
-[^5]: And make sure they have appropriate help from designers and / or product folks too as the situation requires.
+[^4]: And make sure they have appropriate help from designers and / or product folks too as the situation requires.
 
 If “learning to code” seems like too much, see what you can get done with no-code tools. If you can learn some of the concepts, you might find a super power. If you are good at spreadsheets, I bet you can become good at this. 
 
