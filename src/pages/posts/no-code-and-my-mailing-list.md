@@ -35,7 +35,7 @@ Over time, I’ve learned how to do more and more complex things with these tool
 
 I believe no-code tools will empower huge chunks of people in a similar way that spreadsheets did. 
 
-It will reduce the need for many expensive niche products and custom software development projects.
+They will reduce the need for many expensive niche products and custom software development projects.
 
 This trend could free up so much time for developers to focus on the endless things that require their specialized talents.
 
