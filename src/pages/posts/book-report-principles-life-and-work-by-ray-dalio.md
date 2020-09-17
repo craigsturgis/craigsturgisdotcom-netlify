@@ -4,7 +4,7 @@ title: "Book Report - Principles: Life and Work by Ray Dalio"
 date: 2020-06-30T10:32:00.000Z
 description: My thoughts on Ray Dalio's 2017 book that is right up the alley of
   people like me who are really interested in intentionality
-featuredpost: true
+featuredpost: false
 featuredimage: /img/principles-ray-dalio.png
 tags:
   - bookreport

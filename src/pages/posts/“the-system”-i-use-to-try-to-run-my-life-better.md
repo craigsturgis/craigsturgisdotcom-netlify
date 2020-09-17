@@ -5,7 +5,7 @@ date: 2020-02-18T13:34:27.207Z
 description: >-
   An outline of the habits and tools I rely on, with some background on how I
   got there and why
-featuredpost: true
+featuredpost: false
 featuredimage: /img/300px-light_bulb_edison_series_2150-1-.jpg
 tags:
   - productivity habits tools
