@@ -5,7 +5,7 @@ title: >-
   Approach
 date: 2019-07-16T12:42:49.925Z
 description: My appearance on the Better Product Podcast from Innovatemap
-featuredpost: true
+featuredpost: false
 featuredimage: /img/better-product-podcast-cover.png
 tags:
   - product

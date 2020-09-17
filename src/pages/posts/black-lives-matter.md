@@ -5,7 +5,7 @@ date: 2020-06-04T12:22:12.363Z
 description: >-
   In which I say what I wish didn't need to be said explicitly, and what I'm
   doing about helping to change that.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/justice-everywhere.jpg
 tags:
   - values justice
