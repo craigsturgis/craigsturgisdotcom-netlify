@@ -55,6 +55,6 @@ I hope that more people can use ideas like the principle stack as a shortcut to 
 
 I’m happily pulling the lever *for* Joe Biden ahead of November 3rd. I don’t think one leadership change at the top will solve all of our problems. Far from it. But, right near the top of my stack is a belief in the principle of [working in good faith](/posts/core-values) within the imperfect system we have over tearing it down or finding further ways to undermine it to get what I want. I’ve concluded based on his actions that Biden will do his best to do that in a way that our current president has demonstrated with his actions that he will not. 
 
-If you think that's crazy, we're probably not prioritizing the same things. But, I’m guessing there’s a good chance we probably have more principles in common than we don’t. I'd be curious to have a conversation about how our principle stacks are different and why.
+If you think that's crazy, we're probably not prioritizing the same things. Still, I’m guessing there’s a good chance we probably have more principles in common than we don’t. I'd be curious to have a conversation about how our principle stacks are different and why.
 
 While I breathe, I hope.
