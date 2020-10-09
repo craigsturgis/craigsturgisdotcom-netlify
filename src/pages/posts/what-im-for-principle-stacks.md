@@ -31,7 +31,7 @@ But, that’s a conversation with mutual give and take that needs long stretches
 
 Last year, someone I follow for [tech analysis](https://stratechery.com) introduced a concept that I find to be a simple tool that can help short circuit some of those problems: a [principle stack](https://exponent.fm/episode-177-principle-stacks/)[^2].
 
-[^2]: Ben and James use the concept almost entirely to discuss the principle stack of companies when dealing with China, and I think it's especially brilliant when considering how any organization will behave when it's useful to forecast what that will be.
+[^2]: Ben and James use the concept to discuss the principle stacks of companies when dealing with China, and I think it's especially brilliant to consider what an organization's stack is when considering how it will behave. This is really useful in setting strategy if that's your jam like it is mine.
 
 A principle stack means getting clear on what your principles are as the first step. But, what happens when those principles come into conflict? Which one do you choose over the other? If you were to do this for every one you stand for, you would have a single top to bottom prioritized “stack”.
 
