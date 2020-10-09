@@ -19,7 +19,9 @@ I’m still working to understand why I react this way. It’s part of everyone�
 The most common outcomes of political discussion seem to be: 
 
 1. Feeling great about how strongly we agree and how crazy the “other side” is. 
-2. Talking[^1](Yelling.) past one another, many times to the point of souring what should be meaningful relationships.
+2. Talking[^1] past one another, many times to the point of souring what should be meaningful relationships.
+
+[^1]: Yelling.
 
 I don’t have much interest in either of those. What I want is to get to the heart of what the person I’m talking to is *for* that informs their opinions on a surface issue.
 
