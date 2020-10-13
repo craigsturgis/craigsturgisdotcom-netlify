@@ -1,6 +1,6 @@
 ---
 templateKey: post
-title: "What I'm For: Principle Stacks"
+title: Principle Stacks
 date: 2020-10-09T13:54:15.500Z
 description: A what, how, and why of principle stacks focusing in on political principles
 featuredpost: true
