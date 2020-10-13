@@ -41,6 +41,8 @@ It’s probably the computer scientist in me, but I find myself thinking about a
 
 ## Sorted into a "side"
 
+I've been working on clarifying my own stack focused on the principles that drive my position on the issues of the day. It's hard work to engage and to not revert to being reactive and angry.
+
 I believe the vast majority of people in America share most of the same principles. But, small differences in how we prioritize those principles can seem irreconcilable. Instead of doing the work to try to understand those differences with empathy, it's easier to question motivations. This helps build an increasing and self reinforcing set of grievances. There are people in this world with bad motivations, but far fewer than many people seem to believe.
 
 Now, we're more than ever sorted into two "sides" where what we're against seems to be the main motivator over what we're for. More and more people seem to be giving up on engaging and treating each conflict as a blood fued instead of a family disagreement. It's dangerous territory for our collective common good as Americans and human beings as a whole. Not everything is a zero sum game, but if everything gets treated as one we will all lose.
@@ -51,9 +53,9 @@ We have serious problems to work out amongst ourselves, no matter what the resul
 
 I hope that more people can use ideas like the principle stack as a shortcut to get to the root of issues rather than sticking to the surface level. I'm going to try. If we engage with what the real differences in principle are, we stand a much better chance at a workable path forward.
 
-## Go Joe
+## An Easy Choice
 
-I’m happily pulling the lever *for* Joe Biden ahead of November 3rd. I don’t think one leadership change at the top will solve all of our problems. Far from it. But, right near the top of my stack is a belief in the principle of [working in good faith](/posts/core-values) within the imperfect system we have over tearing it down or finding further ways to undermine it to get what I want. I’ve concluded based on his actions that Biden will try to do that in a way that our current president has demonstrated he will not. 
+I’m happily pulling the lever *for* Joe Biden ahead of November 3rd. I don’t think one leadership change at the top will solve all of our problems. Far from it. But, right near the top of my stack is a belief in the principle of [working in good faith](/posts/core-values) within the imperfect system we have to make it better for all over tearing it down or finding further ways to undermine it to get what I want. I’ve concluded based on his actions that Biden will try to do that in a way that our current president has demonstrated he will not. 
 
 If you think that's crazy, we're probably not prioritizing the same things. Still, I’m guessing there’s a good chance we probably have more principles in common than we don’t. If the situation is right, I'd be curious to have a conversation about how our principle stacks are different and why.
 
