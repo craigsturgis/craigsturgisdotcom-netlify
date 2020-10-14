@@ -1,7 +1,7 @@
 ---
 templateKey: post
 title: Principle Stacks
-date: 2020-10-09T13:54:15.500Z
+date: 2020-10-15T10:10:00.000Z
 description: A what, how, and why of principle stacks focusing in on political principles
 featuredpost: true
 featuredimage: /img/principle-stacks.jpg
@@ -45,7 +45,7 @@ I've been working on clarifying my own stack focused on what drives my position 
 
 I believe the vast majority of people in America share most of the same principles. But, small differences in how we prioritize them can seem irreconcilable. Instead of doing the work to try to understand and empathize with each other, it's easier to question people's motivations. This helps build a self reinforcing set of grievances. Or worse, cynicism about our system in general. There are people in this world with bad motivations, but far fewer than many people seem to believe.
 
-Now, we're increasingly sorting ourselves into two "sides" where what we're against seems to be the main motivator over what we're for. More and more people seem to be giving up on engaging and treating each conflict as a blood fued instead of an argument between siblings. It's dangerous territory for our collective common good as Americans and human beings as a whole. Not everything is a zero sum game where for one person to win someone else has to lose. If everything gets treated as one, we all will end up worse off in the long run.
+Now, we're increasingly sorting ourselves into two "sides" where what we're against seems to be the main motivator over what we're for. More and more people seem to be giving up on engaging and treating each conflict as a blood feud instead of an argument between siblings. It's dangerous territory for our collective common good as Americans and human beings as a whole. Not everything is a zero sum game where for one person to win someone else has to lose. If everything gets treated as one, we all will end up worse off in the long run.
 
 ## Engage.
 
