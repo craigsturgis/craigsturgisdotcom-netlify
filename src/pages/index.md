@@ -21,7 +21,7 @@ intro:
       alt: Craig Sturgis Services
       duration: 2015 - Now
       text: >
-        I act as a fractional CPO/CTO for non technical or experience gapped founders and leaders. I specialize in executive level support on product and/or tech strategy and direction, technology translation, execution assistance, and measuring success in more effective ways. 
+        I act as a fractional CPO/CTO for non technical or experience gapped founders and leaders. I specialize in executive level support and coaching on product and/or tech strategy and direction, technology translation, execution assistance, and measuring success in more effective ways. 
     - image: /img/SmarterHQ-Logo-tile.png
       alt: SmarterHQ
       duration: 2017 - Now
