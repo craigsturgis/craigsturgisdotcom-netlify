@@ -38,7 +38,7 @@ I am making a bet that I can develop and provide services that are less transact
 
 ## Guardrails
 
-I am unashamedly treating my business as a “lifestyle business.” I don’t want to grow a big agency.
+I am unashamedly treating my consulting business as a “lifestyle business.” I don’t want to grow a big agency.
 
 What I do want is to provide tons of value to clients, support a comfortable life for my family, and create the flexibility to be very involved before my kid goes to school and give back to the community.
 
