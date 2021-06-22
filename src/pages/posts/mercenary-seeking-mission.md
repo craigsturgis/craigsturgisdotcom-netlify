@@ -12,21 +12,23 @@ tags:
 ---
 ![This is the way](/img/mandalorian.jpg "The Mandalorian")
 
-The Mandalorian is obligated by creed to reunite the baby with its own kind.
+The Mandalorian is obligated to reunite the baby with its own kind.
 
 Galactica is out to find Earth.
 
 Every house member in Westeros wants to control the iron throne.
 
-Many of my favorite TV series follow a similar structure. Whether they’ve chosen it intentionally or not, the main characters have a mission. But, they also have to solve a lot of other smaller problems during shorter story arcs along the way.
+Many of my favorite TV series follow a similar structure. Whether they’ve chosen it intentionally or not, the main characters have a mission. But, they also have to solve a lot of other problems each episode along the way.
 
-This is how I see the next phase of my career as an independent consultant.
+This is how I see this next phase of my career as an independent consultant.
 
 ## Digital Product Mercenary
 
 In digital product development, you stand the best chance of success if you cultivate a team of [missionaries, not mercenaries.](https://svpg.com/missionaries-vs-mercenaries/)
 
-But, there are times when hiring a mercenary makes sense. I want to be the first choice a leader hires to help assemble, expand, and support their team of missionaries.
+But, there are times when hiring a mercenary makes sense. I want to be the first choice a leader hires to help assemble, expand, and support their team of missionaries.[^1]
+
+[^1]: This is not to suggest these team members, even as missionaries should not be compensated fairly. But, that's another post.
 
 I’ve spent my 15+ years in tech gaining tons of depth in digital product development plus [range](https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214484) across all the other business disciplines in a variety of markets. I want to leverage my experience, my strength in learning quickly, and ability to translate and communicate to help organizations move forward in a better way.
 
