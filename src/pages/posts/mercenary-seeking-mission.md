@@ -18,7 +18,7 @@ Galactica is out to find Earth.
 
 Every house member in Westeros wants to control the iron throne.
 
-Many of my favorite TV series follow a similar structure. Whether they’ve chosen it intentionally or not, the main characters have a mission. But, they also have to solve a lot of other problems in each episode along the way.
+You might be sensing a theme. Many of my favorite TV shows follow a similar structure. Whether they’ve chosen it intentionally or not, the main characters have a mission. But, they also have to solve a lot of other problems in each episode along the way.
 
 This is how I see this next phase of my career as an independent consultant.
 
