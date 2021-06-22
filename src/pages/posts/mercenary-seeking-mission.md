@@ -38,7 +38,7 @@ Digital product development is ***hard***. Many common models for developing the
 
 There are ways to improve your odds though.
 
-I am making a bet that I can develop services that are less transactional and give organizations that are in a few sweet spots a better chance at success by working with me for a few months.
+I am making a bet that I can sustainably develop services that are less transactional. Engagements that give people in a few sweet spots a better chance at success by working with me for a few months, or even just for a workshop or course.
 
 ## Guardrails
 
