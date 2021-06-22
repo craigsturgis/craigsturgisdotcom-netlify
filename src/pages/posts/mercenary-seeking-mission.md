@@ -28,7 +28,7 @@ In digital product development, you stand the best chance of success if you cult
 
 [^1]: This is not to suggest these team members, even as "missionaries" should not be compensated fairly. But, that's another post.
 
-But, there are times when hiring a mercenary makes sense. I want to be the first choice a leader hires to help assemble, expand, and support their team of missionaries.
+But, there are times when hiring a mercenary makes sense. I want to be the first choice a leader hires to help them get to their next milestone. To get them a better start or to help assemble, expand, and support their team of missionaries.
 
 I’ve spent more than 15 years in tech gaining tons of depth in digital product development plus [range](https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214484) across all the other business disciplines. I've built, contributed to, and managed products in multiple types of markets and a couple of different industries. 
 
@@ -48,11 +48,11 @@ What I do want is to provide tons of value to clients, support a comfortable lif
 
 Professionally, my goal is be able to carve out [20% time](https://en.wikipedia.org/wiki/20%25_Project) to experiment with new ideas that interest me, in markets I have less exposure to.
 
-I want to help as many organizations as I can within that framework, with the hope that I find a new spark in the process.
+I want to help as many clients as I can within that framework, with the hope that I find a new spark in the process.
 
 ## My mission
 
-I'm a builder at heart. My mission during this phase is to search for a problem space where I can build a future digital product business. One that produces something best represented by the [meme of “Ikigai.”](https://theviewinside.me/what-is-your-ikigai/)
+I'm a builder at heart. My overall mission during this phase is to find a problem space where I can build a future digital product business. One that produces something best represented by the [meme of “Ikigai.”](https://theviewinside.me/what-is-your-ikigai/)
 
 ![ikigai](/img/ikigai.png "Ikigai")
 
