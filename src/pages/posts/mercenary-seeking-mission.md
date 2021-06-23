@@ -60,8 +60,8 @@ My personal mission during this "series" of consulting engagements is to zero in
 
 I want to do what I’m good at: building something I'm interested in, that makes money. But, I also want that thing to be something that makes the world better in a sustainable way, even if it's small. If I can do that while living as many [great days](/core-values) as I can, then that's the professional dream. [Productive entrepreneurship](https://hbr.org/2017/06/is-america-encouraging-the-wrong-kind-of-entrepreneurship) plus a good life.
 
-Most of the time, it takes 5-15 years to see a business like this through to maturity, assuming it doesn't fail completely along the way.
+Most of the time, it takes 5-15 years to see a business like this through to maturity. Assuming it doesn't fail completely along the way.
 
-When the time is right to fully devote my working life to building something new for that long, I hope to have spent this phase building confidence I've found the right "spot" to make my professional home. The best environment to produce ikigai along the way for me, my family, and as many others as possible.
+When the time is right to devote my working life to building something new for that long, I hope to have spent this phase building confidence I've found the right "spot" to make my professional home. The best environment to produce "ikigai" along the way for me, my family, and as many others as possible.
 
 This is the way.
