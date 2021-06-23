@@ -46,7 +46,7 @@ I am treating my consulting business as a “lifestyle business.” I don’t wa
 
 What I do want is to provide tons of value to clients, support a comfortable life for my family, but also create more flexibility. I want to be as involved as I can with my son in this time before he's in school. I also want to give back to the community more than I have been.
 
-Professionally, my goal is be able to carve out [20% time](https://en.wikipedia.org/wiki/20%25_Project) to experiment with new ideas that interest me, in markets I have less exposure to.
+Professionally, my goal is to be able to carve out [20% time](https://en.wikipedia.org/wiki/20%25_Project) to experiment with new ideas that interest me, in markets I have less exposure to.
 
 My professional mission is to help as many clients as I can within that framework, with the hope that I find a new spark in the process.
 
