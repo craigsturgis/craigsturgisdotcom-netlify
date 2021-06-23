@@ -1,7 +1,7 @@
 ---
 templateKey: post
 title: Mercenary Seeking Mission
-date: 2021-06-23T12:30:00.000Z
+date: 2021-06-23T10:52:00.000Z
 description: "What I'm doing with this next phase of my career          "
 featuredpost: true
 featuredimage: /img/mandalorian.jpg
