@@ -21,7 +21,7 @@ intro:
       alt: Craig Sturgis Services
       duration: 2021 - Now
       text: >
-        I act as a fractional CPO/CTO for non technical or experience gapped founders and leaders. I specialize in executive level support and coaching on product and/or tech strategy and direction, technology translation, execution assistance, and measuring success in more effective ways. 
+        I act as a fractional CPO, CTO, and coach for companies in a few sweet spots depending on their needs. I specialize in executive level support and coaching on product and/or tech strategy and direction, technology translation, product team hiring and lifecycle support, execution assistance, and measuring success in more effective ways. 
     - image: /img/SmarterHQ-Logo-tile.png
       alt: SmarterHQ
       duration: 2017 - 2021
@@ -41,11 +41,11 @@ intro:
       alt: SmarterHQ
       duration: 2011-2014
       text: >
-        Joined as one of the first few employees at SmarterRemarketer, which later rebranded as SmarterHQ. When I joined it was a scrappy enterprise marketing automation startup founded by ExactTarget and data science veterans with a huge vision. As an early engineer, I built core pieces of the product and started and scaled the dedicated technical implementation team and tools as the company grew through closing its $8M series A round from Battery Ventures.
+        (Closed Series A January 2014 led by Battery Ventures) Joined as one of the first few employees at SmarterRemarketer, which later rebranded as SmarterHQ. When I joined it was a scrappy enterprise marketing automation startup founded by ExactTarget and data science veterans with a huge vision. As an early engineer, I built core pieces of the product and started and scaled the dedicated technical implementation team and tools as the company grew through closing its $8M series A round from Battery Ventures.
     - image: /img/Aprimo-tile.png
       alt: Aprimo
       duration: 2006-2011
       text: >
-        (Acquired 2011) Boarded the Aprimo rocket ship mid flight and learned a ton from a lot of great and talented people. Worked as a software engineer on several teams including the flagship MRM product and the reporting and analytics MPM product before moving to work on the first full fledged SAAS offering Aprimo Marketing Studio up through the company's acquisition for $550M by Teradata.
+        (Acquired January 2011 by Teradata) Boarded the Aprimo rocket ship mid flight and learned a ton from a lot of great and talented people. Worked as a software engineer on several teams including the flagship MRM product and the reporting and analytics MPM product before moving to work on the first full fledged SAAS offering Aprimo Marketing Studio up through the company's acquisition for $550M by Teradata.
 
 ---
