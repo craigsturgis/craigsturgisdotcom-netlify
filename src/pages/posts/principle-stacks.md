@@ -1,9 +1,9 @@
 ---
 templateKey: post
-title: Principle Stacks
+title: Principle Stacks and Politics
 date: 2020-10-15T10:10:00.000Z
 description: A what, how, and why of principle stacks focusing in on political principles
-featuredpost: true
+featuredpost: false
 featuredimage: /img/principle-stacks.jpg
 tags:
   - what-im-for
