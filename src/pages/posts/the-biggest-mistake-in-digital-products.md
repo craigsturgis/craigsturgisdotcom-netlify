@@ -25,17 +25,17 @@ Even with the founders taking significantly less than market salaries, our burn 
 
 Months later[^2], we launched. People signed up and used the app, but it was not the overwhelming flood we expected.
 
-[^2] SIX months later to be specific. 🤦‍♂️
+[^2]: SIX months later to be specific. 🤦‍♂️
 
 I was so confused. People kept telling us it was such a good idea! Why were so few people using it?
 
----
+- - -
 
 ## The Mistake
 
 The biggest mistake in digital product development is fooling yourself into believing the specific solution you’re building is more validated than it is.
 
-That’s not to say that the _vision_ you have isn’t something that will succeed. It might even be transformational.
+That’s not to say that the *vision* you have isn’t something that will succeed. It might even be transformational.
 
 But, building a sufficiently valuable subset of your vision is harder and will probably take much longer than you think.
 
@@ -45,7 +45,7 @@ I really feel for everyone grinding away and doing their best trying to make a b
 
 Even when it does work, it reinforces a confidence that is almost certain to backfire at some point on people who haven’t experienced a failure or two.
 
----
+- - -
 
 ## Words to be wary of
 
@@ -55,9 +55,9 @@ The assumption that leadership *knows* exactly what to build is hard to dislodge
 
 Here are some common phrases that should set off alarm bells:
 
-- “Our customers are telling us what they want. We just have to go build it!”
-- Potential customer: “That sounds really great. Let me know when it’s ready and I’ll take a look.”
-- “I just met with (dream prospect) and they said if we build (feature x,y,z), they’ll sign!”
+* “Our customers are telling us what they want. We just have to go build it!”
+* Potential customer: “That sounds really great. Let me know when it’s ready and I’ll take a look.”
+* “I just met with (dream prospect) and they said if we build (feature x,y,z), they’ll sign!”
 
 None of these things are bad in and of themselves, unless they lead you to stop the ongoing process needed to get to the specifics that will make them true.
 
@@ -65,7 +65,7 @@ You need some amount of luck to get the details right no matter what. To make mo
 
 What people **do** is worth so much more than what they say. It’s important to get in position to observe what they actually do as early and often as you can.
 
----
+- - -
 
 ## How not to be fooled
 
@@ -99,7 +99,7 @@ The challenge is that having the wrong kinds of conversations can give you what 
 
 [The Mom test](http://momtestbook.com/) is a short book[^4] and should be required reading for any founder or practitioner in this business.
 
-[^4] The Mom Test is also the best and most natural audiobook in the genre I’ve ever listened to, if you like reading by listening.
+[^4]: The Mom Test is also the best and most natural audiobook in the genre I’ve ever listened to, if you like reading by listening.
 
 More formal [switch interviews](https://www.revealed.market/) are more effort to learn, but pay big dividends.
 
@@ -137,15 +137,15 @@ We did some really cool experiments I’m proud of[^5] and got some really great
 
 [^5]: We even got the cops called on us and our mulch truck by a suburban HOA. I'll leave that story for my cofounder to tell since I wasn't physically there at the time.
 
-But it was too late. We had burned too much money and couldn’t recover enough momentum before we just ran out of cash.
+But, it was too late. We had burned too much money and couldn’t recover enough momentum before we just ran out of cash.
 
 ## “It'll happen to yooooooou”
 
 You might think it was obvious we were making a dumb move in trying to build so much at once.
 
-In my experience it’s by far the most common approach people take when building something new[^6].
+In my experience, it’s by far the most common approach people take when building something new and ambitious[^6].
 
-[^6]: Or, rebuilding something that works but has limitations with new, better tech. This is probably the source of the second biggest mistake.
+[^6]: See also: rebuilding something that works but has limitations with new, better tech. This scenario is probably the source of the second biggest mistake in digital products. It has similar symptoms and often costs **way** more.
 
 Again, sometimes it even works! Just not near as often as it’s tried.
 
@@ -157,6 +157,6 @@ It’s simple, but not easy.
 
 Good luck!
 
----
+- - -
 
 Building something and want my help bending your odds and avoiding mistakes I've made? [Let's chat.](https://savvycal.com/craigsturgis/chat)
