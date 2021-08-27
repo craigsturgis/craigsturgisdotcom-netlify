@@ -29,8 +29,6 @@ Months later[^2], we launched. People signed up and used the app, but it was not
 
 I was so confused. People kept telling us it was such a good idea! Why were so few people using it?
 
-- - -
-
 ## The Mistake
 
 The biggest mistake in digital product development is fooling yourself into believing the specific solution you’re building is more validated than it is.
@@ -44,8 +42,6 @@ I’ve seen this mistake play out directly many times in my career. I hear about
 I really feel for everyone grinding away and doing their best trying to make a big bet pay off. It does work, the odds are just very small.
 
 Even when it does work, it reinforces a confidence that is almost certain to backfire at some point on people who haven’t experienced a failure or two.
-
-- - -
 
 ## Words to be wary of
 
@@ -64,8 +60,6 @@ None of these things are bad in and of themselves, unless they lead you to stop 
 You need some amount of luck to get the details right no matter what. To make more of your own luck, the right details have to be *discovered* alongside customers and users.
 
 What people **do** is worth so much more than what they say. It’s important to get in position to observe what they actually do as early and often as you can.
-
-- - -
 
 ## How not to be fooled
 
@@ -129,7 +123,7 @@ How can you build in a way that you can measure actions and not words sooner?
 
 ## Burn Baby Burn
 
-Back to when I was a cofounder.
+Back to when I was a funded startup cofounder.
 
 After some weeks of scrambling post launch, we did get back to doing things that didn’t scale and found many ways to shorten our feedback loop.
 
