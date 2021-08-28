@@ -5,10 +5,12 @@ date: 2021-08-18T11:00:00.000Z
 description: The most common root cause of failure that plagues everyone trying
   to make something new powered by software.
 featuredpost: true
-featuredimage: /img/better-product-podcast-cover.png
+featuredimage: /img/rake-run-web.png
 tags:
   - product
 ---
+![(sideshow bob grumble)](/img/rake-run-web.png "This is gonna be great!")
+
 ## “That’s one of the best ideas I’ve ever heard.”
 
 My cofounders and I heard different variations of that phrase often when telling people about what we were building. 90% of the time our pitch was met with plenty of encouraging, validating responses.
