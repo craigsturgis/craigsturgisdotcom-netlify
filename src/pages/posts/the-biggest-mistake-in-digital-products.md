@@ -39,7 +39,7 @@ That’s not to say that the *vision* you have isn’t something that will succe
 
 But, building a sufficiently valuable subset of your vision is harder and will probably take much longer than you think.
 
-I’ve seen this mistake play out directly many times in my career. I hear about it from friends, and can even spot it pretty quickly from the outside looking in. It happens at startups, big public companies, and everywhere in between.
+I’ve seen this mistake play out directly many times in my career. I hear about it from friends, and can even spot it pretty quickly from the outside looking in now. It happens at startups, big public companies, and everywhere in between.
 
 I really feel for everyone grinding away and doing their best trying to make a big bet pay off. It does work, the odds are just very small.
 
@@ -47,7 +47,7 @@ Even when it does work, it reinforces a confidence that is almost certain to bac
 
 ## Words to be wary of
 
-So many forces are pushing towards shifting energy away from ongoing discovery and going heads down building until things are “ready.”
+So many forces are pushing energy away from ongoing discovery and toward going heads down building until things are “ready.”
 
 The assumption that leadership *knows* exactly what to build is hard to dislodge, especially when leaders believe it.
 
@@ -85,7 +85,7 @@ Get something interactive in front of your target market as soon as you can. Do 
 
 The most important thing is learning whether it’s useful or at least promising to your target customer. If you can’t get people who aren't already your biggest fans to care or engage regularly, you’re in the danger zone.
 
-If you’re building something new on top of a product that’s already viable, do everything you can to not commit to building unrelated features right after what’s in progress is slated to be done. Especially if you really need what’s in progress to work.
+If you’re building something new on top of a product that’s already viable, do everything you can to not commit to building unrelated features right after what’s in progress is slated to be done. Especially when you really need what’s in progress to work.
 
 ### Talk to target customers the right way
 
@@ -93,7 +93,7 @@ It’s not too controversial to say you should have conversations with customers
 
 [^3]: Don't get me started on faster horses. You're not Steve Jobs, sorry. Not even Steve Jobs was "Steve Jobs" the myth. For another post maybe.
 
-The challenge is that having the wrong kinds of conversations can give you what feels like validation but isn’t. There are great ways to do ongoing research that isn’t heavyweight or expensive.
+The challenge is that having the wrong kinds of conversations can give you what feels like validation but isn’t. There are great ways to do ongoing research that isn’t heavyweight or crazy expensive.
 
 [The Mom test](http://momtestbook.com/) is a short book[^4] and should be required reading for any founder or practitioner in this business.
 
@@ -117,7 +117,9 @@ Most often, “leading” indicators of success won’t be obvious at first. Fin
 
 Plan for the time to update measurements as you learn more over time and find where the correlations are. Being able to measure success indicators should be as core to your product development process as testing that a new change is working.
 
-Again, what your customer and target customers **do** is a much more important validation signal than what they *say* they will do. How can you build in a way that you can measure actions and not words sooner?
+Again, what your customer and target customers **do** is a much more important validation signal than what they *say* they will do. 
+
+How can you build in a way that you can measure actions and not words sooner?
 
 ## Burn Baby Burn
 
@@ -131,20 +133,20 @@ But, it was too late. We had burned too much money and couldn’t recover enough
 
 ## “It'll happen to yoooou”
 
-You might think it was obvious we were making a dumb move in trying to build so much of our vision before launching. We were convinced we had to have pretty much a little bit of everything in place for it to valuable.
+You might think it was obvious we were making a dumb move in trying to build so much of our vision before launching. We were convinced we had to have at least a little bit of every piece in place for it to valuable to customers.
 
 In my experience, it’s by far the most common approach people take when building something new and ambitious[^6].
 
 [^6]: See also: rebuilding something that works but has limitations with new, better tech. This scenario is probably the source of the second biggest mistake in digital products. It has similar symptoms and often costs **way** more.
 
-Again, sometimes it even works! Just not near as often as it’s tried.
+Again, sometimes it works! Just not near as often as it’s tried.
 
 Odds are, most people who do this work will have to learn the lesson the hard way along with me. Maybe more than once.
 
-Find ways to feed your optimism without believing too much of your own hype. It’s simple, but not easy.
+Find ways to feed your optimism without believing too much of your own hype. Never stop investing in effective discovery and testing out insights ASAP. It’s simple, but not easy.
 
 Good luck!
 
 - - -
 
-Building something and want my help bending your odds and avoiding mistakes I've made? [Let's chat.](https://savvycal.com/craigsturgis/chat)
+Building something ambitious and want my help increasing your odds of success and avoiding mistakes I've made or observed? [Let's chat.](https://savvycal.com/craigsturgis/chat)
