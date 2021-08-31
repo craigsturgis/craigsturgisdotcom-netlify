@@ -39,7 +39,7 @@ That’s not to say that the *vision* you have isn’t something that will succe
 
 But, building a sufficiently valuable subset of your vision is harder and will probably take much longer than you think.
 
-I’ve seen this mistake play out directly many times in my career. I hear about it from friends, and can even spot it pretty quickly from the outside looking in now. It happens at startups, big public companies, and everywhere in between.
+I’ve seen this mistake play out directly many times in my career. I hear about it from friends, and can now even spot the symptoms pretty quickly from the outside looking in. It happens at startups, big public companies, and everywhere in between.
 
 I really feel for everyone grinding away and doing their best trying to make a big bet pay off. It does work, the odds are just very small.
 
@@ -73,13 +73,13 @@ In this business you’re budgeting money, people, and time.
 
 Unfortunately you can’t buy time with any amount of money, and you can’t un-spend money you’ve already spent.
 
-Whether you’re putting together an annual operating plan, a product roadmap or deciding how you choose to allocate your sweat equity, it’s all budgeting. Doing it wrong is deadly to businesses.
+Whether you’re putting together an annual operating plan, a product roadmap or deciding how you choose to allocate your sweat equity, it’s all budgeting.
 
 Assume you’ll need more than what it will take just to build the first version of something before you’ll see good results. You’ll probably need a good deal more.
 
-Given that, how does it change your approach to what you budget for?
+Given that, how does it change your approach?
 
-Instead of just planning out features to build, think in terms of the specific goal you’re trying to accomplish with that feature, giving you room to find multiple possible paths to it.
+Instead of just planning out features to build, think in terms of the specific goal you’re trying to accomplish with each feature, giving you room to find multiple possible paths to it. Do your best not to focus on more than one goal at a time.
 
 Get something interactive in front of your target market as soon as you can. Do it even if it’s just to a small private group, and even if it’s all just people behind the scenes and not scalable technology. 
 
@@ -91,9 +91,9 @@ If you’re building something new on top of a product that’s already viable, 
 
 It’s not too controversial to say you should have conversations with customers and potential customers regularly.[^3]
 
-[^3]: Don't get me started on faster horses. You're not Steve Jobs, sorry. Not even Steve Jobs was "Steve Jobs" the myth. For another post maybe.
+[^3]: Don't get me started on faster horses.
 
-The challenge is that having the wrong kinds of conversations can give you what feels like validation but isn’t. There are great ways to do ongoing research that isn’t heavyweight or crazy expensive.
+The challenge is that having the wrong kinds of conversations can give you what feels like validation but isn’t. There are great ways to do ongoing research that aren’t heavyweight or crazy expensive.
 
 [The Mom test](http://momtestbook.com/) is a short book[^4] and should be required reading for any founder or practitioner in this business.
 
@@ -113,9 +113,9 @@ The problem with the financial metrics people focus on is that they happen as th
 
 What can you measure to help you know whether you’re on the right track right now?
 
-Most often, “leading” indicators of success won’t be obvious at first. Finding a product's [north star](https://amplitude.com/north-star) is not as easy as just looking up at what's going on. Take your first best guesses, make sure you can measure them and report on them, then review with your team. 
+Most often, “leading” indicators of success won’t be obvious at first. Finding a product's [north star](https://amplitude.com/north-star) is not as easy as just looking at the sky for the brightest light. Take your first best guesses, make sure you can measure them and report on them, then review with your team. 
 
-Plan for the time to update measurements as you learn more over time and find where the correlations are. Being able to measure success indicators should be as core to your product development process as testing that a new change is working.
+Plan for the time to update measurements as you learn more over time and find where the correlations are. Being able to measure success indicators should be as core to your product development process as testing that a new feature is working.
 
 Again, what your customer and target customers **do** is a much more important validation signal than what they *say* they will do. 
 
@@ -125,9 +125,7 @@ How can you build in a way that you can measure actions and not words sooner?
 
 Back to when I was a funded startup cofounder.
 
-After some weeks of scrambling post launch, we did get back to doing things that didn’t scale and found many ways to shorten our feedback loop. We did some really cool experiments I’m proud of[^5] and got some really great insights from customer interviews.
-
-[^5]: We even got the cops called on us and our mulch truck by a suburban HOA. I'll leave that story for my cofounder to tell since I wasn't physically there at the time.
+After some weeks of scrambling post launch, we did get back to doing things that didn’t scale and found many ways to shorten our feedback loop. We did some really clever experiments I’m proud of and got some really great insights from customer interviews.
 
 But, it was too late. We had burned too much money and couldn’t recover enough momentum before we just ran out of cash.
 
@@ -135,9 +133,9 @@ But, it was too late. We had burned too much money and couldn’t recover enough
 
 You might think it was obvious we were making a dumb move in trying to build so much of our vision before launching. We were convinced we had to have at least a little bit of every piece in place for it to valuable to customers.
 
-In my experience, it’s by far the most common approach people take when building something new and ambitious[^6].
+In my experience, it’s by far the most common approach people take when building something new and ambitious[^5].
 
-[^6]: See also: rebuilding something that works but has limitations with new, better tech. This scenario is probably the source of the second biggest mistake in digital products. It has similar symptoms and often costs **way** more.
+[^5]: See also: rebuilding something that works but has limitations with new, better tech. This scenario is probably the source of the second biggest mistake in digital products. It has similar symptoms and often costs **way** more.
 
 Again, sometimes it works! Just not near as often as it’s tried.
 
