@@ -41,7 +41,7 @@ That’s not to say that the *vision* you have won't succeed if you can make it 
 
 But, building a sufficiently valuable subset of your vision is harder and will probably take much longer than you think.
 
-I’ve seen this mistake play out directly many times in my career. I hear about it from friends, and can now even spot the symptoms pretty quickly from the outside looking in. It happens at startups, big public companies, and everywhere in between.
+I’ve seen this mistake play out directly many times in my career now. I hear about it from friends, and can now even spot the symptoms pretty quickly from the outside looking in. It happens at startups, big public companies, and everywhere in between.
 
 I really feel for everyone grinding away and doing their best trying to make a big bet pay off. It does work, the odds are just very small.
 
@@ -109,7 +109,7 @@ The problem with the financial metrics is that they happen as the result of work
 
 What can you measure to help you know whether you’re on the right track right now?
 
-Most often, “leading” indicators of success won’t be obvious at first. Finding a product's [north star](https://amplitude.com/north-star) is not as easy as looking at the sky for the brightest light. Take your first best guesses, make sure you can measure and report on them, then review with your team.
+Most often, “leading” indicators of success won’t be obvious at first. Finding a product's [north star](https://amplitude.com/north-star) is not as easy as looking at the sky for the brightest light. Take your first best guesses, make sure you can measure and report on them, then review. Including team members is also crucial here.
 
 Plan for the time to update measurements as you learn more over time and find where the correlations are. Being able to measure success indicators should be as core to your product development process as testing that a new feature is working.
 
@@ -119,19 +119,19 @@ How can you build in such a way that you can measure actions and not words soone
 
 ## Burn Baby Burn
 
-Back to when I was a funded startup cofounder.
+Back to 2015.
 
-After some weeks of scrambling post launch, we did get back to doing things that didn’t scale and found many ways to shorten our feedback loop. We did some really clever experiments I’m proud of and got some really great insights from customer interviews.
+After some weeks of scrambling post launch, we did get back to doing things that didn’t scale and found many ways to shorten our feedback loop. We did some really clever experiments I’m proud of and got some great insights from customer interviews.
 
 But, it was too late. We had burned too much money and couldn’t recover enough momentum before we just [ran out of cash](/posts/swing-and-a-miss/).
 
 ## “It'll happen to yoooou”
 
-You might think it was obvious we were making a dumb move in trying to build so much of our vision before launching. We were convinced we had to have at least a little bit of every piece in place for it to valuable to customers.
+You might think it was obvious we were making a dumb move in trying to build so much of our vision before launching. We were convinced we had to have at least a little bit of every piece in place for it to be valuable to customers.
 
 In my experience, it’s by far the most common approach people take when building something new and ambitious[^5].
 
-[^5]: See also: rebuilding something that works but has limitations with new, better tech. This scenario is probably the source of the second biggest mistake in digital products. It has similar symptoms and often costs **way** more.
+[^5]: See also: rebuilding something that works but has limitations with new, better tech. This scenario is probably the source of the second biggest mistake in digital products. It has similar symptoms and usually costs **way** more than people expect.
 
 Again, sometimes it works! Just not near as often as it’s tried.
 
