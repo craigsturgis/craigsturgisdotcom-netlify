@@ -15,11 +15,11 @@ tags:
 
 “That’s one of the best ideas I’ve ever heard.”
 
-My cofounders and I heard different variations of that phrase often when telling people about what we were building. 90% of the time our pitch was met with plenty of encouraging, validating responses.
+My cofounders and I heard different variations of that phrase all the time when telling people about what we were building. Our pitch was met with almost exclusively encouraging, validating responses.
 
-We had built a small alpha test app to gather data to support our pitch and had 25 or so active users from our friends and family.
+We had built a small alpha test app to gather data to support the pitch and had 25 or so active users from our friends and family.
 
-With data in hand from real people in our target market, we strengthened our pitch and relatively quickly closed a million dollar seed round[^1]. Seven figures worth of "validation", and we were going to put it to work.
+With data in hand from real people in our target market, we strengthened our pitch and quickly closed a million dollar seed round[^1]. Seven figures worth of "validation", and we were going to put it to work.
 
 [^1]: At the time in 2014, this was a relatively large seed round, especially for a company based in the midwest.
 
@@ -57,7 +57,7 @@ Here are some common phrases that should set off alarm bells:
 * Potential customer: “That sounds really great. Let me know when it’s ready and I’ll take a look.”
 * “I just met with (dream prospect) and they said if we build (feature x,y,z), they’ll sign!”
 
-None of these things are bad in and of themselves, unless they lead you to stop the ongoing process needed to uncover the specifics that will make them true.
+None of these things are bad in and of themselves. The mistake is when they lead you to stop the ongoing process that uncovers the specifics that can make those statements true.
 
 You need some amount of luck to get the details right no matter what. To make more of your own luck, the right details have to be *discovered* alongside customers and users.
 
@@ -81,7 +81,7 @@ Get something interactive in front of your target market as soon as you can. Do 
 
 The most important thing is learning whether it’s useful or at least promising to your target customer. If you can’t get people who aren't already your biggest fans to care or engage regularly, you’re in the danger zone.
 
-If you’re building something new on top of a product that’s already viable, do everything you can to not commit to building unrelated features right after what’s in progress is slated to be done. Especially when you really need what’s in progress to work.
+If you’re building something new on top of a product that’s already viable, do everything you can to avoid committing to build unrelated features after what’s in progress is slated to be done. Especially when you really need what’s in progress to work.
 
 ### Talk to target customers the right way
 
