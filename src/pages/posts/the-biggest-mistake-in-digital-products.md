@@ -11,31 +11,33 @@ tags:
 ---
 ![(sideshow bob grumble)](/img/rake-run-web.png "This is gonna be great!")
 
-## “That’s one of the best ideas I’ve ever heard.”
+## A Validation Story
+
+“That’s one of the best ideas I’ve ever heard.”
 
 My cofounders and I heard different variations of that phrase often when telling people about what we were building. 90% of the time our pitch was met with plenty of encouraging, validating responses.
 
 We had built a small alpha test app to gather data to support our pitch and had 25 or so active users from our friends and family.
 
-With data in hand from real people in our target market, we strengthened our pitch and relatively quickly closed a million dollar seed round[^1]. Seven figures worth of validation, and we were going to put it to work.
+With data in hand from real people in our target market, we strengthened our pitch and relatively quickly closed a million dollar seed round[^1]. Seven figures worth of "validation", and we were going to put it to work.
 
 [^1]: At the time in 2014, this was a relatively large seed round, especially for a company based in the midwest.
 
-We turned the alpha test off - it was labor intensive and [didn’t scale](http://paulgraham.com/ds.html). We hired a team of people and pivoted to going heads down to build out as much of our expansive vision as we could ahead of launch.
+We turned the alpha test off - it was labor intensive and [didn’t scale](http://paulgraham.com/ds.html). We hired a team of people and went heads down to build out as much of our expansive vision as we could ahead of launch.
 
-Even with the founders taking significantly less than market salaries, our burn rate gave us about a year - there was no time to lose.
+Even with the founders taking way below market salaries, our growing "burn rate" gave us about a year - there was no time to lose.
 
 Months later[^2], we launched. People signed up and used the app, but it was not the overwhelming flood we expected.
 
 [^2]: SIX months later to be specific. 🤦‍♂️
 
-I was so confused. People kept telling us it was such a good idea! Why were so few people using it?
+I was so confused. People kept telling us it was such a good idea! Why wasn't there a flood of users signing up and coming back?
 
 ## The Mistake
 
-The biggest mistake in digital product development is fooling yourself into believing the specific solution you’re building is more validated than it is.
+The biggest mistake in digital product development is believing the specific thing you’re building is "validated" when it's not.
 
-That’s not to say that the *vision* you have isn’t something that will succeed. It might even be transformational.
+That’s not to say that the *vision* you have won't succeed if you can make it a reality. It might even be transformational.
 
 But, building a sufficiently valuable subset of your vision is harder and will probably take much longer than you think.
 
@@ -43,13 +45,11 @@ I’ve seen this mistake play out directly many times in my career. I hear about
 
 I really feel for everyone grinding away and doing their best trying to make a big bet pay off. It does work, the odds are just very small.
 
-Even when it does work, it reinforces a confidence that is almost certain to backfire at some point on people who haven’t experienced a failure or two.
+## Words to be Wary of
 
-## Words to be wary of
+So many forces are pushing energy away from ongoing discovery and toward focusing on just building until things are “ready.”
 
-So many forces are pushing energy away from ongoing discovery and toward going heads down building until things are “ready.”
-
-The assumption that leadership *knows* exactly what to build is hard to dislodge, especially when leaders believe it.
+The assumption that leadership knows *exactly* what to build is hard to dislodge, especially when leaders believe it.
 
 Here are some common phrases that should set off alarm bells:
 
@@ -57,29 +57,25 @@ Here are some common phrases that should set off alarm bells:
 * Potential customer: “That sounds really great. Let me know when it’s ready and I’ll take a look.”
 * “I just met with (dream prospect) and they said if we build (feature x,y,z), they’ll sign!”
 
-None of these things are bad in and of themselves, unless they lead you to stop the ongoing process needed to get to the specifics that will make them true.
+None of these things are bad in and of themselves, unless they lead you to stop the ongoing process needed to uncover the specifics that will make them true.
 
 You need some amount of luck to get the details right no matter what. To make more of your own luck, the right details have to be *discovered* alongside customers and users.
 
 What people **do** is worth so much more than what they say. It’s important to get in position to observe what they actually do as early and often as you can.
 
-## How not to be fooled
+## How Not to be Fooled
 
 It’s really hard to keep your head on straight through this process. Here are the things that I’ve found to be most helpful:
 
-### Budget smarter
+### Budget Smarter
 
-In this business you’re budgeting money, people, and time.
+Whether you’re putting together an annual operating plan, a product roadmap or deciding how you choose to allocate your "sweat equity", it’s all budgeting.
 
-Unfortunately you can’t buy time with any amount of money, and you can’t un-spend money you’ve already spent.
-
-Whether you’re putting together an annual operating plan, a product roadmap or deciding how you choose to allocate your sweat equity, it’s all budgeting.
-
-Assume you’ll need more than what it will take just to build the first version of something before you’ll see good results. You’ll probably need a good deal more.
+Assume you’ll need more time, effort, and money than what it will take to build the first version of something before you’ll see good results. You’ll probably need a good deal more.
 
 Given that, how does it change your approach?
 
-Instead of just planning out features to build, think in terms of the specific goal you’re trying to accomplish with each feature, giving you room to find multiple possible paths to it. Do your best not to focus on more than one goal at a time.
+Instead of just planning out features to build, think in terms of the specific, measurable goal you’re trying to accomplish with each feature. This will give you and your team room to find multiple possible paths to that goal. Do your best not to focus on more than one goal at a time.
 
 Get something interactive in front of your target market as soon as you can. Do it even if it’s just to a small private group, and even if it’s all just people behind the scenes and not scalable technology. 
 
@@ -99,27 +95,27 @@ The challenge is that having the wrong kinds of conversations can give you what 
 
 [^4]: The Mom Test is also the best and most natural audiobook in the genre I’ve ever listened to, if you like reading by listening.
 
-More formal [switch interviews](https://www.revealed.market/) and [continuous discovery](https://www.producttalk.org/2021/05/continuous-discovery-habits/) practices are more effort to learn, but pay big dividends.
+More formal [switch interviews](https://www.revealed.market/) and [continuous discovery](https://www.producttalk.org/2021/05/continuous-discovery-habits/) practices are more effort to learn, but can pay big dividends.
 
 Whatever you do, don’t avoid including key team members from all disciplines when having and especially digesting the customer conversations you have. 
 
-Including members from design, development, etc. often uncovers many more insights vs. trying to translate your own takeaways into “requirements” without that important context for the people crafting the actual solutions that get shipped.
+Including members from design, development, etc. often uncovers many more insights vs. trying to translate your own takeaways into “requirements”. Without that, a ton of important context gets lost for the people crafting the actual solutions.
 
 ### Measure Leading Indicators
 
 It’s easy to figure out whether you’re making the revenue and the margins you need to hit growth and profitability targets.
 
-The problem with the financial metrics people focus on is that they happen as the result of work that was done in the past. Maybe a *long* time in the past.
+The problem with the financial metrics is that they happen as the result of work that was done in the past. Maybe a *long* time in the past.
 
 What can you measure to help you know whether you’re on the right track right now?
 
-Most often, “leading” indicators of success won’t be obvious at first. Finding a product's [north star](https://amplitude.com/north-star) is not as easy as just looking at the sky for the brightest light. Take your first best guesses, make sure you can measure them and report on them, then review with your team. 
+Most often, “leading” indicators of success won’t be obvious at first. Finding a product's [north star](https://amplitude.com/north-star) is not as easy as looking at the sky for the brightest light. Take your first best guesses, make sure you can measure and report on them, then review with your team.
 
 Plan for the time to update measurements as you learn more over time and find where the correlations are. Being able to measure success indicators should be as core to your product development process as testing that a new feature is working.
 
-Again, what your customer and target customers **do** is a much more important validation signal than what they *say* they will do. 
+Again, what your target customers **do** is a much more important validation signal than what they *say* they will do. 
 
-How can you build in a way that you can measure actions and not words sooner?
+How can you build in such a way that you can measure actions and not words sooner?
 
 ## Burn Baby Burn
 
@@ -127,7 +123,7 @@ Back to when I was a funded startup cofounder.
 
 After some weeks of scrambling post launch, we did get back to doing things that didn’t scale and found many ways to shorten our feedback loop. We did some really clever experiments I’m proud of and got some really great insights from customer interviews.
 
-But, it was too late. We had burned too much money and couldn’t recover enough momentum before we just ran out of cash.
+But, it was too late. We had burned too much money and couldn’t recover enough momentum before we just [ran out of cash](/posts/swing-and-a-miss/).
 
 ## “It'll happen to yoooou”
 
@@ -147,4 +143,4 @@ Good luck!
 
 - - -
 
-Building something ambitious and want my help increasing your odds of success and avoiding mistakes I've made or observed? [Let's chat.](https://savvycal.com/craigsturgis/chat)
+Building something ambitious and want my help increasing your odds of success and avoiding this and other mistakes? [Let's chat.](https://savvycal.com/craigsturgis/chat-from-site)
